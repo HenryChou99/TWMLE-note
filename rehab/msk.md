@@ -1,0 +1,429 @@
+---
+title: 復健科 | 三、肌肉骨骼復健
+---
+
+# 三、肌肉骨骼復健
+
+[← 復健科目錄](./) · [首頁](../)
+
+[1. 肩、肘、腕](#1-肩肘腕) · [2. 髖、膝、足](#2-髖膝足) · [3. 關節炎](#3-關節炎) · [4. 脊椎與骨質疏鬆](#4-脊椎與骨質疏鬆) · [5. 運動醫學](#5-運動醫學)
+
+## 1. 肩、肘、腕
+
+**Q1.** <small>[110年第2次 #71](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110080&c=302&s=44&q=1)</small>
+
+病患肩膀活動角度正常，但在進行空罐測驗（empty can test）時呈陽性反應，下列那一條肌腱最可能受傷？  
+A. 肱二頭肌（biceps brachialis）  
+B. 棘上肌（supraspinatus）  
+C. 棘下肌（infraspinatus）  
+D. 肩胛下肌（subscapularis）  
+
+<details><summary>答案</summary><p><b>B</b><br>Empty can（Jobe）= <b>supraspinatus</b>。Infraspinatus：ER resistance；subscapularis：lift-off / belly press；biceps：Speed、Yergason。</p></details>
+
+---
+
+**Q2.** <small>[112年第2次 #77](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112080&c=302&s=44&q=1) 〔臨床實例〕</small>
+
+一位 47 歲男性，最近因工作較多，導致右肩疼痛加劇而來求診。病人自述平常肩膀活動還好，無明顯外傷，肩部外展時疼痛加劇，晚上休息時也會痛。身體檢查發現：右肩外觀沒有紅腫變形，手向前伸直後向上抬舉會有疼痛，但被動式外展時並不會疼痛，背斜方肌亦沒有壓痛點，最有可能的診斷為：  
+A. 纖維肌痛（fibromyalgia）  
+B. 肩軸轉肌損傷（rotator cuff injury）  
+C. 沾黏性肩關節囊炎（adhesive capsulitis）  
+D. 肩關節炎（shoulder osteoarthritis）  
+
+<details><summary>答案</summary><p><b>B</b><br>主動痛、<b>被動不痛/ROM 正常</b> → 肌腱問題（rotator cuff）；adhesive capsulitis 與 OA 為主被動 ROM 皆受限。</p></details>
+
+---
+
+**Q3.** <small>[115年第2次 #72](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115070&c=302&s=0104&q=1) 〔影像題〕</small>
+
+54 歲女性病人左肩疼痛約 2 個月，經左肩關節 X 光及左肩超音波檢查如附圖，最可能之診斷為何？（附圖請見原卷 PDF）  
+A. 肩旋轉環帶破裂（rotator cuff tear）  
+B. 肩旋轉環帶鈣化性肌腱變性（calcific tendinosis）  
+C. 肩部退化性關節炎（degenerative arthritis）  
+D. 肩旋轉環帶外生骨疣（exostosis）  
+
+<details><summary>答案</summary><p><b>B</b><br>X 光肩峰下/大結節上方鈣化影 + 超音波肌腱內強回音伴聲影 → calcific tendinosis（最常 supraspinatus）。</p></details>
+
+---
+
+**Q4.** <small>[111年第2次 #62](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111080&c=302&s=44&q=1)</small>
+
+下列關於網球肘（tennis elbow）之敘述，何者正確？  
+A. 其病理變化以炎性（inflammation）為主  
+B. 通常病變的部位在肌肉、肌腱交接處（musculotendinous junction）  
+C. 通常肘關節的活動度（range of motion）會變差  
+D. 最常侵犯的是橈側伸腕短肌（extensor carpi radialis brevis）肌腱  
+
+<details><summary>答案</summary><p><b>D</b><br>Lateral epicondylitis 本質是 <b>tendinosis（退化）</b>，位於肌腱起點（enthesis），ROM 通常正常。</p></details>
+
+---
+
+**Q5.** <small>[113年第1次 #62](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113020&c=302&s=44&q=1)</small>
+
+有關肘外側上髁炎，下列敘述何者最不適當？  
+A. 最常見的原因為橈側屈腕肌和總伸指肌病變  
+B. 應避免患部的重複性過度使用  
+C. 在軟組織超音波檢查，可能發現在病灶處有肌腱低回音成像  
+D. 可使用口服抗發炎藥物治療  
+
+<details><summary>答案</summary><p><b>A</b><br>主要為 <b>ECRB</b>（伸腕肌）± EDC；FCR 屬內上髁（golfer's elbow）。</p></details>
+
+---
+
+**Q6.** <small>[111年第2次 #71](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111080&c=302&s=44&q=1)</small>
+
+De Quervain's 肌腱腱鞘炎常見以下那兩條肌腱的發炎？①伸拇短肌（extensor pollicis brevis） ②伸拇長肌（extensor pollicis longus） ③外展拇短肌（abductor pollicis brevis） ④外展拇長肌（abductor pollicis longus）  
+A. ①③  
+B. ②④  
+C. ①④  
+D. ②③  
+
+<details><summary>答案</summary><p><b>C</b><br>第一伸肌腔：<b>APL + EPB</b>。Finkelstein test 陽性。</p></details>
+
+---
+
+## 2. 髖、膝、足
+
+**Q7.** <small>[110年第1次 #63](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110020&c=302&s=44&q=1)</small>
+
+王先生在足球賽時，被他隊球員由右膝外側撞擊，聽到「POP」一聲，立即不支倒地。身體檢查發現右膝十分腫脹，關節活動度只能彎曲約 10 至 90 度，下列處置何者最正確？  
+A. 可能有重要韌帶受傷，宜緊急開刀  
+B. 後十字韌帶受損的可能性最高  
+C. 先抽取關節積液或積血  
+D. 立即安排右膝的電腦斷層掃描  
+
+<details><summary>答案</summary><p><b>C</b><br>外側撞擊（valgus）+ pop + 急性血腫 → ACL ± MCL ± 內側半月板（unhappy triad）。張力性血腫先<b>抽吸</b>減痛並助診斷；影像選 MRI；ACL 不需緊急手術。</p></details>
+
+---
+
+**Q8.** <small>[112年第1次 #64](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112020&c=302&s=44&q=1)</small>
+
+膝關節前十字韌帶損傷為常見的運動傷害之一，下列敘述何者最適當？  
+A. 前十字韌帶的作用之一為限制脛骨相對於股骨之外旋  
+B. 前十字韌帶損傷不一定需要手術治療  
+C. 建議用超音波檢測前十字韌帶是否受傷  
+D. 若需手術，一般建議受傷後一週內執行較適宜  
+
+<details><summary>答案</summary><p><b>B</b><br>ACL 限制脛骨<b>前移與內旋</b>；診斷用 MRI；手術通常等急性腫脹消退、ROM 恢復後（數週）；低活動量者可保守治療。</p></details>
+
+---
+
+**Q9.** <small>[115年第1次 #64](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115020&c=302&s=0106&q=1)</small>
+
+有關膝關節十字韌帶損傷，下列敘述何者最不適當？  
+A. 前十字韌帶和後十字韌帶在膝關節內交叉，可提供穩定性  
+B. Lachman test 常用於診斷後十字韌帶損傷  
+C. 前十字韌帶損傷可能伴隨內側副韌帶及內側半月板的損傷  
+D. 前十字韌帶損傷比後十字韌帶損傷常見  
+
+<details><summary>答案</summary><p><b>B</b><br><b>Lachman = ACL</b>（最敏感）；PCL 用 posterior drawer、posterior sag sign。</p></details>
+
+---
+
+**Q10.** <small>[110年第1次 #73](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110020&c=302&s=44&q=1) 〔影像題〕</small>
+
+20 歲男性病患膝關節受傷，接受膝部 X 光及磁振造影檢查如圖，下列何者診斷為錯誤？（附圖請見原卷 PDF）  
+A. 病人有 anterior cruciate ligament tear  
+B. 病人有 bone contusion  
+C. 病人有 lateral meniscal tear  
+D. X 光可看到 Segond fracture  
+
+<details><summary>答案</summary><p><b>C</b><br><b>Segond fracture</b>（外側脛骨平台撕裂性骨折）幾乎等同 ACL tear；常合併外側股骨髁/後外脛骨 bone contusion（pivot shift）。</p></details>
+
+---
+
+**Q11.** <small>[115年第2次 #73](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115070&c=302&s=0104&q=1) 〔影像題〕</small>
+
+65 歲女性病人主訴慢性膝蓋疼痛且最近症狀加劇，X 光及磁振造影檢查如圖，最可能之診斷為何？（附圖請見原卷 PDF）  
+A. rheumatoid arthritis（RA）  
+B. spontaneous osteonecrosis of knee（SONK）  
+C. pigmented villonodular synovitis（PVNS）  
+D. osteogenic sarcoma（OGS）  
+
+<details><summary>答案</summary><p><b>B</b><br>SONK：老年女性、突發/加劇膝痛，多在<b>股骨內髁</b>承重面，MRI 軟骨下 T2 高訊號 + 低訊號線。</p></details>
+
+---
+
+**Q12.** <small>[113年第2次 #74](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113070&c=302&s=44&q=1) 〔臨床實例〕</small>
+
+下列有關分離性骨軟骨炎（osteochondritis dissecans）的敘述，何者最不適當？  
+A. 常見於 70 歲以上的男性，且合併股骨頭部缺血性壞死  
+B. 可出現關節囊內骨小塊游離  
+C. 磁振造影可協助診斷  
+D. 常見於中學生且侵犯踝關節  
+
+<details><summary>答案</summary><p><b>A</b><br>OCD 好發<b>青少年</b>（膝 MFC 外側面最常見，其次距骨、肱骨小頭），可形成 loose body。</p></details>
+
+---
+
+**Q13.** <small>[114年第1次 #64](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=114020&c=302&s=0106&q=1)</small>
+
+有關髂脛束症候群（iliotibial band syndrome），下列敘述何者最不適當？  
+A. 常疼痛於大腿外側  
+B. 扁平足、膝內翻和脛骨內旋都可能是造成的原因  
+C. 冰敷或伸展有助減輕疼痛和炎症  
+D. 必須依賴 MRI 或超音波影像檢查才能確定診斷  
+
+<details><summary>答案</summary><p><b>D</b><br>ITBS 為<b>臨床診斷</b>（跑者、外側股骨髁痛、Noble compression test、Ober test）。</p></details>
+
+---
+
+**Q14.** <small>[113年第2次 #63](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113070&c=302&s=44&q=1)</small>
+
+有關梨狀肌症候群（piriformis syndrome），下列敘述何者最不適當？  
+A. 臨床表現為臀部深層的疼痛，有時合併腰痛或傳動放射麻痛感至腿腳  
+B. 在臀部坐姿或站立姿勢不對時也會發作  
+C. 理學檢查常發現臀部有局部痛點  
+D. 在梨狀肌緊繃測試，將患側下肢屈曲、外展、外旋並施加壓力，即可誘發臀部及下肢的疼痛感  
+
+<details><summary>答案</summary><p><b>D</b><br><b>FAIR test：Flexion、Adduction、Internal Rotation</b>（拉長梨狀肌壓迫坐骨神經）。</p></details>
+
+---
+
+**Q15.** <small>[110年第1次 #62](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110020&c=302&s=44&q=1)</small>
+
+下列何者不是造成足底筋膜炎的致病因素？  
+A. 高弓足（high-arched foot）  
+B. 距下關節旋後（subtalar joint supination）  
+C. 蹠屈（plantar flexion）活動度變差  
+D. 第一蹠趾關節僵硬（hallux limitus）  
+
+<details><summary>答案</summary><p><b>B</b><br>危險因子：扁平足/<b>過度 pronation</b>、高弓足、<b>背屈受限</b>（緊繃小腿）、肥胖、久站。（官方答案 B；C 原文為「蹠屈」，臨床上重點是背屈受限。）</p></details>
+
+---
+
+**Q16.** <small>[112年第2次 #74](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112080&c=302&s=44&q=1) 〔影像題〕</small>
+
+63 歲女性病人，主訴右足底疼痛，於起床著地時特別明顯。超音波檢查如圖，上圖為右側足底筋膜連結至跟骨處，下圖為左側足底筋膜連結至跟骨處，最可能診斷為何？（附圖請見原卷 PDF）  
+A. 跟骨骨髓炎（calcaneal osteomyelitis）  
+B. 腱鞘囊腫（ganglion）  
+C. 足底筋膜炎（plantar fasciitis）  
+D. 足底筋膜斷裂（tear of plantar fascia）  
+
+<details><summary>答案</summary><p><b>C</b><br>晨起第一步痛（first-step pain）；超音波足底筋膜 <b>> 4 mm</b> 增厚、低回音。</p></details>
+
+---
+
+## 3. 關節炎
+
+**Q17.** <small>[110年第2次 #63](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110080&c=302&s=44&q=1)</small>
+
+某 65 歲女性，因長時間走路後引發雙膝疼痛並有早晨雙膝僵硬不適。X-ray 發現膝內側關節腔（medial compartment）狹窄及軟骨下囊腫（subchondral cyst）。下列何者為最正確之診斷？  
+A. 類風濕性關節炎（rheumatoid arthritis）  
+B. 痛風性關節炎（gouty arthritis）  
+C. 退化性骨關節炎（osteoarthritis）  
+D. 感染性關節炎（infectious arthritis）  
+
+<details><summary>答案</summary><p><b>C</b><br>OA X 光：<b>非對稱關節腔狹窄（內側）</b>、骨刺、軟骨下硬化、軟骨下囊腫；晨僵 < 30 分。RA 為對稱性均勻狹窄 + 骨侵蝕。</p></details>
+
+---
+
+**Q18.** <small>[112年第1次 #62](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112020&c=302&s=44&q=1)</small>
+
+有關退化性關節炎（degenerative joint disease），下列敘述何者最不適當？  
+A. 致病因素包括高齡、長期負重、外傷、基因、肥胖等  
+B. 臨床上可見下肢單一負重關節之骨性關節炎  
+C. 髖關節之骨性關節炎機率遠高於膝關節炎  
+D. 上肢多發性骨性關節炎，以大拇指之腕掌關節最會造成疼痛及影響手功能  
+
+<details><summary>答案</summary><p><b>C</b><br><b>膝 OA 最常見</b>，遠多於髖。</p></details>
+
+---
+
+**Q19.** <small>[110年第2次 #64](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110080&c=302&s=44&q=1)</small>
+
+下列何者不是退化性關節炎病人接受熱敷的目的？  
+A. 改善局部血流循環  
+B. 減低疼痛  
+C. 促進關節面軟骨再生  
+D. 使關節周邊肌肉韌帶放鬆  
+
+<details><summary>答案</summary><p><b>C</b><br>熱療效果：止痛、增加血流、增加膠原延展性、肌肉放鬆；<b>不會</b>讓軟骨再生。</p></details>
+
+---
+
+**Q20.** <small>[113年第2次 #64](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113070&c=302&s=44&q=1)</small>
+
+下列何種變形最不常見於類風濕性關節炎（rheumatoid arthritis）的患者？  
+A. 鵝頸變形（swan-neck deformity）  
+B. 鈕扣孔變形（boutonnière deformity）  
+C. 赫伯登結（Heberden nodes）  
+D. 手腕出現尺側偏斜（ulnar deviation）  
+
+<details><summary>答案</summary><p><b>C</b><br>Heberden（DIP）/ Bouchard（PIP）nodes = <b>OA</b>。RA：MCP/PIP、尺側偏斜、swan-neck、boutonnière，DIP 少侵犯。</p></details>
+
+---
+
+**Q21.** <small>[115年第2次 #64](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115070&c=302&s=0104&q=1)</small>
+
+有關類風濕性關節炎（rheumatoid arthritis, RA），下列敘述何者最不適當？  
+A. 是一種自體免疫疾病，特徵是患者免疫系統功能低下  
+B. 會造成滑膜的慢性發炎，甚至引起軟骨的侵蝕與骨頭的破壞  
+C. 抗瓜胺酸化蛋白抗體（ACPAs）呈現陽性反應的病人，一般病情較嚴重且進行較為快速  
+D. 容易造成關節的攣縮及扭曲變形  
+
+<details><summary>答案</summary><p><b>A</b><br>RA 是免疫系統<b>過度活化</b>攻擊自身滑膜。Anti-CCP(+) 預後較差。</p></details>
+
+---
+
+**Q22.** <small>[110年第2次 #62](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110080&c=302&s=44&q=1)</small>
+
+下列關於僵直性脊椎炎之敘述，何者正確？  
+A. 發生肌腱接骨點病變（enthesopathy）的比率高於類風濕性關節炎  
+B. HLA-B27 之陽性率為 100%  
+C. 復健運動須強調脊椎前屈運動  
+D. 症狀發作初期，薦腸關節（sacroiliac joint）X 光影像即可見到骨頭被侵蝕  
+
+<details><summary>答案</summary><p><b>A</b><br>AS：<b>enthesitis</b> 為特徵；HLA-B27 ~90%；運動強調<b>伸展（extension）</b>與姿勢矯正、深呼吸（防駝背）；早期 X 光可正常（MRI 較早）。</p></details>
+
+---
+
+**Q23.** <small>[112年第2次 #64](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112080&c=302&s=44&q=1)</small>
+
+有關僵直性脊椎炎（Ankylosing Spondylitis），下列敘述何者錯誤？  
+A. 屬於血清陰性關節病變（seronegative spondyloarthropathy）  
+B. 其特徵為類風濕因子呈現陰性反應，人類白血球組織抗原 HLA-B27 大多為陽性反應  
+C. 是一種以侵犯脊椎為主的慢性關節炎，男女比率相近，發作的年齡以 35 歲以上居多  
+D. 僵直性脊椎炎的診斷以 1984 年修正版之紐約診斷標準（Modified New York Criteria）為主，HLA-B27 之陽性反應並不是必備的條件之一  
+
+<details><summary>答案</summary><p><b>C</b><br>AS <b>男 > 女</b>（約 2–3:1），多於 <b>< 40 歲（多 20 多歲）</b>發病；inflammatory back pain onset < 40 是要點。</p></details>
+
+---
+
+## 4. 脊椎與骨質疏鬆
+
+**Q24.** <small>[111年第2次 #63](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111080&c=302&s=44&q=1)</small>
+
+人類第三與第四節腰椎間板（intervertebral disc）的內部壓力，在下列何種姿勢時最高？  
+A. 平躺  
+B. 站立  
+C. 坐姿上半身前傾 20 度  
+D. 坐姿上半身直立不前傾  
+
+<details><summary>答案</summary><p><b>C</b><br>Nachemson：平躺 < 站立 < 坐直 < <b>坐姿前傾</b>（前傾持重最高）。</p></details>
+
+---
+
+**Q25.** <small>[110年第1次 #65](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110020&c=302&s=44&q=1)</small>
+
+關於脊柱側彎之敘述，下列何者正確？  
+A. 側彎測量器（scoliometer）主要是測量額平面（frontal plane）的角度  
+B. 脊柱側彎與睡姿有關  
+C. 電刺激對於脊柱側彎有明確的療效  
+D. 背架主要的目的是避免脊柱側彎的惡化  
+
+<details><summary>答案</summary><p><b>D</b><br>Scoliometer 測 Adam forward bending 時的<b>軀幹旋轉角（axial/transverse plane）</b>；Cobb angle 才是額狀面。背架（Cobb 25–40°、骨未成熟）目的是<b>防止惡化</b>，不會矯正。</p></details>
+
+---
+
+**Q26.** <small>[113年第2次 #77](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=113070&c=302&s=44&q=1) 〔臨床實例〕</small>
+
+50 歲老師，最近在上課中感到背痛，休息一下症狀就比較好，但站太久又會疼痛，他因疼痛加劇至急診求診，醫師說他的背痛是緊急情況要馬上處理。病人最不可能是下列何種診斷？  
+A. aortic dissection  
+B. cauda equina syndrome  
+C. spinal stenosis  
+D. epidural abscess  
+
+<details><summary>答案</summary><p><b>C</b><br>Spinal stenosis 為慢性（neurogenic claudication：久站/走路痛、前彎坐下緩解），非急症。其餘為 red flags。</p></details>
+
+---
+
+**Q27.** <small>[115年第2次 #77](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115070&c=302&s=0104&q=1) 〔臨床實例〕</small>
+
+67 歲病人，下背痛兩個月，止痛藥治療無效，由家人帶至急診求診，經病史詢問及身體檢查發現，懷疑為馬尾症候群（cauda equina syndrome），下列敘述何者最不適當？  
+A. 下肢會有不等程度運動與感覺喪失  
+B. 不常見有尿滯留  
+C. 單側或雙側的坐骨神經痛  
+D. 在會陰部有感覺異常  
+
+<details><summary>答案</summary><p><b>B</b><br>CES：<b>尿滯留（最常見、最敏感）</b>、saddle anesthesia、雙側坐骨神經痛、下肢 LMN 無力、肛門括約肌鬆弛 → 緊急 MRI + 減壓。</p></details>
+
+---
+
+**Q28.** <small>[111年第2次 #73](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111080&c=302&s=44&q=1) 〔影像題〕</small>
+
+60 歲男性病患因長期頸部疼痛接受電腦斷層檢查，最可能診斷為？（附圖請見原卷 PDF）  
+A. old vertebral fracture  
+B. ossification of the posterior longitudinal ligament  
+C. ankylosing spondylitis  
+D. tuberculous spondylodiskitis  
+
+<details><summary>答案</summary><p><b>B</b><br>OPLL：東亞人常見，CT 矢狀面椎體後緣條狀骨化，可致頸椎脊髓病變。</p></details>
+
+---
+
+**Q29.** <small>[110年第2次 #60](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110080&c=302&s=44&q=1)</small>
+
+下列何種治療骨質疏鬆的藥物可促進骨合成的活性？  
+A. 雙磷酸鹽類（bisphosphonate）  
+B. 抑鈣激素（calcitonin）  
+C. 副甲狀腺衍生物（teriparatide）  
+D. 選擇性雌激素調節劑（selective estrogen receptor modulator）  
+
+<details><summary>答案</summary><p><b>C</b><br><b>Anabolic</b>：teriparatide/abaloparatide（間歇 PTH）、romosozumab（anti-sclerostin，兼抑制吸收）。其餘為 antiresorptive。</p></details>
+
+---
+
+**Q30.** <small>[112年第1次 #63](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=112020&c=302&s=44&q=1)</small>
+
+有關骨質疏鬆症（osteoporosis），下列敘述何者最不適當？  
+A. WHO 依照骨質密度（BMD）與骨折風險的關係，以 Z 值（Z-score）作為臨床診斷標準。Z 值小於 2.5 即可診斷為骨質疏鬆症  
+B. 骨骼的再塑（remodeling）過程主要由合成骨骼的造骨細胞及溶蝕骨骼的蝕骨細胞來達成  
+C. 骨質疏鬆症本身並無症狀，但發生劇烈疼痛時要懷疑有骨折  
+D. 骨鬆性骨折因病人對跌倒採用不同的防禦機轉而有不同的好發位置，常見部位為髖部、脊椎及手腕  
+
+<details><summary>答案</summary><p><b>A</b><br>停經後女性/≥50 歲男性用 <b>T-score ≤ −2.5</b>；Z-score 用於停經前女性、< 50 歲男性、兒童（≤ −2.0 = below expected range）。</p></details>
+
+---
+
+**Q31.** <small>[115年第1次 #65](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=115020&c=302&s=0106&q=1)</small>
+
+關於骨質疏鬆引起的胸腰椎壓迫性骨折之敘述，下列何者最適當？  
+A. 男性、抽菸均是危險因子  
+B. 通常疼痛在數週內會愈來愈嚴重  
+C. 若損傷處位於脊椎前列（anterior column），通常不需手術固定  
+D. 病人一定有疼痛現象  
+
+<details><summary>答案</summary><p><b>C</b><br>單純前柱壓迫性骨折為<b>穩定</b>骨折 → 保守治療（止痛、背架、早期活動）；疼痛多於數週內改善；約 2/3 無症狀；女性為危險因子。</p></details>
+
+---
+
+## 5. 運動醫學
+
+**Q32.** <small>[111年第1次 #62](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=111020&c=302&s=44&q=1)</small>
+
+下列何種運動方式最適合骨折初期的病人？  
+A. 等長運動（isometric exercise）  
+B. 等張運動（isotonic exercise）  
+C. 延長運動（eccentric exercise）  
+D. 等速運動（isokinetic exercise）  
+
+<details><summary>答案</summary><p><b>A</b><br>固定期間不動關節 → <b>isometric</b>（維持肌力、減少萎縮）。</p></details>
+
+---
+
+**Q33.** <small>[110年第2次 #66](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110080&c=302&s=44&q=1)</small>
+
+在運動選手的訓練中，有所謂超負荷訓練的原則（overload principle of sports training），以下那一項是超負荷訓練原則最不重要的？  
+A. 訓練的頻率（frequency of training）  
+B. 訓練的強度（intensity of training）  
+C. 訓練的場所（place of training）  
+D. 運動模式的種類（type of exercise mode）  
+
+<details><summary>答案</summary><p><b>C</b><br>FITT：Frequency、Intensity、Time（duration）、Type。</p></details>
+
+---
+
+**Q34.** <small>[110年第1次 #67](https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=Q&code=110020&c=302&s=44&q=1)</small>
+
+下列那種疾病不是常造成運動選手在劇烈運動中猝死的原因？  
+A. 肥厚性心肌症（hypertrophic cardiomyopathy）  
+B. 動脈瘤（aortic aneurysms）破裂  
+C. 冠狀動脈異常（coronary artery anomalies）  
+D. 二尖瓣脫垂（mitral valve prolapse）  
+
+<details><summary>答案</summary><p><b>D</b><br>年輕運動員猝死：<b>HCM 最常見</b>、冠狀動脈起源異常、Marfan 主動脈破裂、心肌炎、ARVC、離子通道病。</p></details>
+
+---
+
+[↑ Back to top](#)
