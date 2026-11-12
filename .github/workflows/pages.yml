@@ -23,7 +23,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install mkdocs-material
-      - run: python3 scripts/build_rehab.py
+      - run: python3 scripts/build_questions.py
       - run: mkdocs build --strict
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
