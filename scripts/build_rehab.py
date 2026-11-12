@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build rehab/*.md pages from data/rehab/*.txt.
+"""Build docs/醫學六/復健科考古題.md from data/rehab/*.txt.
 
 Data format:
   ## 大標題          -> new page (section)
@@ -16,7 +16,6 @@ import re, sys, pathlib, collections
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "rehab"
-OUT = ROOT / "rehab"
 
 # exam label -> (考選部 code, subject code)
 EXAMS = {
@@ -31,8 +30,6 @@ def pdf(label, t="Q"):
     code, s = EXAMS[label]
     return f"https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t={t}&code={code}&c=302&s={s}&q=1"
 
-SLUGS = ["neuro", "peripheral", "msk", "pain-modality", "prosthetics",
-         "cardiopulm", "peds", "geriatric", "cancer", "function"]
 
 def parse():
     sections = []  # [title, [items]] where item = ("sub", title) | ("q", dict)
@@ -64,81 +61,39 @@ def parse():
 def render_q(q, n):
     src = f"[{q['exam'].replace('-', '年第')}次 #{q['no']}]({pdf(q['exam'])})"
     tag = f" {q['tag']}" if q["tag"] else ""
-    img = "（附圖請見原卷 PDF）" if "影像" in q["tag"] else ""
-    lines = [f"**Q{n}.** <small>{src}{tag}</small>", "",
-             " ".join(q["stem"]) + img + "  "]
-    lines += [o + "  " for o in q["opts"]]
-    exp = "<br>".join(md_inline(e) for e in q["exp"])
-    lines += ["", f"<details><summary>答案</summary><p><b>{q['ans']}</b><br>{exp}</p></details>", "", "---", ""]
-    return "\n".join(lines)
-
-def md_inline(s):
-    s = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", s)
-    return s
+    img = "（附圖請見原卷）" if "影像" in q["tag"] else ""
+    out = [f"**{n}.** {' '.join(q['stem'])}{img}", ""]
+    out += [f"{o}  " for o in q["opts"]]
+    out += ["", f"<small>{src}{tag}</small>", "", '??? note "答案"', f"    **{q['ans']}**", ""]
+    out += [f"    {e}" + ("  " if i < len(q['exp']) - 1 else "") for i, e in enumerate(q["exp"])]
+    out += [""]
+    return "\n".join(out)
 
 def main():
     sections = parse()
-    assert len(sections) == len(SLUGS), [s[0] for s in sections]
-    OUT.mkdir(exist_ok=True)
     seen = collections.Counter()
-    toc = []
-    for (title, items), slug in zip(sections, SLUGS):
-        nq = sum(1 for k, _ in items if k == "q")
-        subs = [v for k, v in items if k == "sub"]
-        body = ["---", f"title: 復健科 | {title}", "---", "",
-                f"# {title}", "", "[← 復健科目錄](./) · [首頁](../)", ""]
-        if subs:
-            body += [" · ".join(f"[{s}](#{anchor(s)})" for s in subs), ""]
-        n = 0
+    body = ["# 復健科考古題", "",
+            '!!! info "說明"',
+            "    110–115 年醫師（二）醫學（六）復健科題目（每卷第 58–71 題，另收錄第 72–77 題中與復健相關的影像/臨床實例題），章節編號對應[復健科重點筆記](復健科.md)。答案已依考選部更正答案修正。",
+            ""]
+    for i, (title, items) in enumerate(sections, 1):
+        body += [f"## {title}", ""]
+        sub, n = 0, 0
         for k, v in items:
             if k == "sub":
-                body += [f"## {v}", ""]
+                sub += 1
+                body += [f"### {i}.{sub} {re.sub(r'^\d+\.\s*', '', v)}", ""]
             else:
                 n += 1
                 seen[(v["exam"], v["no"])] += 1
                 body.append(render_q(v, n))
-        body += ["[↑ Back to top](#)", ""]
-        (OUT / f"{slug}.md").write_text("\n".join(body), encoding="utf-8")
-        toc.append((title, slug, nq, subs))
-    # coverage check: core rehab block Q58–71 of every paper
-    missing = [(e, i) for e in EXAMS for i in range(58, 72) if (e, i) not in seen]
+    missing = [(e, j) for e in EXAMS for j in range(58, 72) if (e, j) not in seen]
     dup = [k for k, c in seen.items() if c > 1]
     if missing or dup:
         sys.exit(f"missing={missing} dup={dup}")
-    total = sum(seen.values())
-    write_index(toc, total)
-    print(f"built {len(toc)} pages, {total} questions")
-
-def anchor(s):
-    # kramdown auto-id: lowercase, drop punctuation except - and _
-    a = s.strip().lower()
-    a = re.sub(r"[^\w\- ]", "", a)
-    return re.sub(r"\s+", "-", a)
-
-def write_index(toc, total):
-    rows = "\n".join(
-        f"| [{t}]({slug}) | {n} | {'、'.join(subs) if subs else '—'} |" for t, slug, n, subs in toc)
-    exams = " · ".join(f"[{e}]({pdf(e)})" for e in EXAMS)
-    txt = f"""---
-title: 復健科
----
-
-# 復健科
-
-[← 首頁](../)
-
-**範圍**：110–115 年醫師（二）醫學（六），每卷第 58–71 題（復健科區塊），另收錄第 72–77 題中與復健相關的影像/臨床實例題。共 **{total} 題**。
-**答案**：考選部標準答案，已依「更正答案」修正（送分、多答案均註明）。點開「答案」看解析。
-
-| 主題 | 題數 | 子題 |
-|---|---|---|
-{rows}
-
-**原卷 PDF（考選部）**：{exams}
-
-<small>題號標示：「115年第2次 #58」= 115 年第二次醫師二階考試醫學（六）第 58 題。</small>
-"""
-    (OUT / "index.md").write_text(txt, encoding="utf-8")
+    out = ROOT / "docs" / "醫學六" / "復健科考古題.md"
+    out.write_text("\n".join(body), encoding="utf-8")
+    print(f"built {out.relative_to(ROOT)}: {sum(seen.values())} questions")
 
 if __name__ == "__main__":
     main()

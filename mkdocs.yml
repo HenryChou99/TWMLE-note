@@ -1,0 +1,37 @@
+site_name: TWMLE Note
+site_url: https://henrychou99.github.io/TWMLE-note/
+repo_url: https://github.com/HenryChou99/TWMLE-note
+repo_name: TWMLE-note
+
+theme:
+  name: material
+  language: zh-TW
+  font: false
+  features:
+    - navigation.top
+    - navigation.indexes
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+  palette:
+    primary: white
+    accent: blue
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+nav:
+  - 首頁: index.md
+  - 醫學六:
+      - 復健科: 醫學六/復健科.md
+      - 復健科考古題: 醫學六/復健科考古題.md

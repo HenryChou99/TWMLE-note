@@ -1,4 +1,4 @@
-name: Deploy Jekyll site to Pages
+name: Deploy MkDocs site to Pages
 
 on:
   push:
@@ -19,12 +19,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/configure-pages@v5
-      - uses: actions/jekyll-build-pages@v1
+      - uses: actions/setup-python@v5
         with:
-          source: ./
-          destination: ./_site
+          python-version: "3.12"
+      - run: pip install mkdocs-material
+      - run: python3 scripts/build_rehab.py
+      - run: mkdocs build --strict
+      - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./site
 
   deploy:
     needs: build

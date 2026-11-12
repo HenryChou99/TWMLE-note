@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC:wght@400;700&display=swap');
+
+:root {
+  --md-text-font: "LXGW WenKai TC", serif;
+  --md-code-font: "Roboto Mono", monospace;
+}
+
+.md-content h1,
+.md-content h2,
+.md-content h3,
+.md-content h4 {
+  font-weight: 700;
+}
+
+.md-typeset table:not([class]) {
+  font-size: 0.75rem;
+}
