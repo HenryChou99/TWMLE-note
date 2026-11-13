@@ -1,0 +1,985 @@
+## 一、骨科總論
+
+### 生物力學
+
+@113-2#59|A
+有關於生物性組織（biologic tissue）之黏彈性（viscoelasticity）特性敘述，下列何者最不適當？
+A. 受力時會產生變形（deformation），受力解除後會回到原形狀（original shape）
+B. 伸展運動（stretching exercise）即利用此原理
+C. 特性包括蠕變（creep）及應力鬆弛（stress relaxation）
+D. 與受力速率相關（loading rate dependence）
+> A 描述的是**純彈性**。黏彈性：creep（定力下持續變形）、stress relaxation（定長下應力下降）、hysteresis、**速率依賴**；不一定完全回復原形。
+
+### 理學檢查
+
+@110-2#63|D
+有關下肢關節的身體診察，下列敘述何者最適當？
+A. Trendelenburg sign 陽性時，是指病人用健側站立時會產生的徵象
+B. Thomas test 是用來檢查 Achilles tendon 是否斷裂
+C. posterior sagging sign 是用來檢查前十字韌帶是否斷裂
+D. Apley test 是用來檢查膝關節半月狀軟骨是否破裂
+> Trendelenburg：**患側單腳站** → 對側骨盆下降（患側 gluteus medius 無力）；Thomas → **髖屈曲攣縮**；Achilles 斷裂 → **Thompson test**；posterior sag → **PCL**。
+
+## 二、骨折與創傷總論
+
+### 骨折分類與固定
+
+@114-2#57|C
+有關骨折的敘述，下列何者最不適當？
+A. 骨折部位的附近有傷口，不一定是開放性骨折
+B. 即使是開放性骨折，部分病人也能立即接受骨髓內釘固定手術
+C. 根據 Gustilo 分類，骨折部位有嚴重傷口污染，應歸類為 grade II
+D. 若合併大血管斷裂，先將骨折部位穩定再修補血管
+> Gustilo：I < 1 cm 乾淨；II 1–10 cm、軟組織傷中等；**III：> 10 cm、廣泛軟組織傷、高能量、農場/嚴重污染、槍傷、節段性骨折**（IIIA 軟組織可覆蓋、IIIB 需皮瓣、IIIC 需修補血管）。嚴重污染 → **IIIA 以上**。
+
+@113-2#60|B
+下列那一種骨折為一側的皮質骨斷裂，並造成另一側的皮質骨塑形變形（plastic deformation）？
+A. torus（buckle）fracture
+B. greenstick fracture
+C. spiral fracture
+D. transverse fracture
+> 兒童骨骼：**greenstick** = 張力側斷、壓力側彎曲；**torus/buckle** = 壓力側皮質隆起、無斷裂；plastic deformation = 彎曲無骨折線。
+
+@110-1#59|C
+關於石膏（casting）及副木（splinting）固定的原則，下列敘述何者最適當？
+A. 嚴重足踝扭傷使用副木固定時，應將足踝固定在蹠屈 30 度，以獲得最佳固定效果
+B. 某病患足踝骨折後以石膏固定，兩天後抱怨石膏固定處有疼痛情形。此時為避免骨折移位，不可立刻拆除石膏，應密切觀察患部一週，若仍持續疼痛，始可拆除石膏檢視患部
+C. 治療遠端橈骨骨折時，若擔心受傷初期軟組織腫脹過於嚴重，可先使用背側副木（dorsal slab or splint）固定，待一至二週消腫後，再換成石膏固定
+D. 使用石膏固定時，應將石膏材料浸泡在攝氏 60 度以上的熱水中，不可使用室溫的水，以避免石膏硬化的時間過久，影響骨折復位的固定
+> 急性期先用**副木**（容許腫脹）→ 消腫後換石膏。踝固定於**中立 90°**；石膏後疼痛加劇需**立即拆開**檢查（compartment syndrome、壓瘡）；水溫室溫～微溫，熱水會燙傷且硬化太快。
+
+@111-1#58|C
+關於下肢骨折分類及手術的敘述，下列何者最不適當？
+A. 根據 Lauge-Hansen 分類法，造成腳踝骨折常見的機轉為旋後–外旋型（supination-external rotation）
+B. 在 Schatzker 分類法中，第一型是脛骨平台向外側及向下位移的單純劈裂，較常見於年輕人
+C. 使用張力帶鋼絲術治療骨折時，是將骨折處的擠壓力轉換為牽引力或剪力
+D. 股骨頸骨折的 Garden 分類法是根據位移的程度；而 Pauwels 分類法則根據骨折線跟水平面的交角
+> **Tension band 是把張力（distraction）轉換為骨折面的壓縮力**（髕骨、鷹嘴突骨折）。Lauge-Hansen：**SER 最常見**。Schatzker I 外側劈裂（年輕、骨質好）、II 劈裂 + 塌陷（最常見）、III 純塌陷（老人）。
+
+### 骨折併發症
+
+@110-2#57|B
+一位 30 歲男性在大地震倒塌的大樓內被救援人員尋獲，發現雙側下肢有嚴重的壓砸傷及變形，並有休克現象，下列敘述何者最不適當？
+A. 臨床檢查有腔室症候群的症候時，應及早進行筋膜切開手術，不必等腔室壓力測量的結果
+B. 當懷疑有橫紋肌溶解症時，應限制水分的攝取，以免造成嚴重肺積水
+C. 腔室症候群的診斷有所謂的 5 P's，其中以疼痛為最重要的症候
+D. 腔室內壓力正常值應低於 10 毫米汞柱，若超過 30 毫米汞柱以上就要懷疑有腔室症候群
+> Crush syndrome / rhabdomyolysis → **積極輸液**（目標尿量 200–300 mL/h）防 AKI，監測 K⁺。
+
+@110-2#75|A 〔臨床實例〕
+Compartment syndrome 表現的 5 個 P 不包括下列何者？
+A. painless
+B. paresthesia
+C. pulselessness
+D. pressure
+> 5P：**Pain（out of proportion、被動伸展痛，最早最敏感）**、Paresthesia、Pallor、Paralysis、Pulselessness（晚期）；另有 Pressure（腫脹緊繃）。
+
+@111-1#77|A 〔臨床實例〕
+腔室症候群須靠下列那個條件來確定診斷？
+A. 腔室內壓力 > 30 mmHg
+B. 血清肌酸酐濃度 > 2 mg/dL
+C. 血清鉀離子濃度 > 6.0 mmol/L
+D. 血清肌酸激酶濃度（CPK）> 1000 IU/L
+> 客觀診斷：腔室壓 **> 30 mmHg** 或 **ΔP（舒張壓 − 腔室壓）≤ 30 mmHg**。臨床典型即可直接 fasciotomy。
+
+@112-1#58|A
+有關前臂腔室症候群（compartment syndrome）之敘述，下列何者最不適當？
+A. 腔室症候群引發 Volkmann ischemic contracture 時，患部遠端的 intrinsic muscle 不可能有正常的功能
+B. 做被動式伸展動作時會疼痛，為腔室症候群最為敏感的身體診察
+C. 神經缺血通常會導致感覺異常
+D. 即使周邊脈搏還存在，仍無法排除其可能性
+> Volkmann contracture 主要是**前臂深層屈肌**（FDP、FPL）缺血纖維化；手內在肌可正常。**脈搏存在不能排除**。
+
+@113-2#77|D 〔臨床實例〕
+下列何者不是筋膜切開術（fasciotomy）的適應症？
+A. 摸不到遠端脈搏
+B. 6 小時內的腔室壓力 > 30 mmHg
+C. 壞死肌肉組織之清創
+D. 腔室壓力與收縮壓之間差距 > 30 mmHg
+> 指標是 **舒張壓 − 腔室壓 ≤ 30 mmHg**（不是收縮壓、也不是「> 30」）。
+
+@115-1#76|B 〔臨床實例〕
+腔室症候群（compartment syndrome）的治療下列何者最不適當？
+A. 生理食鹽水 1,000～2,000 mL 單次快速輸注
+B. 乳酸林格氏液每小時 1,000 mL 輸注
+C. 監測鉀離子濃度
+D. 監測尿量
+> 橫紋肌溶解防 AKI 用 **NS**；**LR 含 K⁺**（4 mEq/L），高血鉀風險時避免。
+
+@112-2#57|C
+30 歲男性病人左側股骨幹骨折，下午接受骨髓內鋼釘固定手術，值班時接到護理站通知病人意識模糊，皮膚點狀出血，瞳孔直徑正常，雙側等大，對光有反應，下列敘述何者最不適當？
+A. 胸部 X 光片會出現暴風雪的外觀（"snowstorm" appearance）
+B. 病人可能缺氧及血小板低下
+C. 要懷疑有頭部外傷腦壓升高，應該儘速給與 mannitol 點滴注射降低腦壓
+D. 給與支持性治療，必要時可加上類固醇治療
+> **Fat embolism syndrome**（長骨骨折/髓內釘後 24–72 h）：**Gurd 三主徵 = 呼吸窘迫 + 神經症狀 + 點狀出血（腋下、結膜）**；snowstorm CXR、血小板↓。支持療法、**早期固定**預防。
+
+@114-2#59|D
+一位大專甲組運動員發生壓力性骨折（stress fracture），下列敘述何者最不適當？
+A. 增加運動量時就會疼痛
+B. 可能會發生在骨盆、股骨頸、脛骨、舟狀骨（navicular）與蹠骨等部位
+C. 女性運動員合併營養不良、骨質疏鬆與月經停止時，容易發生
+D. 最佳的治療方式是以手術復位後骨釘固定
+> 多數**保守**（休息、減量、保護性負重）；高風險部位才考慮手術：**股骨頸張力側（superolateral）**、前側脛骨幹（dreaded black line）、navicular、5th MT（Jones）。Female athlete triad。
+
+### 多重創傷與骨盆骨折
+
+@113-1#77|C 〔臨床實例〕
+有關穿刺性肢體受傷的敘述，下列何者最正確？
+A. 上肢比下肢較易發生血管受傷
+B. 神經受傷則有可能神經旁的血管也受傷，應立即照會血管相關外科醫師
+C. 肢體受傷處聽診發現有雜音，則有可能血管受傷，應立即照會血管相關外科醫師
+D. 肢體的傷口發現有血管在噴血，最好的止血方法是用器械夾住噴血血管
+> **Hard signs**（搏動性出血、擴大/搏動性血腫、**bruit/thrill**、脈搏消失、遠端缺血）→ 直接手術。噴血先**直接加壓**，盲夾會傷神經。
+
+@111-1#57|C
+有關骨盆骨折（pelvic fracture）之敘述，下列何者最不適當？
+A. 大部分的骨盆骨折是穩定骨折，保守治療即可得到很好的療效
+B. 病人可能會伴隨有神經損傷
+C. 許多病人可能發生大腿的腔室症候群（compartment syndrome）
+D. 不穩定的骨盆骨折治療後，病人可能會有下背痛的後遺症
+> 骨盆骨折常見合併：出血（後腹腔，**靜脈叢 > 動脈**）、**尿道傷**、腰薦神經叢損傷；大腿腔室症候群罕見。
+
+@111-2#57|D
+25 歲男性騎車被卡車輾壓受傷，在急診室血壓 90/50 mmHg，脈搏 110 次／分，呼吸急促，腹部鼓脹，生殖器尿道口有血跡，雙側下肢不等長，下列敘述與處置何者最不適當？
+A. 應確保呼吸道通暢，並儘速建立大管徑靜脈導管，給與大量靜脈輸液及輸血治療
+B. 應排除氣血胸、腹腔內出血急症，儘速安排腹部超音波及 diagnostic peritoneal lavage
+C. 要懷疑合併骨盆骨折及關節脫臼，可能有後腹膜腔出血，及早使用骨盆加壓帶（pelvic binder）
+D. 應立即放置導尿管（Foley catheter），確保並有效監控靜脈輸液量及電解質平衡
+> **尿道口出血 = 疑尿道斷裂 → 禁放 Foley，先做逆行性尿道攝影（RUG）**；必要時恥骨上膀胱造口。
+
+@115-1#60|D
+35 歲男性因車禍導致骨盆骨折，血壓穩定，但身體診察發現有血液從陰莖的尿道口流出。應最優先考慮下列何者？
+A. 立即放置導尿管
+B. 骨盆腔的超音波檢查
+C. 動脈攝影檢查及血管栓塞治療
+D. 動態性逆行性尿道造影術檢查
+> 同上：**RUG first**。
+
+@114-2#58|B
+下列關於骨盆骨折相關損傷（associated injuries）的敘述，何者最不適當？
+A. 不穩定型骨盆骨折須注意是否合併神經損傷
+B. L3 至 S1 的神經根損傷，其整體預後比周邊神經損傷要好
+C. 男性的尿道損傷發生率高於女性
+D. 尿道口有血跡時，置放 Foley 氏導尿管前應先安排逆行性尿道造影檢查
+> 神經根（特別是 avulsion）損傷預後**比**周邊神經損傷差。男性後尿道（membranous）較易受傷。
+
+## 三、上肢創傷
+
+### 肩與肱骨
+
+@115-1#61|D
+有關典型的外傷性肩關節前向脫臼（anterior dislocation）之敘述，下列何者最不適當？
+A. 30 歲以下的年輕人較常發生
+B. 也會發生在老年人，而且常有合併傷害
+C. 常發生 Bankart 氏病灶（Bankart lesion）
+D. 年輕人不易發生復發，通常不需手術治療
+> **年紀越輕再脫臼率越高**（< 20 歲可達 70–90%）→ 年輕運動員常考慮手術（Bankart repair）。老人：rotator cuff tear、GT fracture、axillary n. 損傷。
+
+@115-2#72|C 〔影像題〕
+35 歲男性病人跌倒後被送到急診室，左肩劇烈疼痛且肩膀無法活動。他的左肩電腦斷層橫切面影像如圖所示，下列關於病況的敘述何者最恰當？
+A. 這是肩盂肱關節（glenohumeral joint）最常見的脫臼
+B. 這類病患肩盂前部（anterior glenoid）會比肩盂後部（posterior glenoid）更容易受到損傷
+C. 這類病患未治療前，肩部無法做出外轉（external rotation）的動作
+D. 這類病患大部分都需要緊急開刀
+> **Posterior dislocation**（癲癇、電擊）：手臂鎖在**內收內轉、無法外轉**；X 光 **light bulb sign**、reverse Hill-Sachs（McLaughlin）；AP 易漏，需 axillary / Y view 或 CT。
+
+@113-1#59|A
+20 歲男性，兩天前車禍時左肩受到直接撞擊，造成嚴重腫痛及瘀青，經急診 X 光檢查發現肱骨近端骨折，包含肱骨頸及大、小結節（tuberosity）骨折移位，皆超過 1 公分，下列各項手術中，何者最適當？
+A. 開放性復位及內固定治療
+B. 半肩人工關節置換
+C. 閉鎖性復位及經皮鋼針固定治療
+D. 全肩人工關節置換
+> Neer 4-part fracture：**年輕人 → ORIF**（保留肱骨頭）；老人骨質差 → **reverse TSA** / hemiarthroplasty。Neer：移位 > 1 cm 或成角 > 45° 才算一 part。
+
+### 肘與前臂
+
+@110-1#58|D
+關於橈骨頭部骨折（radial head fracture）之敘述，下列何者最不適當？
+A. 多數的受傷機轉是跌倒時手肘伸直手掌撐地造成
+B. 若未合併韌帶損傷或其他骨折，則大部分單純橈骨頭部骨折可採用保守治療
+C. 骨折後若前臂旋後和旋前的範圍受限，即符合手術治療的適應症
+D. 合併關節內的骨折塊或游離小體時，可採保守治療
+> Mason：I 無位移（保守、早期活動）、II 位移 > 2 mm（ORIF，若有**機械性阻擋旋轉**）、III 粉碎（置換/切除）、IV 合併脫臼。Loose body → 手術移除。
+
+@113-1#58|C
+關於單純性肘關節脫臼（simple elbow dislocation）之敘述，下列何者最不適當？
+A. 閉鎖復位後，通常肘關節穩定，較少發生慢性再發性脫臼
+B. 前向脫臼比後向脫臼少見
+C. 閉鎖復位後，若肘關節穩定，仍需以石膏副木固定肘關節至少 2 個月
+D. 閉鎖復位後，若肘關節不穩定，可考慮手術治療
+> 肘關節易**僵硬** → 穩定者短期固定（**≤ 1–2 週**）後早期活動。Terrible triad = 後脫臼 + 橈骨頭骨折 + coronoid 骨折。
+
+@112-2#72|D 〔影像題〕
+病人跌倒後被送到急診室，左手肘劇烈疼痛且無法活動。他的左手肘 X 光片側面照的影像如圖所示，下列敘述何者最恰當？
+A. 可明顯發現肱骨骨折
+B. 可明顯發現橈骨骨折
+C. 生長板尚未癒合
+D. 可明顯發現關節積液（joint effusion）
+> **Fat pad sign**：前 fat pad 抬起（sail sign）或**看見 posterior fat pad** = 關節積血 → 懷疑隱匿性骨折（成人橈骨頭、兒童 supracondylar）。
+
+@115-1#59|D 〔影像題〕
+下列 X 光片的骨折診斷，何者最適當？
+A. Colles fracture
+B. Galeazzi fracture
+C. boxer's fracture
+D. Monteggia fracture
+> **Monteggia = 尺骨近端骨折 + 橈骨頭脫臼**（PIN 損傷）；**Galeazzi = 橈骨遠端 1/3 骨折 + DRUJ 脫臼**。口訣 MUGR：Monteggia–Ulna、Galeazzi–Radius。
+
+### 腕與手部骨折
+
+@110-1#62|B
+跌倒時若手臂伸直且手掌直接著地，因而導致腕骨骨折且腕部的橈側疼痛，其骨折最常見的是下列何者？
+A. 月狀骨（lunate）
+B. 舟狀骨（scaphoid）
+C. 大多角骨（trapezium）
+D. 小多角骨（trapezoid）
+> FOOSH → **scaphoid**（最常見腕骨骨折）；**anatomical snuffbox 壓痛**；X 光初期可陰性 → 先 thumb spica，7–14 天後重照或 MRI。
+
+@112-2#61|B
+一位大學生跌倒右手撐地後一個月，手腕仍持續有疼痛的感覺，觸痛的位置如圖箭頭所示，最可能是那個腕骨骨折？
+A. 豆狀骨（pisiform）
+B. 舟狀骨（scaphoid）
+C. 月狀骨（lunate）
+D. 鈎狀骨（hamate）
+> Scaphoid 血流**由遠端往近端**（dorsal carpal branch of radial a.）→ 腰部/近端骨折易 **AVN、nonunion**（→ SNAC wrist）。
+
+@110-2#58|D
+Bennett fracture 是拇指的掌指骨折併關節脫臼，最可能由下列那一條肌腱牽拉所造成？
+A. 橈側伸腕短肌腱
+B. 橈側伸腕長肌腱
+C. 伸拇長肌腱
+D. 外展拇長肌腱（abductor pollicis longus tendon）
+> Bennett：第一掌骨基部**關節內兩片**骨折；掌尺側小骨片被 volar oblique ligament 固定，主骨片被 **APL 往近端背橈側拉**（+ adductor pollicis）→ 不穩定，CRPP/ORIF。
+
+@112-2#58|A
+盧先生因玩滑板不慎跌倒後，用手先去撐地板，導致大拇指變形，經 X 光照射後顯示骨折的形態為大拇指掌骨基底的複雜粉碎性關節內骨折，下列何者診斷最適當？
+A. Rolando fracture
+B. Bennett fracture
+C. Jones fracture
+D. boxer's fracture
+> **Rolando = 粉碎性（Y/T 形）**拇指掌骨基部關節內骨折；Bennett = 兩片；Jones = 5th MT 基部 metaphyseal-diaphyseal（足）；Boxer = 5th 掌骨頸。
+
+@111-1#61|C
+六十多歲退休的王太太十多年前手腕曾經受傷，手腕旋轉長期出現疼痛，經檢查發現遠端橈尺骨關節有嚴重關節炎。下列何種手術最不適當？
+A. Darrach procedure
+B. hemi-resection arthroplasty
+C. Adam procedure
+D. Sauvé-Kapandji procedure
+> DRUJ arthritis：**Darrach**（尺骨頭切除，老人）、hemiresection-interposition、**Sauvé-Kapandji**（DRUJ 融合 + 近端尺骨 pseudarthrosis）、尺骨頭置換。**Adams procedure = DRUJ 不穩定的韌帶重建**（關節炎不適用）。
+
+@114-2#61|A
+30 歲的卡車司機，因手腕中央疼痛多年，影像學檢查發現月狀骨缺血性壞死。下列治療方式何者最不適當？
+A. 橈骨延長術（radial lengthening）
+B. 頭狀骨縮短術（capitate shortening）
+C. 帶血管的自體骨移植（vascularized autograft）
+D. 月狀骨切除及部分腕關節融合
+> **Kienböck disease** 與 **ulnar negative variance** 相關 → 卸載月狀骨：**radial shortening**（或 ulnar lengthening）、capitate shortening；延長橈骨會加重月狀骨負荷。
+
+## 四、下肢創傷
+
+### 髖部與骨盆
+
+@111-2#63|D 〔影像題〕
+一位 25 歲的年輕男性因為車禍，X 光檢查如圖所示，下列敘述與處置何者最適當？
+A. 根據 Garden 氏分類，屬於 stage II 不完全骨折（incomplete fracture）
+B. 建議施行雙極式人工半髖關節置換術（bipolar hemiarthroplasty）
+C. 發生股骨頭缺血壞死以及骨折不癒合的機率很高，手術前應該先做 bone scan 評估
+D. X 光片顯示 Shenton line 不連續，代表骨折移位的程度較大
+> Garden I 不完全/外翻嵌插、II 完全無位移、III 部分位移、IV 完全位移。**年輕人股骨頸骨折 → 緊急復位 + 內固定**（保留股骨頭）；老人位移型 → 關節置換。
+
+@112-1#73|B 〔影像題〕
+20 歲男性病人因車禍左髖關節腫痛。圖為本次就診之左髖關節 X 光攝影及電腦斷層影像。最可能的診斷為何？
+A. anterior hip fracture-dislocation
+B. posterior hip fracture-dislocation
+C. heterotopic ossification following dislocation
+D. avascular necrosis of femoral head
+> **Dashboard injury** → 後脫臼（約 90%）± 後壁骨折：肢體**屈曲、內收、內旋**、縮短；**坐骨神經（peroneal division）**損傷；6 小時內復位降低 AVN。
+
+@111-2#58|A
+下列關於髖臼解剖構造及損傷後相關檢查的敘述，何者最適當？
+A. 髖臼是由三向放射狀軟骨（triradiate cartilage）組成，並由透明軟骨所覆蓋
+B. 兩種骨盆斜位照（oblique views）藉由朝向或遠離患側傾斜 60 度拍攝，補骨盆正位前後照的不足
+C. 內斜位照（obturator view）可展現後柱，包含坐骨棘及髖臼前壁
+D. 外斜位照（iliac view）可展現前柱及髖臼後緣
+> **Judet views 傾斜 45°**：**Obturator oblique → 前柱 + 後壁**；**Iliac oblique → 後柱 + 前壁**（口訣：O-A-P、I-P-A）。髖臼由 ilium、ischium、pubis 在 triradiate cartilage 會合。
+
+@115-2#57|C 〔影像題〕
+關於附圖髖關節正位前後照（AP view）中各個解剖標記（landmarks）的敘述，何者最不適當？
+A. 編號 1 的實線為髂恥線（iliopectineal line），起始自坐骨大切跡，向下往恥骨結節延伸
+B. 編號 2 的虛線為髂坐線（ilioischial line），是由髂骨方形區的後側五分之四所構成
+C. 編號 5 的實線為髖臼頂（roof of the acetabulum）
+D. 編號 6 的虛線為髖臼後唇的邊緣（edge of the posterior lip of the acetabulum）
+> Letournel 6 線：iliopectineal（前柱）、ilioischial（後柱）、teardrop、roof、anterior rim、posterior rim。（官方答 C，需對照原圖。）
+
+@111-2#59|B
+下列肌肉與造成骨盆及髖部撕除性骨折（avulsion fracture）的組合，何者最不適當？
+A. 腹部肌肉（abdominal muscle）與髂嵴（iliac crest）
+B. 股直肌（rectus femoris）與髂前上棘（ASIS）
+C. 繩肌（hamstring muscle）與坐骨結節（ischial tuberosity）
+D. 髂腰肌（iliopsoas）與股骨小轉子（lesser trochanter）
+> **ASIS ← sartorius、TFL；AIIS ← rectus femoris**。青少年運動員 apophyseal avulsion，多保守。
+
+### 膝與小腿
+
+@113-2#58|C
+28 歲橄欖球選手在比賽中發生膝關節變形脫臼，抬上擔架後膝關節就自動復位，下列敘述與處置何者最不適當？
+A. 可能會合併十字韌帶、內外側副韌帶斷裂及半月板破裂，應該要安排磁振造影檢查
+B. 要注意急性血管斷裂受傷的風險
+C. 觸診 dorsalis pedis 及 posterior tibial 動脈，如果搏動正常可以排除血管受損的風險
+D. 可能造成 unhappy triad，受傷的部位包括：前十字韌帶、內側副韌帶和內側半月板
+> 膝脫臼 → **popliteal artery** 損傷 20–40%（內膜撕裂可延遲阻塞）；脈搏正常**不能排除** → 測 **ABI（< 0.9 → CTA）**、連續追蹤。另注意 peroneal n.
+
+@112-1#59|C
+職業籃球選手於比賽中上籃投球後跌坐在地上，被診斷出髕骨肌腱斷裂（patellar tendon rupture），下列敘述何者最不適當？
+A. 通常發生的年齡小於 40 歲
+B. 病人無法主動將膝蓋伸直
+C. 膝蓋骨的位置會比正常來得更低位（patella baja）
+D. 肌腱斷端修補後應該利用鐵絲將髕骨與脛骨作固定
+> 髕骨肌腱斷裂 → **patella alta**（髕骨被四頭肌往上拉）；**quadriceps tendon** 斷裂（> 40 歲）→ patella baja。Insall-Salvati ratio。
+
+### 踝與足
+
+@114-1#57|B
+20 歲男性足球比賽中間被絆倒，足部受傷時是在內翻（inversion）及蹠屈（plantar flexion）的姿勢，急診室檢查發現足踝瘀青腫脹，下列敘述何者最不適當？
+A. 可能造成外側足部韌帶的受傷，最常受傷的是 anterior talofibular ligament
+B. 可能造成內側三角韌帶（deltoid ligament）的撕除性骨折
+C. 可能造成雙踝骨折或三踝骨折
+D. 可能造成脛腓骨聯合（syndesmosis）的受傷，造成關節不穩定
+> 內翻 → 外側韌帶拉傷（**ATFL > CFL > PTFL**）、**內踝受壓迫（垂直剪力骨折）**而非三角韌帶撕脫；三角韌帶受傷是**外翻/外旋**機轉。Ottawa ankle rules 決定是否照 X 光。
+
+## 五、運動醫學
+
+### 肩
+
+@110-1#60|D
+有關肩關節的前側不穩定性之不安測試（apprehension test）的敘述，下列何者最不適當？
+A. 病人可採平躺或坐姿方式進行檢查
+B. 病人平躺時，檢查者宜站在病人側方
+C. 病人採坐姿時，檢查者宜站在病人後方
+D. 測試時，將肩關節從外展 90 度及旋轉 0 度，往內旋做到最大極限
+> Anterior apprehension：肩**外展 90° + 外旋（ER）**，病人恐懼脫臼；relocation test（向後推肱骨頭緩解）確認。
+
+@110-2#59|D
+下列有關肩關節不穩定度的檢查，何者正確？
+A. Jahnke test 用來檢查 anterior instability
+B. apprehension test 用來檢查 posterior instability
+C. sulcus test 用來檢查 anterior instability
+D. Kim test 用來檢查 posterior instability
+> Anterior：apprehension、relocation、anterior drawer。**Posterior：Jerk（Jahnke）test、Kim test**（posteroinferior labrum）。**Inferior / MDI：sulcus sign**。
+
+@115-2#59|C
+關於肩關節盂肱關節（glenohumeral joint）的解剖結構，下列敘述何者最適當？
+A. 盂肱韌帶是界線分明的帶狀韌帶，其膠原纖維呈平行排列
+B. 肩胛骨與胸廓之間存在一個真正的滑液關節（synovial joint）
+C. 鎖骨是上肢與中軸骨骼之間唯一的骨性連接
+D. 肩盂窩的關節面積，約為肱骨頭的二分之一，提供了良好的穩定性
+> 唯一骨性連接：**SC joint（鎖骨）**。Scapulothoracic 為**功能性**關節（非滑液關節）；GH 韌帶是關節囊增厚；glenoid 約肱骨頭 1/3–1/4，穩定靠 labrum、韌帶、rotator cuff（golf ball on tee）。
+
+@111-1#59|A
+一位 45 歲男性與別人比賽臂力時肩膀出現劇痛，上臂肌力減弱，產生卜派的上臂形狀（Popeye appearance of the arm），其最可能的診斷是下列何者？
+A. 肱二頭肌長頭肌腱斷裂
+B. 肱二頭肌短頭肌腱斷裂
+C. 肱三頭肌長頭肌腱斷裂
+D. 肱三頭肌短頭肌腱斷裂
+> **近端 long head 斷裂 → Popeye sign**，功能影響小，多保守。遠端 biceps 斷裂（reverse Popeye、hook test）→ 旋後力量大減，年輕人修補。
+
+### 膝
+
+@115-2#61|D
+一位 25 歲籃球選手跳起落地時，聽到右膝「啪」一聲，隨後膝關節劇痛無法伸直。理學檢查發現右膝屈曲無法完全伸直，Lachman test 陽性，anterior drawer test 陽性。磁振造影顯示前十字韌帶完全斷裂合併外側半月板破裂。下列關於治療的敘述何者最適當？
+A. 前十字韌帶重建必須延遲至傷後 6 個月，以降低關節僵硬風險
+B. 年輕運動員應優先考慮前十字韌帶初級修補，而非重建
+C. 前十字韌帶重建後，可立即開始全範圍膝關節活動
+D. 同時進行半月板修補和前十字韌帶重建
+> 無法伸直（locked knee，bucket-handle tear）→ 早期手術，**半月板修補 + ACL 重建同時**（ACL 重建同時修補癒合率較高）。ACL 斷裂以**重建**為主。
+
+@115-2#77|B 〔臨床實例〕
+一位 27 歲運動員膝蓋受傷，如懷疑有前十字韌帶受傷，則下列何種檢查陽性可以證實診斷？
+A. Varus stress test
+B. Lachman test
+C. Thomas test
+D. FABER test
+> **Lachman**（屈膝 20–30°）最敏感；pivot shift 最特異。
+
+@113-1#60|C
+有關膝關節前十字韌帶（ACL）之敘述，下列何者最不適當？
+A. 防止脛骨前方移行（anterior tibial translation）
+B. 在膝關節進行螺旋轉動復位機轉（screw-home mechanism）時，引導脛骨做外旋轉
+C. 在膝關節伸直時，後外側束（posterolateral bundle）是鬆弛的
+D. 根據其脛骨的嵌入點，分為前內側束及後外側束
+> **伸直時 PL bundle 緊繃**（控制旋轉）、**屈曲時 AM bundle 緊繃**（控制前移，anterior drawer 測 AM）。
+
+@114-2#73|A 〔影像題〕
+20 歲男性病人因打球摔傷，膝部疼痛接受電腦斷層檢查，發現脛骨近端有骨折如圖。最可能合併下列何者傷害？
+A. 前十字韌帶（ACL）
+B. 後十字韌帶（PCL）
+C. 內側副韌帶（MCL）
+D. 臏韌帶（patellar ligament）
+> **Segond fracture**（外側脛骨平台撕脫，anterolateral ligament）≈ **ACL tear**（75–100%）。Reverse Segond（內側）→ PCL。
+
+@112-2#59|C
+一位身高 175 公分，20 歲的大學男生，拄著二根枴杖步入診間，右膝彎曲無法伸直，無法著地用力。主訴昨天打籃球時，上籃後著地，膝部疼痛卡住，無法伸直及彎曲，右膝 X 光片顯示無骨折。下列診斷何者最可能？
+A. 內側副韌帶斷裂
+B. 前十字韌帶拉傷
+C. 半月板破裂（meniscal tear）
+D. 髕骨韌帶斷裂
+> **Locking**（無法完全伸直）→ bucket-handle meniscal tear 卡在髁間；McMurray、Apley、Thessaly test。
+
+@114-1#59|C
+下列何者最不容易導致髕骨脫臼（patellar dislocation）？
+A. 高位髕骨（patella alta）
+B. 膝反屈（genu recurvatum）
+C. 較小的 Q 角度（Q angle）
+D. 髕骨活動度過大（patellar hypermobility）
+> 危險因子：**Q 角增大**、patella alta、trochlear dysplasia、genu valgum、股骨前傾、韌帶鬆弛、VMO 無力；多為**外側脫臼**、MPFL 撕裂。
+
+## 六、脊椎
+
+### 脊椎外傷與脊髓損傷
+
+@113-2#57|B
+有關頸椎損傷（cervical spine injury），下列敘述何者最適當？
+A. 上頸椎損傷較下頸椎損傷容易合併脊髓損傷
+B. 最常見的原因是車禍，緊急的治療原則：先評估 A（airway）、B（breathing）、C（circulation）
+C. 中央脊髓症候群好發於年輕人因車禍造成頸椎嚴重過度屈曲（hyperflexion），且神經功能恢復的預後並不理想
+D. 後柱脊髓症候群（posterior cord syndrome）是最常見的不完全脊髓損傷，通常發生於頸椎的伸張損傷
+> 上頸椎椎管寬，脊髓損傷反而較少；**central cord = 最常見不完全損傷**，老人頸椎退化 + **過度伸展**，預後尚可；posterior cord 最少見。
+
+@111-1#75|B 〔臨床實例〕
+65 歲男性有頸椎退化病史，因跌倒引起頸部疼痛而送醫。到急診時發現四肢無力合併痛覺與溫度感覺異常，上肢的症狀比下肢嚴重，最有可能的診斷為何？
+A. 前脊髓症候群（anterior cord syndrome）
+B. 中心脊髓症候群（central cord syndrome）
+C. 脊髓半切症候群（Brown-Séquard syndrome）
+D. 馬尾症候群（cauda equina syndrome）
+> 老人 + 頸椎退化 + 跌倒（過伸） + **上肢 > 下肢** = central cord。
+
+@115-2#62|C
+有關脊髓休克（spinal shock），下列敘述何者最不適當？
+A. 要診斷完全或不完全脊髓損傷，必須要等過了脊髓休克階段，才能確立診斷
+B. 脊髓休克會造成脊髓損傷節段以下的所有反射、運動及感覺功能都消失
+C. 提睪反射（cremasteric reflex）是最早回復的反射，且表示脊髓休克已經結束
+D. 目前對脊髓休克沒有特定的治療方法
+> 脊髓休克結束的指標：**bulbocavernosus reflex 回復**（通常 24–48 h）。注意區分 neurogenic shock（低血壓 + 心搏過緩）。
+
+@112-1#57|B
+下列關於椎齒突骨折（odontoid fracture）的敘述，何者最不適當？
+A. 軸向切面的電腦斷層可能會忽略水平方向的骨折線
+B. Anderson and D'Alonzo 分類中，第一型為最常見，指的是椎齒突的基底（base）骨折
+C. Anderson and D'Alonzo 分類中，第二型骨折有高不癒合率，尤其是在顯著位移或患者年紀較大時
+D. Anderson and D'Alonzo 分類中，第三型骨折血循較佳，癒合率較高，處理以保守治療為主
+> Type I：**尖端** avulsion（少見、穩定）；**Type II：基部（腰部），最常見、不癒合率高**（分水嶺血流）→ 老人/位移大考慮手術；Type III：延伸入 C2 椎體，癒合佳。
+
+### 頸椎退化
+
+@110-1#63|C
+一位 55 歲女性走路步態穩定，主訴近半年來頸部疼痛，且會延伸到右肩三角肌的部位。檢查發現將手臂舉過頭及維持外展姿勢時會減輕疼痛，但將頭後仰及轉向右側時會引發疼痛。下列敘述何者最適當？
+A. 具有明顯的上運動神經元徵象
+B. 主要因右肩旋轉肌袖及三角肌肌腱發炎引起疼痛
+C. 主要因頸椎神經根受到壓迫引起疼痛
+D. 大部分無法單純靠止痛消炎藥物及復健治療改善症狀
+> **Shoulder abduction relief sign（Bakody）** + **Spurling test** 陽性 = **C5 radiculopathy**；多數保守治療可改善。
+
+@114-2#62|C
+有關頸椎脊髓病變（cervical spondylotic myelopathy），下列敘述何者最不適當？
+A. 通常會有感覺異常（paresthesia）和運動困難（dyskinesia）等症狀
+B. 脊髓病變很嚴重時會有 Lhermitte sign 陽性
+C. 上下肢深層肌腱反射皆會增強，且下肢會有明顯的對稱陣攣（clonus）
+D. 腹部反射通常是正常的，並可藉此與肌萎縮性脊髓側索硬化症鑑別診斷
+> 壓迫節段的上肢反射可**減弱**（LMN at level），其下才亢進；clonus 不一定對稱/明顯。其他徵象：Hoffmann、inverted radial reflex、myelopathy hand、手笨拙、步態不穩。
+
+@114-1#62|D
+有關頸椎後縱韌帶骨化症（OPLL），下列敘述何者最不適當？
+A. 好發於亞洲人，且男性較多
+B. 最常見於頸椎第四、五、六節（C4, C5, C6）
+C. 常會合併其他脊椎問題，例如 DISH、脊椎關節退化及僵直性脊椎炎
+D. 為了解除脊髓神經壓迫，應施行手術減壓才會有神經功能的進步
+> 無症狀或輕微者可**觀察/保守**；有進行性 myelopathy 才手術（laminoplasty、anterior corpectomy）。
+
+### 腰椎退化
+
+@111-2#62|B
+有關椎間盤突出症（HIVD）之敘述，下列何者最不適當？
+A. protrusion、extrusion 和 sequestration 三種突出中，protrusion type 是最常見的類型
+B. 通常需要手術治療才可以將神經減壓，進而解除神經痛以達到最佳的療效
+C. 有症狀及徵象時，磁振造影（MRI）是診斷椎間盤突出症最佳的檢查
+D. 術後感染、硬膜撕裂、神經根損傷及復發性椎間盤突出症是最常見的術後併發症
+> **80–90% 在 6–12 週內保守改善**（sequestration 反而較易自行吸收）。手術：cauda equina、進行性神經缺損、保守 6–12 週無效。
+
+@112-1#62|A
+有關椎間盤退化疾病（degenerative disc disease），下列敘述何者最不適當？
+A. 大部分椎間盤退化會引起背痛，可用磁振造影來判讀疼痛的椎間盤
+B. 椎間盤退化會使椎間盤脫水、高度降低，並且會改變它的機械特性
+C. 椎間盤退化造成的背痛會因身體屈曲而加劇，且因坐姿會造成椎間盤內壓力增加而加重疼痛，且疼痛可能會輻射至臀部、大腿或腹股溝
+D. 椎間盤退化疾病的治療效果較其他脊椎病變的治療效果為差，若須手術治療，常合併脊椎融合術
+> MRI 上椎間盤退化（black disc）在**無症狀者極常見**，影像與疼痛相關性差。
+
+@112-2#62|A
+關於脊椎狹窄（spinal stenosis），下列敘述何者最不適當？
+A. 先天性的椎管狹窄是最常見的類型
+B. 狹窄可發生在椎管的中央區、側隱窩或神經孔，但通常不會發生在椎根（pedicle）的位置
+C. 脊椎狹窄最常見於第四、五腰椎的節段
+D. 若病人有進行性的神經缺失，手術減壓通常可以得到不錯的療效
+> **退化性（acquired）最常見**：椎間盤膨出 + facet 肥厚 + 黃韌帶肥厚。表現 neurogenic claudication（前彎/坐下緩解、shopping cart sign）。
+
+@113-1#62|C
+50 歲的男性，患有下背痛及雙側下肢酸麻。脊椎 X 光檢查顯示第五腰椎椎弓斷裂、第五腰椎／第一薦椎的 Meyerding 第一級向前滑脫（L5 on S1 spondylolisthesis）。最可能受到壓迫的神經根為：
+A. 第三腰椎神經根
+B. 第四腰椎神經根
+C. 第五腰椎神經根
+D. 第一薦椎神經根
+> **Isthmic spondylolisthesis L5/S1 → 壓 L5（出口根）**：pars defect 處的纖維軟骨 + 椎間孔狹窄。（對比 degenerative L4/5 滑脫 → 中央狹窄壓 L5 走行根。）Meyerding I < 25%、II 25–50%、III 50–75%、IV > 75%、V spondyloptosis。
+
+@110-2#62|D
+有關腰椎神經根所支配的肌肉及動作，下列敘述何者最不適當？
+A. 股四頭肌主要是由第三及第四腰椎神經根支配，其主要的動作是膝關節伸展
+B. 脛骨前肌主要是由第四及第五腰椎神經根支配，其主要的動作是踝關節背屈
+C. 腓骨長／短肌主要是由第五腰椎及第一薦椎神經根支配，其主要的動作是踝關節外翻
+D. 伸拇趾長肌主要是由第一薦椎神經根支配，其主要的動作是大拇趾伸展
+> **EHL = L5**（L5 最佳測試肌）。L4：TA、knee jerk、內踝感覺；S1：腓腸肌（toe walk）、ankle jerk、外踝/足底外側。
+
+### 脊椎感染
+
+@111-1#62|C
+有關化膿性脊椎感染（pyogenic spinal infection），下列敘述何者最不適當？
+A. 最常發生於腰椎，胸椎次之
+B. 最常見之致病菌為金黃色葡萄球菌（Staphylococcus aureus）
+C. 成人的致病機轉主要為血行性感染椎間盤，再蔓延至上、下椎體造成骨髓炎
+D. 手術適應症包括非手術治療無效、鑑別致病性微生物、有神經功能缺失或脊椎不穩定
+> 成人椎間盤無血管 → 血行性先感染**椎體終板旁（metaphyseal arterioles）**，再侵犯椎間盤與相鄰椎體（**disc space narrowing + 兩側終板破壞**；TB 則較保留椎間盤）。兒童椎間盤仍有血管，可直接感染。
+
+### 脊椎變形
+
+@111-1#63|C
+一位 13 歲國一女生在新生入學體檢發現 Adams forward bending test 陽性，而轉介至骨科門診。全脊椎 X 光檢查發現腰椎側彎，Cobb 角度 45 度，突向左側，Risser stage 2，初經發生在小學六年級。下列治療方法何者最適當？
+A. 觀察，且須每四個月定期追蹤一次 X 光
+B. 背架治療，且須每四個月定期追蹤一次 X 光
+C. 後方側彎矯正、內固定及後側骨融合術
+D. 因病人尚有骨骼生長的空間，故在施行後方側彎矯正、內固定及後側骨融合術時，須同時施行前側椎體間骨融合來預防曲軸現象，以免術後角度惡化
+> AIS：Cobb **< 20–25° 觀察；25–40°（骨未成熟）背架；> 40–50° 手術（posterior spinal fusion）**。Crankshaft 風險在 Risser 0、初經前、open triradiate cartilage；本例已初經、Risser 2，不需前側融合。
+
+@113-2#62|B
+有關先天性脊椎側彎（congenital scoliosis），下列敘述何者最不適當？
+A. 發生原因主要是脊椎的形成失敗或分節失敗所造成
+B. 因為脊椎可屈性較大，故以背架治療可以得到良好的效果
+C. 病人有可能合併先天性心臟、腎臟及顱內缺陷
+D. 小於 10 歲的病人，只做後側骨融合手術時，可能會造成曲軸現象
+> 先天性側彎為**結構性、僵硬**，背架無效。須篩檢**VACTERL**：腎（超音波）、心（echo）、脊髓（MRI，tethered cord、diastematomyelia）。
+
+@115-2#60|D
+一位 3 歲的男孩，被診斷為先天性脊柱側彎。X 光片顯示在 T8～T9 處，有一個單側分節缺陷（unilateral bar），對側有一個完整的半椎體（hemivertebra），下列那一項關於治療和預後的判斷最適當？
+A. 患者年齡小，重塑潛力很大，應以觀察為主
+B. 以矯正背架設法延遲手術至骨骼成熟
+C. 應立即進行脊柱牽引，以減輕畸形處的壓力
+D. 這種畸形組合通常會導致快速彎曲惡化，需考慮早期手術來阻止進展
+> 惡化風險最高：**unilateral unsegmented bar + contralateral hemivertebra**（每年 5–10°）→ 早期手術。最低：block vertebra。
+
+@115-1#63|B
+有關 Scheuermann 氏駝背症（Scheuermann kyphosis）的敘述，下列何者最適當？
+A. 角度介於 20 至 45 度，且其角度不會隨年齡而增加
+B. 可合併脊柱側彎
+C. 椎體出現軟骨內骨化異常，蛋白聚醣（proteoglycan）較低
+D. 平均身高較矮，骨齡（bone age）偏向早熟
+> 定義：**≥ 3 個相鄰椎體各楔形 ≥ 5°**，胸椎 kyphosis > 45°；Schmorl nodes、終板不規則；僵硬（姿勢性駝背可矯正）；約 1/3 合併輕度側彎。
+
+@113-1#63|A
+有關兒童頸椎融合症候群（Klippel-Feil syndrome）的敘述，下列何者最適當？
+A. 在受孕後第 3 至 8 週時，頸椎分節失敗所造成
+B. 很少合併泌尿、神經、心肺系統與聽力等障礙
+C. 常見頭髮後緣線高（high posterior hairline）
+D. 常見頸部較長與頭頸活動度受限
+> 三主徵：**低後髮際線、短頸、頸部活動受限**；常合併**腎臟異常（最常見，需超音波）**、Sprengel deformity、聽力障礙、先天性心臟病、側彎。
+
+## 七、手外科
+
+### 神經壓迫
+
+@110-2#53|A
+45 歲陳太太是工廠包裝員，近年來在拇指、食指及中指的分布區域有紅腫、疼痛、麻木及刺痛現象，晚上睡覺時會被痛醒，甩手後症狀會改善。陳太太可能的診斷為何？
+A. 腕隧道症候群（carpal tunnel syndrome）
+B. 肘隧道症候群（cubital tunnel syndrome）
+C. 頸神經根病變（cervical radiculopathy）
+D. 脊髓病變（myelopathy）
+> **夜間麻醒、flick sign（甩手緩解）** = CTS 典型。
+
+@110-2#54|B
+（承上題）陳太太會發生這種症狀是因為工作過度造成那一神經的壓迫？
+A. 尺神經（ulnar nerve）
+B. 正中神經（median nerve）
+C. 脊髓（spinal cord）
+D. C4 神經根
+> Median n. 於腕隧道受壓；危險因子：女性、懷孕、DM、甲狀腺低下、RA、重複腕部動作。
+
+@110-2#55|C
+（承上題）在門診中，下列何種檢查呈陽性反應可以幫助確診？
+A. 深部肌腱反射呈現過度反射
+B. 肘部彎曲測試（elbow flexion test）
+C. 手腕彎曲測試（Phalen's test）
+D. 椎間孔擠壓測試（Spurling test）
+> CTS：**Phalen**、Tinel、Durkan（carpal compression，最敏感）；確診 **NCS**。Elbow flexion test → cubital tunnel；Spurling → 神經根。
+
+@113-2#61|D
+下列那一條肌腱不在腕隧道（carpal tunnel）中？
+A. flexor pollicis longus
+B. flexor digitorum superficialis of index finger
+C. flexor digitorum profundus of ring finger
+D. flexor carpi ulnaris
+> 腕隧道內 **9 條肌腱（FDS×4、FDP×4、FPL）+ median n.**。FCU 止於 pisiform，不在隧道內；**FCR** 走自己的隧道。
+
+@111-2#61|B
+陳先生是個上班族，發現右手無名指尺側及小指在講電話一段時間後有麻木的狀況，且小指屈指深肌比較無力，發生此神經壓迫症狀的位置最常在下列何處？
+A. Guyon tunnel
+B. arcade of Struthers
+C. carpal tunnel
+D. arcade of Frohse
+> 講電話（久屈肘）+ **FDP 小指無力** → 肘部尺神經壓迫（**FDP 分支在肘部以下、Guyon 以上**，Guyon canal 病灶 FDP 正常）。肘部壓迫點：arcade of Struthers、medial intermuscular septum、cubital tunnel（Osborne ligament，**最常見**）、FCU 兩頭間；官方答 B。Arcade of Frohse → PIN（radial tunnel）。
+
+### 肌腱與手部疾病
+
+@112-1#61|A
+成人扳機指（trigger finger）是那一滑車（pulley）發生狹窄性腱鞘炎？
+A. A1
+B. C2
+C. A2
+D. C1
+> **A1 pulley**（MCP 掌側、distal palmar crease）增厚。治療：splint → **steroid 注射（第一線）** → A1 release；**A2、A4 不可切**（bowstringing）。
+
+@110-2#61|B
+病人手腕橈骨莖凸附近疼痛，懷疑是 de Quervain 氏症，通常可用下列何種身體診察來診斷？
+A. Phalen maneuver
+B. Finkelstein test
+C. Watson test
+D. Allen test
+> **Finkelstein**（第一伸肌腔 APL + EPB）。Watson = scapholunate instability；Allen = 橈/尺動脈通暢。
+
+@115-2#58|B
+有關掌腱膜攣縮症（Dupuytren contracture）的敘述，下列何者最不適當？
+A. 好發於男性
+B. 歐洲人比亞洲人少見
+C. 早期病人可考慮保守治療
+D. 常侵犯掌指關節
+> **北歐裔男性**最常見（Viking disease）；相關：DM、酒精、抽菸、癲癇藥。無名指 > 小指；MCP > PIP。MCP 攣縮 > 30° 或 PIP 任何攣縮（**tabletop test** 陽性）→ fasciectomy / needle aponeurotomy / collagenase。
+
+@114-1#61|C
+下列何者不是手部的掌內肌群（intrinsic muscle）？
+A. dorsal interossei
+B. lumbricals
+C. flexor digitorum profundus
+D. hypothenar muscle
+> Intrinsic：thenar、hypothenar、lumbricals、interossei、adductor pollicis。FDP/FDS 起於前臂 = **extrinsic**。
+
+### 斷指與先天異常
+
+@113-1#61|D
+下列手部斷指再接（replantation）的適應症，何者最不適當？
+A. 拇指截肢
+B. 多指截肢
+C. 小孩的斷指
+D. 單指多段截肢
+> 適應症：**拇指、多指、兒童、手掌/腕/前臂、zone I 單指（FDS 止點以遠）**。相對禁忌：**單指 zone II、多段/嚴重壓砸、撕脫傷**、溫缺血過久、全身狀況差。
+
+@114-1#58|D
+關於斷指的處理，下列敘述何者最適當？
+A. 斷指需先用浸泡濕潤的開水紗布包著，並放入夾鏈袋子裡
+B. 斷指送醫時直接放在夾鏈袋子裡
+C. 斷指送醫時直接浸泡在低溫無菌水的夾鏈袋子裡
+D. 病人斷指處出血最好用紗布加壓止血
+> 斷指：**生理食鹽水濕紗布包 → 密封袋 → 放在冰水中**（不直接接觸冰/水）。殘端**直接加壓止血**，避免止血帶或盲夾。
+
+@115-1#62|C
+有關先天性併指症（syndactyly）的敘述，下列何者最不適當？
+A. 複合併指除軟組織的黏合之外，骨骼亦有黏合
+B. 單純併指及複合併指都呈現皮膚黏合
+C. 較常發生在第四蹼間（fourth web space）
+D. 較少發生在第一蹼間（first web space）
+> 最常見：**第三指蹼（中指–無名指）**；第一指蹼最少。手術時機：不等長手指（拇/食、無名/小指）早做（6–12 月）。
+
+## 八、關節重建
+
+### 骨壞死
+
+@115-2#63|C
+關於股骨頭骨壞死（osteonecrosis of the femoral head），下列敘述何者最適當？
+A. 早期的病變先發生在股骨頭的前外上部區域的關節軟骨，然後擴及深層的鈣化軟骨層
+B. 股骨頭塌陷前的早期骨壞死，建議進行人工關節置換，以改善症狀
+C. 有新月徵（crescent sign）時，不適合接受保守性治療，如雙磷酸鹽類、statins、高壓氧和體外震波療法等
+D. 股骨頭塌陷後較適合接受核心減壓和結構性骨移植，增加血液供應，再生骨軟骨
+> 病變始於**軟骨下骨**（前外上承重區）；**crescent sign = 軟骨下骨折、塌陷開始**（Ficat III）。塌陷前 → core decompression ± 骨移植；塌陷後/關節炎 → **THA**。危險因子：steroid、酒精、SLE、鐮刀型、潛水夫病、外傷。
+
+@113-2#63|D
+下列發生骨壞死的部位，何者最不常見？
+A. 舟狀骨（scaphoid bone）
+B. 股骨頭（femoral head）
+C. 肱骨頭（humeral head）
+D. 跟骨（calcaneus）
+> 好發：股骨頭（最常見）、肱骨頭、股骨髁、距骨、**scaphoid 近端、lunate（Kienböck）**——血流逆向或終末動脈處。
+
+### 人工關節
+
+@113-1#57|A
+為了改善骨科人工關節置換常規排程手術感染的發生率，下列敘述何者最適當？
+A. 應適當選擇預防性（prophylactic）抗生素
+B. 預防性抗生素應在執行切開手術傷口前 120 分鐘開始給藥
+C. 預防性抗生素應在手術結束後 72 小時才能停止給藥
+D. 常規使用 vancomycin 或 clindamycin 減少手術傷口感染
+> **Cefazolin 劃刀前 60 分鐘內**（vancomycin 120 分內）；術後 **≤ 24 小時**停藥；vancomycin 僅用於 MRSA 帶菌/高風險或 β-lactam 過敏。
+
+@112-2#63|D
+有關人工關節感染（prosthetic joint infection）的敘述，下列何者最不適當？
+A. 只要發現 sinus tract 連通到關節內應高度懷疑
+B. 有些病人的 CRP 不會升高
+C. 關節液檢查白血球計數高於 3,000 cells/μL 仍不能確定診斷
+D. 一定要拔除人工關節，否則治療不會成功
+> 急性（術後 < 4 週或急性血行性 < 3 週）、植入物穩定 → **DAIR**（debridement, antibiotics, implant retention）可保留；慢性 → 二階段翻修。MSIS major criteria：**sinus tract**、兩次培養同菌。
+
+@112-1#63|C
+有關人工關節的材質，下列敘述何者最不適當？
+A. 鋯合金（zirconium alloy）可被用做人工關節的材料
+B. 超高分子量聚乙烯（UHMWPE）是常見的人工關節介面
+C. 鈦合金（titanium alloy）很適合做為人工髖關節股骨頭的材料
+D. 鈷鉻鉬合金（cobalt chromium alloy）可以用來做為人工關節的磨耗介面
+> **鈦合金耐磨性差**（notch sensitive、易刮傷）→ 用於**股骨柄/髖臼杯**（彈性模數接近骨、骨整合佳），不做關節面。頭：CoCr、ceramic、oxidized zirconium。
+
+@114-1#63|D
+有關骨水泥（bone cement: methyl methacrylate）的敘述，下列何者最適當？
+A. 可以像黏膠一樣將人工關節黏在骨關節上
+B. 一般分裝成粉劑與水劑，瓶裝水劑是 polymer，儲存時要避光
+C. 其聚合反應（polymerization）是一種吸熱反應
+D. 可能併發症是 monomer 或血栓導致，嚴重時會休克、心臟停止
+> PMMA 是**填充/機械性嵌合（grout）**，非黏膠；**液體 = monomer、粉末 = polymer**；聚合為**放熱**反應；**Bone cement implantation syndrome**：低血氧、低血壓、心律不整、心跳停止。
+
+@114-2#63|B
+下列何者不是髖關節後側的短外旋肌群（short external rotators）？
+A. piriformis
+B. quadriceps
+C. obturator
+D. gemellus
+> Short ERs：**piriformis、superior gemellus、obturator internus、inferior gemellus、quadratus femoris**（± obturator externus）。Posterior THA approach 要切開再縫回。
+
+## 九、兒童骨科
+
+### 髖部疾病
+
+@111-1#60|A
+下列何者最不適合用來檢查兒童的發展性髖關節發育不良（DDH）？
+A. Patrick sign
+B. Galeazzi sign
+C. Ortolani maneuver
+D. Barlow maneuver
+> < 3 個月：**Ortolani（復位，clunk in）、Barlow（脫出）**；> 3 個月：**外展受限（最可靠）**、**Galeazzi**（膝高低）、皮紋不對稱。Patrick（FABER）用於髖/SI 關節疼痛。
+
+@111-2#60|C
+在新生兒大腿內側發現不對稱的皮膚皺褶（asymmetric skin fold）時，下列何種檢查或徵象最不相關？
+A. Galeazzi 氏徵象（Galeazzi sign）
+B. Barlow 氏檢查（Barlow test）
+C. Patrick 氏檢查（Patrick test）
+D. Ortolani 氏檢查（Ortolani test）
+> 同上；影像：**< 4–6 個月超音波（Graf）**、之後 X 光；治療 < 6 個月 **Pavlik harness**。
+
+@110-1#61|D
+有關兒童的股骨頭骨骺滑移（slipped capital femoral epiphysis）的敘述，下列何者最適當？
+A. 通常好發於學齡前兒童
+B. 兩側發生機率約 75%
+C. 骨骼年齡通常比生理年齡早熟
+D. 通常與荷爾蒙或內分泌異常有關
+> SCFE：**青春期（10–16 歲）肥胖男孩**；雙側約 20–40%；骨齡常**落後**；相關甲狀腺低下、GH 治療、腎性骨病。**Klein line** 不與骨骺相交；治療 **in situ screw fixation**，勿強行復位（AVN）。
+
+@114-1#60|B
+一位 11 歲小朋友，身高 150 公分，體重 80 公斤，近兩星期覺得走路有困難，無法上下樓梯，兩側的髖關節都覺得僵硬疼痛，無法翹腳而且走路跛行，下列的疾病診斷中那一項最有可能？
+A. 髖關節發育不良（DDH）
+B. 股骨頭骨骺滑脫症（SCFE）
+C. Osgood-Schlatter 氏疾病
+D. Blount 氏疾病
+> 肥胖青少年 + 髖/膝痛 + 跛行 + **內旋受限、屈髖時被迫外旋（Drehmann sign）** → SCFE。注意可能只主訴**膝痛**（obturator n. referred pain）。
+
+### 骨骺骨折與下肢變形
+
+@112-2#60|B
+下列何種兒童的骨折最容易造成 Salter-Harris type II（骨骺損傷程度分型）的生長板傷害？
+A. 鎖骨骨折
+B. 近端肱骨骨折（proximal humeral fracture）
+C. 肱骨髁上骨折
+D. 肱骨外髁骨折
+> **SALTER**：I Slip（橫過生長板）、**II Above（+ metaphysis，最常見）**、III Lower（+ epiphysis）、IV Through（兩者）、V Rammed（壓碎，最差）。肱骨外髁骨折 = **type IV**（需 ORIF）。
+
+@110-2#60|B
+新生兒先天性脛骨假關節（congenital pseudarthrosis of the tibia），最可能發生下列那一種方向的先天性小腿彎曲變形（bowing deformity），且容易骨折？
+A. 前內側（anteromedial）
+B. 前外側（anterolateral）
+C. 後內側（posteromedial）
+D. 後外側（posterolateral）
+> 脛骨彎曲：**anterolateral → congenital pseudarthrosis（與 NF1 相關，預後差）**；**posteromedial → 良性、自行矯正**（但會長短腳）；anteromedial → fibular hemimelia。
+
+@112-1#60|A
+一位 7 歲小朋友被發現單側股骨頭缺血性壞死，估計至成年時長短腳可能達到 1.5～3.5 公分，下列治療方式何者最適當？
+A. 可在短肢穿著墊高的鞋子（shoe lift）
+B. 可在長肢進行生長板抑制手術（epiphysiodesis）
+C. 可在長肢進行股骨縮短手術（femoral shortening）
+D. 可在短肢進行骨延長術（bone lengthening）
+> 預估 LLD：**< 2 cm 觀察/鞋墊；2–5 cm 長肢 epiphysiodesis（需剩餘生長）或縮短；> 5 cm 延長術**。本例範圍跨 1.5–3.5 cm、7 歲（Legg-Calvé-Perthes），官方答 shoe lift。
+
+## 十、骨與軟組織腫瘤
+
+### 良性骨腫瘤與偽腫瘤
+
+@112-1#56|D
+下列關於良性骨腫瘤的敘述，何者最適當？
+A. 軟骨母細胞瘤（chondroblastoma）為最常見的良性骨腫瘤
+B. multiple enchondromatosis 又稱為 Maffucci syndrome
+C. chondromyxoid fibroma 常見於脛骨近端骨骺（epiphysis）
+D. multiple exostosis 可能是自體顯性遺傳疾病
+> 最常見良性骨腫瘤 = **osteochondroma**；**Ollier = 多發 enchondroma；Maffucci = + 血管瘤**；**Multiple hereditary exostoses：AD（EXT1/EXT2）**。CMF 位於 metaphysis。
+
+@113-1#56|B
+有關骨腫瘤的敘述，下列何者最適當？
+A. Ollier disease 是指多發性內生軟骨瘤合併血管瘤
+B. 軟骨母細胞瘤（chondroblastoma）好發於青少年的長骨骨骺（epiphysis）
+C. 骨巨大細胞瘤（GCT）復發率極低，手術採用病灶內刮除
+D. 單純性骨囊腫（simple bone cyst）好發於成年人的肱骨遠端
+> **骨骺（epiphysis）腫瘤：chondroblastoma（骨骼未成熟）、GCT（骨骼成熟後，延伸至軟骨下）**。GCT 刮除後**復發率 10–25%**，可用 denosumab。UBC：兒童**近端肱骨**。
+
+@114-1#56|C
+下列關於良性骨腫瘤的敘述，何者最不適當？
+A. 單純性骨囊腫的病灶大約半數發生在肱骨近端，X 光影像可見 "fallen leaf" sign
+B. 骨巨大細胞瘤與調控破骨細胞形成的 RANK / RANKL 系統失衡有關
+C. 復發的骨巨大細胞瘤有 80% 的機率會轉移到肺部
+D. 許多腫瘤的病理組織裡會出現巨大細胞
+> GCT 肺轉移（benign metastasizing）約 **2–5%**（復發者較高，但遠低於 80%）。**Fallen fragment sign** = UBC 病理骨折。
+
+@114-2#56|C
+下列關於偽腫瘤（pseudotumorous conditions）的敘述，何者最不適當？
+A. 棕色腫瘤是常見的代謝疾病，因副甲狀腺激素增加導致類似骨腫瘤的形成
+B. Gaucher 氏病是一種罕見的家族性疾病，由於 glucocerebroside 的累積導致肝臟、脾臟和骨髓組織增大
+C. 骨壞死（bone infarct）常見於長骨的骨幹（diaphysis）
+D. 膝關節是色素性絨毛結節性滑膜炎（PVNS）最常見的侵犯部位
+> Bone infarct 好發**長骨 metaphysis**（X 光蛇形鈣化邊緣）；骨骺區塊為 AVN。Gaucher：Erlenmeyer flask deformity。
+
+### 惡性骨腫瘤
+
+@110-2#56|B
+下列關於骨肉瘤（osteosarcoma）的敘述，何者最不適當？
+A. 經大量放射線暴露之後，有可能出現放射線誘發的骨肉瘤
+B. 骨膜骨肉瘤（periosteal osteosarcoma）在影像檢查常會看到 stuck-on appearance
+C. 動脈瘤性骨囊腫影像呈現上易與微血管擴張性骨肉瘤混淆診斷
+D. 骨旁骨肉瘤（parosteal osteosarcoma）為低度惡性，最適當的治療方法是手術切除
+> **Stuck-on / string sign = parosteal OS**（股骨遠端後側、低惡性度、廣泛切除不需化療）；periosteal OS：sunburst、中度惡性、骨幹。Telangiectatic OS 易誤為 ABC（fluid-fluid level）。
+
+@115-1#57|D
+有關骨肉瘤（osteosarcoma）的敘述，下列何者最不適當？
+A. 原發性傳統骨肉瘤的治療包括：術前新輔助化學治療、廣泛性腫瘤切除及術後輔助化學治療
+B. 依 WHO 對各種次分類的預後比較，以次發性骨肉瘤最差，其次是原發性傳統骨肉瘤，而骨膜外骨肉瘤較佳
+C. 原發性傳統骨肉瘤患者的病理切片中，依接受術前化學治療後的腫瘤細胞壞死百分率，可以約略推測此患者的預後
+D. Ollier 氏症及 Maffucci 氏症候群的患者，最常發生惡性化轉型成為次發性骨肉瘤
+> Ollier/Maffucci 惡性化為 **chondrosarcoma**。次發性 OS：**Paget disease**、放療後、骨梗塞、Rb/Li-Fraumeni。化療後壞死 **≥ 90%** 預後好。
+
+@114-1#73|C 〔影像題〕
+附圖是一位 13 歲女性脛骨骨肉瘤（osteosarcoma）的膝部 X 光影像，箭頭所指的影像表現是下列何者？
+A. 遊動體（loose body）
+B. 軟組織鈣化（soft tissue calcification）
+C. 骨膜反應（periosteal reaction）
+D. 骨折（fracture）
+> OS 侵犯性骨膜反應：**Codman triangle、sunburst、hair-on-end**。好發膝周 metaphysis（股骨遠端 > 脛骨近端），青少年。
+
+@113-1#74|C 〔影像題〕
+14 歲女性病人主訴右肩痠痛約半年，肩部 X 光片如圖，最可能的診斷為何？
+A. bone metastasis
+B. lymphoma
+C. osteogenic sarcoma
+D. chondrosarcoma
+> 青少年 + 長骨 metaphysis（近端肱骨為第三好發）+ 成骨/溶骨混合 + 骨膜反應 → **osteosarcoma**。
+
+@110-1#57|C
+有關軟骨肉瘤（chondrosarcoma）的敘述，下列何者最正確？
+A. 好發在 10～20 歲的青少年
+B. 原發性軟骨肉瘤生長速度較慢，X 光檢查常可見到 Codman 氏三角骨膜反應
+C. 正確惡性度分級常需要綜合臨床症狀、放射線學及組織病理學等三方證據
+D. 原發性軟骨肉瘤的治療流程為：術前放射治療及廣泛性腫瘤切除
+> Chondrosarcoma：**> 40 歲**、骨盆/近端股骨/肩、**popcorn / rings-and-arcs 鈣化**、endosteal scalloping；**對化放療不敏感 → 廣泛切除**。低惡性度與 enchondroma 鑑別需**臨床 + 影像 + 病理**。
+
+@111-2#56|D
+下列關於惡性軟骨肉瘤（chondrosarcoma）的敘述，何者最適當？
+A. 惡性軟骨肉瘤常見於骨盆，10～20 歲的青少年
+B. 惡性軟骨肉瘤的 mesenchymal chondrosarcoma，常見於 epiphysis of the proximal femur
+C. 惡性軟骨肉瘤對化療及放療敏感，手術切除為次要治療方法
+D. 骨軟骨瘤（osteochondroma）的 cartilage cap 若追蹤時發現厚度 > 2 cm，需注意評估 secondary chondrosarcoma
+> Osteochondroma 惡變警訊：**成年後持續長大、疼痛、cartilage cap > 2 cm**（成人 > 1.5–2 cm）。Clear cell chondrosarcoma 才好發近端股骨**骨骺**。
+
+@112-2#56|A
+下列關於圓形細胞瘤（round cell tumor）的敘述，何者最不適當？
+A. Ewing 氏肉瘤家族大部分染色體易位為 t(21;22)，導致 EWS/FLI-1 嵌合體（chimera）
+B. Ewing 氏肉瘤是放射敏感性腫瘤，如果手術切緣不乾淨，則術後常須使用局部照射治療
+C. 單發性的原發性骨淋巴瘤預後較好，常見的組織學類型是 large cell type or mixed small and large cell type
+D. 多樣藥化療可提高原發性骨淋巴瘤的 5 年生存率
+> Ewing：**t(11;22)、EWS-FLI1**（85%；t(21;22) EWS-ERG 約 10%）；CD99+；兒童骨幹、onion-skin 骨膜反應、發燒/ESR↑（似骨髓炎）；放射敏感。
+
+### 轉移、切片與軟組織腫瘤
+
+@113-2#56|C/D（C、D 均給分）
+下列關於轉移性骨癌（bone metastasis）的敘述，何者最適當？
+A. 常見來自大腸或子宮頸癌
+B. 最常侵犯骨盆
+C. 乳癌常產生蝕骨性病灶（osteolytic lesions）
+D. 攝護腺癌常產生成骨性轉移病灶（osteoblastic lesions）
+> **最常見骨腫瘤 = 轉移**；來源：**乳、攝護腺、肺、腎、甲狀腺**；最常侵犯**脊椎**（Batson plexus）。成骨：攝護腺（乳癌可混合）；溶骨：腎、甲狀腺、肺、MM。
+
+@115-1#56|B
+有關骨骼肌肉系統腫瘤活體組織切片（biopsy）的敘述，下列何者最適當？
+A. 在四肢部位應採用與肢體長軸線呈橫向（transverse）切開傷口
+B. 臨床症狀及影像學檢查皆已臆斷為骨骼肌肉系統腫瘤的個案時，仍需同時執行切片部位的細菌培養
+C. 執行核心或細針活體組織切片時，應儘可能經由兩個腔室間的筋膜平面穿刺進入
+D. 對於一位病史不明，但高度懷疑為病理性肱骨骨折的患者，仍應緊急執行開放性手術復位和髓內釘固定及活體組織切片手術，術後再進行全身腫瘤探查與分級
+> **"Culture what you biopsy, biopsy what you culture"**。切口**縱向**、**穿過單一腔室**（不走筋膜間隙）、由日後執行切除的醫師/腫瘤中心做；**先 staging 再 biopsy**；病理骨折不可先打髓內釘（污染全長骨髓腔）。
+
+@111-1#56|C
+下列關於軟組織腫瘤（soft tissue tumor）的敘述，何者最不適當？
+A. 腹腔外硬纖維瘤（extraabdominal desmoid tumors），又稱侵襲性纖維瘤病（aggressive fibromatosis）
+B. 多發性神經纖維瘤，又稱 von Recklinghausen disease
+C. 滑膜肉瘤（synovial sarcoma）是第二常見的軟組織肉瘤
+D. 惡性周圍神經鞘瘤源自多病灶的 NF1，比源自良性的單獨神經纖維瘤來得多
+> 成人最常見軟組織肉瘤：**UPS（undifferentiated pleomorphic sarcoma）、liposarcoma**；synovial sarcoma 約第 4（年輕人、膝周、**t(X;18) SS18-SSX**）。
+
+## 十一、代謝性骨病與關節炎
+
+### 代謝性骨病
+
+@110-1#56|A
+有關腎衰竭病患會造成腎性骨發育不全（renal osteodystrophy）之敘述，下列何者最不適當？
+A. 腎絲球功能不良會使血磷值過低
+B. 活性維生素 D 的製造減少
+C. 血鈣過低導致次發性副甲狀腺機能亢進
+D. 副甲狀腺機能亢進導致骨吸收增強，可能導致骨骼出現褐色瘤（brown tumor）
+> CKD-MBD：**磷滯留（高磷）** + 1,25(OH)₂D↓ → 低鈣 → **次發性 HPT** → osteitis fibrosa cystica、brown tumor、rugger-jersey spine；FGF-23↑。
+
+@114-2#60|D
+下列何種血液測量值的改變，與腎性骨病（renal osteodystrophy）的直接相關性最小？
+A. 鈣（calcium）
+B. 磷（phosphorus）
+C. 維生素 D（vitamin D）
+D. 甲狀腺激素（thyroid hormone）
+> 相關的是**副甲狀腺素（PTH）**，不是甲狀腺素。
+
+@115-1#58|D
+有關骨質疏鬆症（osteoporosis）之敘述，下列何者最不適當？
+A. 原發性第一型骨質疏鬆症，是女性荷爾蒙缺乏導致
+B. 次發性骨質疏鬆症的常見原因之一是荷爾蒙失調
+C. 雙磷酸鹽（bisphosphonates）的主要機轉是作用在蝕骨細胞上
+D. 副甲狀腺素荷爾蒙的主要作用機轉之一是抑制蝕骨細胞的功能
+> **間歇性 PTH（teriparatide）→ 刺激成骨細胞**（anabolic）；持續高 PTH → 骨吸收。Type I（停經後，小樑骨，脊椎/橈骨遠端） vs Type II（老年，皮質 + 小樑，髖部）。
+
+@115-2#56|B
+有關骨代謝疾病的敘述，下列何者最適當？
+A. 棕色腫瘤是一種骨代謝異常疾病，經由局部病灶腫瘤採樣即可確認診斷
+B. Gaucher 氏病是家族性疾病，會造成肝臟、脾臟腫大及骨壞死（bone infarct）
+C. 佩吉特骨病在病灶處的骨母細胞會出現包涵體，因此推測與病毒感染有關
+D. 佩吉特骨病好發於年輕族群，X 光攝影可能出現骨生成或蝕骨現象
+> Brown tumor 病理與 GCT 相似 → 需配合**血鈣、PTH**。**Paget**：> 50 歲、**osteoclast 內包涵體**（paramyxovirus 假說）、ALP↑、溶骨→混合→硬化期、顱骨 cotton wool、聽損、高輸出心衰、**次發性骨肉瘤**；治療 bisphosphonate。
+
+### 關節炎
+
+@113-2#74|D 〔影像題〕
+57 歲女性雙手多處關節腫痛，雙手 X 光檢查如附圖，最可能的診斷為何？
+A. gouty arthritis
+B. osteoarthritis
+C. septic arthritis
+D. rheumatoid arthritis
+> RA X 光：**對稱**、MCP/PIP/腕、**關節旁骨質疏鬆**、marginal erosion、均勻關節腔狹窄、尺側偏斜；不侵犯 DIP。
