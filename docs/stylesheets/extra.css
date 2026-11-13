@@ -15,3 +15,19 @@
 .md-typeset table:not([class]) {
   font-size: 0.75rem;
 }
+
+/* 名詞連結：虛線底線、不搶眼 */
+.md-typeset a[href^="#"]:not(.headerlink):not(.md-nav__link) {
+  color: inherit;
+  border-bottom: 1px dotted var(--md-accent-fg-color);
+}
+
+/* 點擊後跳到的定義：短暫標黃 */
+.md-typeset :target:not(h1, h2, h3, h4, h5, h6) {
+  scroll-margin-top: 4rem;
+  animation: term-flash 2.5s ease-out;
+}
+@keyframes term-flash {
+  from { background-color: rgba(255, 213, 79, 0.7); }
+  to   { background-color: transparent; }
+}

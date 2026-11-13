@@ -13,6 +13,7 @@ theme:
     - search.highlight
     - content.code.copy
     - toc.follow
+    - content.tooltips
   palette:
     primary: white
     accent: blue
