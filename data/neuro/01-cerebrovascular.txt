@@ -1,0 +1,336 @@
+## 一、腦血管疾病
+### 缺血性中風急性處置
+
+@111-1#45|D
+下列何種磁振造影序列（sequences），對於偵測腦細胞在梗塞數分鐘後所產生細胞毒性水腫（cytotoxic edema）具有最高敏感度？
+A. T1-weighted imaging
+B. T2-weighted imaging
+C. fluid-attenuated inversion recovery（FLAIR）imaging
+D. diffusion-weighted imaging（DWI）
+> **DWI**（ADC 下降）數分鐘內即可見細胞毒性水腫；FLAIR 約 4.5–6 h 後才出現（DWI–FLAIR mismatch 可推估 < 4.5 h）。
+
+@113-1#75|C 〔臨床實例〕
+關於腦梗塞（cerebral infarction）的影像，下列敘述何者錯誤？
+A. 通常12小時之內的頭部電腦斷層（CT）掃描看不到明顯變化
+B. 兩週左右的頭部電腦斷層（CT）或磁振造影（MRI）靜脈注射顯影劑後，可能會有顯影加強現象
+C. 頭部電腦斷層（CT）比磁振造影（MRI）更容易偵測腦梗塞之後的出血性轉化（hemorrhagic transformation）
+D. 擴散加權影像（diffusion-weighted-imaging）上偵測到的異常可以持續兩週左右
+> 出血性轉化以 **MRI（GRE/SWI）較敏感**。梗塞 1–2 週後可有 gyral enhancement（「2-2-2」：2 天至 2 週出現、2 月消失）；DWI 高訊號約持續 2 週。
+
+@112-2#75|C 〔臨床實例〕
+有關急性腦中風病人接受頭部電腦斷層檢查的結果，下列敘述何者錯誤？
+A. 如果看到出血，則病人無法接受血栓溶解治療
+B. 有可能看到硬腦膜下出血或腫瘤
+C. 如果頭部電腦斷層檢查正常，則病人不需接受血栓溶解治療
+D. 在阻塞的大血管近端內出現高密度動脈徵象（dense artery sign），是急性缺血性中風的早期影像特徵之一
+> 急性缺血性中風早期 CT 常**正常**；非顯影 CT 的目的是**排除出血**與類中風（SDH、腫瘤），CT 正常仍可施打 tPA。
+
+@112-1#46|C
+關於急性缺血性腦中風病人使用靜脈血栓溶解劑，組織胞漿素原活化劑（tissue plasminogen activator, tPA）治療的敘述，下列何者錯誤？
+A. 在發病4.5小時內使用可以增加功能回復的比率
+B. 治療前須確認腦部電腦斷層沒有顱內出血
+C. 對正在服用非維他命K口服抗凝血劑（non-vitamin K oral anticoagulants）的病人，要先抽血確認凝血功能在正常值範圍，才可以使用
+D. 如果懷疑是因為主動脈剝離（aortic dissection）所導致的急性腦中風症狀，絕對禁止使用
+> NOAC 48 小時內服用者原則上**禁用** tPA；一般 PT/aPTT 正常**不能**反映 NOAC 活性（需特定藥物濃度/anti-Xa 檢測）。主動脈剝離為絕對禁忌。
+
+@115-1#44|A
+關於急性缺血性腦中風之血栓溶解治療，下列敘述何者錯誤？
+A. 常規治療為經動脈內施打組織胞漿素原活化劑（tissue plasminogen activator, t-PA），以減少藥物劑量並降低出血機率
+B. 靜脈血栓溶解治療可增加預後較佳之病人比例，但顱內出血的比例也會顯著上升
+C. 由於組織胞漿素原活化劑（tissue plasminogen activator, t-PA）的半衰期較短，因此 t-PA 治療需在部分藥物快速輸注（bolus）後，於 60 分鐘內將剩餘劑量進行連續性輸注
+D. 所有腦中風病人在接受血栓溶解治療前，皆應該進行腦部影像學檢查（如電腦斷層或磁振造影）
+> 常規為**靜脈** tPA 0.9 mg/kg（台灣常用 0.6 mg/kg），10% bolus、其餘 60 分鐘輸注；症狀性 ICH 約 6%。
+
+@115-1#77|B 〔臨床實例〕
+針對急性腦中風病人之緊急處置，下列敘述何者錯誤？
+A. 疑似中風個案在急診應儘速完成國家衛生院腦中風量表（National Institutes of Health Stroke Scale, NIHSS）的評估，以便早期決定施予血栓溶解劑治療
+B. 缺血性中風病人，在使用高血壓藥物治療後，病人的血壓維持在 190/116 mmHg 時，可以使用血栓溶解劑治療
+C. NIHSS 評估量表，分數愈高，神經症狀愈嚴重
+D. 治療蜘蛛膜下腔出血時，使用 nimodipine 具有保護腦部的作用
+> tPA 前血壓須 **< 185/110**、治療後 24 h 維持 < 180/105。Nimodipine 用於 aneurysmal SAH 改善預後（預防遲發性缺血）。
+
+@114-1#45|B
+血栓移除術（endovascular thrombectomy）為缺血性腦中風之重要急性治療方法，下列敘述何者錯誤？
+A. 血栓移除術主要應用於大血管阻塞的急性中風病人，針對小血管阻塞的病人（lacunar infarct）並不適用
+B. 針對大血管阻塞的病人，於進行血栓移除術治療打通血管後，會再施行血栓溶解治療（thrombolytic therapy），以進一步減少遠端小血栓所造成的腦梗塞
+C. 進行血栓移除術打通血管，主要是要救回腦部半影區（penumbra）的組織
+D. 使用腦部灌流造影（perfusion scan）可幫助篩選適合接受血栓移除術的病人，腦中風於發生 24 小時內尚有機會接受治療
+> 符合條件者**先給 IV tPA 再橋接**取栓（bridging），不是取栓後才溶栓。前循環 LVO 6 h 內；灌流影像篩選（DAWN/DEFUSE-3）可延至 24 h。
+
+@115-2#44|D
+關於急性缺血性腦中風之處置，下列何者最適當？
+A. 不論到院時血壓數值，皆應控制在 185/110 mmHg 以下
+B. 不論到院時血糖數值，皆應控制在 140～180 mg/dL
+C. 輕度中風建議短期合併抗血小板藥物 clopidogrel 與 ticagrelor
+D. 頸動脈剝離建議使用抗凝血劑或抗血小板藥物預防再次中風
+> 未溶栓者採 **permissive hypertension**（> 220/120 才降）；185/110 是溶栓門檻。高血糖才控制在 140–180。輕度中風 DAPT = **aspirin + clopidogrel（或 ticagrelor）** 21 天。動脈剝離：抗凝與抗血小板療效相近（CADISS）。
+
+@113-1#46|B
+於急性缺血性腦中風，神經細胞在缺氧及缺少葡萄糖（glucose）時會產生一連串反應導致腦細胞死亡，下列何者最不可能會發生？
+A. 粒線體（mitochondria）難以合成三磷酸腺苷（ATP）
+B. 細胞內鈣離子濃度降低
+C. 產生麩胺酸（glutamate）神經毒性和自由基（free radical）
+D. 產生發炎反應
+> 缺血 → ATP↓ → Na⁺/K⁺-ATPase 失效、去極化 → glutamate 釋放（**excitotoxicity**）→ NMDA 開啟 → **細胞內 Ca²⁺ 上升** → 酶活化、自由基、凋亡、發炎。
+
+@111-2#45|C 〔影像題〕
+42 歲男性病人突然發生左側肢體無力，無顯影劑之腦部電腦斷層（non-contrast CT）檢查結果如圖①，於 2 天後病人因漸進性意識不清再次安排了腦部 CT 檢查，結果如圖②。下列何種治療最有可能增進此病人的存活機會？
+A. 抗凝血劑（anticoagulants）
+B. 抗癲癇藥物（antiepileptic drugs）
+C. 顱骨切開術（craniectomy）
+D. 收縮壓控制在 160 mmHg 以下
+> **Malignant MCA infarction**（大片 MCA 梗塞 2–5 天水腫高峰、中線偏移、意識惡化）→ **≤ 60 歲於 48 h 內去顱減壓**可降低死亡率。
+
+@114-2#46|C 〔影像題〕
+67 歲男性病人，被家人發現突然無法言語及右側肢體無力，之後意識逐漸昏迷，其腦部電腦斷層掃描如下，針對此病人所做的降腦壓治療，何者最不適當？
+A. 將病床頭側抬高 20～30 度
+B. 高滲透壓製劑治療
+C. 類固醇治療
+D. 過度換氣法（hyperventilation）治療
+> 中風造成的是**細胞毒性水腫** → 類固醇無效（類固醇用於腫瘤/膿瘍的血管性水腫）。ICP 處置：床頭 30°、mannitol/高張鹽水、短暫過度換氣（PaCO₂ 30–35）、去顱減壓。
+
+### 中風定位與血管症候群
+
+@111-1#46|C 〔影像題〕
+一位66歲女性病人，有高血壓及心律不整病史多年，被家人發現突然無法言語及右側肢體無力，之後意識逐漸昏迷，其腦部電腦斷層掃描如下，最有可能發生問題的血管為何？
+A. 左側內頸動脈（internal carotid artery）
+B. 左側前大腦動脈（anterior cerebral artery）
+C. 左側中大腦動脈（middle cerebral artery）
+D. 左側後大腦動脈（posterior cerebral artery）
+> 心律不整（AF）栓塞 + 失語 + 右側偏癱 + CT 左 MCA 區大片低密度 → **左 MCA**。
+
+@111-2#44|D
+下列何者的表現最有可能是小血管中風（small-vessel stroke）？
+A. 右側無力合併失語症（aphasia）
+B. 左側無力合併左側半邊忽略（hemineglect）
+C. 右側無力合併雙眼偏向左側（conjugated eye deviation to left）
+D. 左側無力合併左側肢體共濟失調（ataxia）
+> 皮質徵候（失語、忽略、凝視偏斜）= 大血管。**Ataxic hemiparesis** 是典型 lacunar syndrome（內囊後肢/橋腦基部）；其他：pure motor、pure sensory、sensorimotor、dysarthria–clumsy hand。
+
+@111-1#44|B
+65歲婦女，因突發複視（diplopia）來求診。神經學檢查顯示：當患者看向左邊，右眼無法內收（adduction），而左眼可以完全外展（abduction）且合併眼球震顫（nystagmus）。當眼睛往右邊或上面或下面看時，兩眼的轉動均正常。最可能的病灶位置在：
+A. 左邊內側縱向束（left medial longitudinal fasciculus）
+B. 右邊內側縱向束（right medial longitudinal fasciculus）
+C. 左邊正中旁橋腦網狀結構（left paramedian pontine reticular formation）
+D. 右邊正中旁橋腦網狀結構（right paramedian pontine reticular formation）
+> **INO**：病灶在**無法內收那一側**的 MLF（右 MLF → 右眼不能內收），對側眼外展伴眼震；convergence 正常。PPRF 病灶 → 同側水平凝視麻痺。
+
+@110-2#48|C
+一位 76 歲婦人突然發生頭暈、口齒不清、聲調嘶啞（hoarseness）、右臉及左側肢體麻木（numbness）、步態不穩及嘔吐等症狀，此婦人最有可能發生病灶的部位在何處？
+A. 中腦（midbrain）
+B. 橋腦（pons）
+C. 延髓（medulla oblongata）
+D. 小腦（cerebellum）
+> **Lateral medullary（Wallenberg）syndrome**（右 PICA/VA）：同側臉痛溫覺（spinal V）、對側身體痛溫覺（spinothalamic）、**聲音嘶啞/吞嚥困難（nucleus ambiguus）**、同側 Horner、同側 ataxia、眩暈嘔吐。
+
+@113-2#46|D
+一位急性缺血性中風病人的臨床表現包括右側顏面麻木（numbness）、右側肢體失調（ataxia）、右側霍納氏症候群（Horner's syndrome）及左側肢體對疼痛感覺下降，此病患最有可能的中風位置位於下列何處？
+A. 右內側視丘（thalamus）
+B. 左內側中腦（midbrain）
+C. 左外側橋腦（pons）
+D. 右外側延腦（medulla）
+> 同側臉 + 對側身體的交叉感覺 + 同側 Horner + ataxia → **右 lateral medulla（Wallenberg）**。
+
+@114-2#44|D
+前脈絡叢動脈（anterior choroidal artery）阻塞造成的缺血性腦中風，下列何者是最不常見的臨床症狀？
+A. 半邊視野缺損（hemianopia）
+B. 半邊肢體無力（hemiplegia）
+C. 感覺功能下降（hypesthesia）
+D. 半邊忽略（hemineglect）
+> AChA（ICA 分支）供應內囊後肢、外側膝狀體、視徑 → 三偏：**hemiplegia、hemihypesthesia、hemianopia**；皮質徵候（忽略、失語）少見。
+
+@114-2#45|B
+基底動脈頂端阻塞（top of the basilar artery occlusion）影響較少的結構為：
+A. 中腦（midbrain）
+B. 橋腦（pons）
+C. 視丘（thalamus）
+D. 枕葉（occipital lobe）
+> Top of the basilar：**中腦、視丘、枕葉、顳葉內側**（PCA 分支）→ 意識障礙、垂直凝視麻痺、皮質盲、記憶障礙；橋腦由較近端的基底動脈分支供應。
+
+@115-1#46|A
+反覆發生右眼暫時性黑矇症（transient monocular blindness, amaurosis fugax），下列何者是最有可能的病因？
+A. 右側內頸動脈狹窄（internal carotid artery stenosis）
+B. 右側鎖骨下動脈狹窄（subclavian artery stenosis）
+C. 右側中大腦動脈狹窄（middle cerebral artery stenosis）
+D. 心房顫動造成心因性血栓（cardiac emboli）
+> 眼動脈是 ICA 第一分支 → **同側 ICA 粥狀斑塊栓子**；反覆、同一眼 → 頸動脈來源最可能。
+
+@115-2#46|B
+一位 70 歲男性，有高血壓與糖尿病病史。近兩週出現三次相似的短暫左手無力與構音不清，每次持續約 3～5 分鐘後完全恢復，未伴有頭暈或視覺異常，腦部 MRI 無明顯急性病灶。下列何者最可能為其暫時性腦缺血發作的病理機轉？
+A. 來自心臟或頸動脈粥樣硬化斑塊的栓塞，造成暫時遠端血管阻塞後自行溶解
+B. 穿通動脈因脂玻璃樣變化（lipohyalinosis）與微血管硬化造成反覆短暫低灌流
+C. 椎基底動脈區血流動態不足造成的低血流量
+D. 可逆性腦血管收縮症候群所致的血管痙攣性
+> 反覆、**刻板相同**的 lacunar 型 TIA（capsular warning syndrome）→ **穿通動脈小血管病變**（lipohyalinosis）造成低灌流；栓塞型 TIA 每次表現通常不同。
+
+### 腦出血與蜘蛛膜下腔出血
+
+@114-1#46|A
+56 歲男性，因為腦內出血（intracerebral hemorrhage）合併右側偏癱（hemiparesis）。他罹患高血壓多年，但卻從未接受治療。根據病史，最可能的病灶位置在：
+A. 殼核（putamen）
+B. 前額葉（prefrontal lobe）
+C. 枕葉（occipital lobe）
+D. 小腦（cerebellum）
+> 高血壓 ICH 好發（深部穿通動脈）：**putamen（最常見）**> thalamus > pons > cerebellum。皮質下葉性出血 → 想 CAA、AVM、腫瘤。
+
+@112-1#44|A 〔影像題〕
+50歲男性病人突然發生右側肢體無力，無顯影劑之腦部電腦斷層（non-contrast CT）檢查結果如下圖①，經顯影劑造影之腦部電腦斷層如下圖②。於圖②中箭頭所指的小白點，其名稱及意義為何？
+A. spot sign；代表中風容易惡化且預後較差
+B. lentiform nucleus sign；代表中風發生於基底核的小血管
+C. dot sign；代表血管有阻塞，後續可能發生腦缺血
+D. insula ribbon sign；代表先發生缺血性中風，而後發生出血
+> CTA **spot sign** = 血腫內顯影劑外滲 → 預測**血腫擴大**、預後差。Dot sign/dense MCA sign 是血栓；insular ribbon sign 是早期梗塞。
+
+@112-2#46|A 〔影像題〕
+49歲男性平常有高血壓，因突發性右側肢體無力及麻木而就診，就診當天的無顯影劑腦部電腦斷層（non-contrast CT）檢查結果如下圖①，5天後的腦部磁振造影（MRI）檢查結果如下圖②（Fluid attenuated inversion recovery, FLAIR）及圖③無施打顯影劑之T1影像。下列何者最有可能是此病人的診斷？
+A. 高血壓引發腦出血
+B. 腦腫瘤合併中心壞死（central necrosis）
+C. 多發性硬化症（multiple sclerosis）急性發作
+D. 弓形蟲（toxoplasma）腦內感染
+> CT 高密度深部血腫；5 天後 **T1 高訊號**（亞急性 methemoglobin）+ FLAIR 周邊水腫 → 高血壓性 ICH 的影像演變。
+
+@115-1#45|C 〔影像題〕
+82 歲女性病人突然發生右側枕葉頭痛合併左側視野缺損，無顯影劑之腦部電腦斷層（non-contrast CT）檢查結果如下圖①，磁振造影之磁敏感加權成像（susceptibility weighted imaging, SWI）結果如下圖②③。下列何者最有可能是此病人的診斷？
+A. 腫瘤併發腦轉移及腦出血
+B. 腦部隱球菌（cryptococcus）感染合併腦出血
+C. 大腦類澱粉血管病變（cerebral amyloid angiopathy）合併腦出血
+D. 原發性中樞神經系統血管炎（primary angiitis of central nervous system）合併腦出血
+> 老人**葉性出血** + SWI 多發**皮質/皮質下微出血**、superficial siderosis → **CAA**（Boston criteria）。
+
+@113-1#45|C
+使用第十因子抑制劑（factor Xa inhibitor）的病人若發生腦出血，下列何種藥物或治療對此病人最恰當？
+A. 新鮮冷凍血漿（fresh frozen plasma）
+B. 單株抗體反轉劑（idarucizumab）
+C. 凝血酶複合濃縮物（prothrombin complex concentrate）
+D. 血小板輸注（platelet transfusion）
+> 抗凝相關 ICH 反轉：**Xa 抑制劑（rivaroxaban、apixaban）→ andexanet alfa 或 4F-PCC**；dabigatran → **idarucizumab**；warfarin → PCC + vitamin K；抗血小板 ICH 不建議常規輸血小板。
+
+@112-1#77|C 〔臨床實例〕
+有關腦部出血相關疾病，下列敘述何者正確？
+A. 65歲男性，腦出血部位在額葉–顳葉（frontotemporal region）連接部位，是高血壓引起的腦出血好發部位之一
+B. 硬腦膜下（subdural）出血須要儘早手術，因為是腦動脈出血
+C. 蜘蛛膜下腔出血（subarachnoid hemorrhage）時，通常在第一次誤診的病人，臨床症狀會屬於Hunt and Hess Scale中的第一級（grade 1）較容易發生
+D. 小腦出血（cerebellar hemorrhage）時，原因與高血壓有關，在Romberg test及tandem gait會是正常的
+> 輕症 SAH（Hunt-Hess 1：輕微頭痛、頸僵）最易被誤診（sentinel headache）。SDH 為**橋靜脈**撕裂；葉性出血非高血壓好發；小腦出血會步態不穩、tandem gait 異常。
+
+@112-1#75|B 〔影像題〕
+60歲女性因頭痛到急診就醫，根據所附頭部電腦斷層（CT）與電腦斷層血管造影（CTA）影像判斷，下列敘述何者正確？
+A. 診斷為前交通動脈瘤破裂
+B. 治療方式包括經動脈栓塞或是外科手術
+C. 必須加做磁振血管造影（MRA）才能確定診斷
+D. 診斷為內頸動脈剝離
+> 動脈瘤性 SAH：CTA 即可診斷；治療 **endovascular coiling 或 surgical clipping**（儘早，防再出血）+ nimodipine。
+
+@113-1#74|A 〔影像題〕
+84歲女性，有高血壓病史，突然頭痛噁心而至急診求診。頭部電腦斷層檢查發現有廣泛蜘蛛網膜下腔出血（subarachnoid hemorrhage, SAH）併腦室內出血；進一步做頭部血管攝影檢查，影像如附圖（右側及左側頸動脈造影），造成她SAH的原因最可能為下列何者？
+A. 右側內頸動脈（ICA）和後交通動脈（PCommA）交界腦動脈瘤
+B. 左側內頸動脈（ICA）和後交通動脈（PCommA）交界腦動脈瘤
+C. 右側前大腦動脈瘤
+D. 左側前大腦動脈瘤
+> 依血管攝影判讀：右 ICA–PComm 動脈瘤。PComm 動脈瘤可壓迫 CN III → **瞳孔放大的動眼神經麻痺**。
+
+@115-2#74|B 〔影像題〕
+80 歲女性因為頭痛到急診就醫，根據所附兩張頭部電腦斷層（CT）影像，下列敘述何者錯誤？
+A. 有蜘蛛網膜下腔出血
+B. 比較像外傷造成的腦出血
+C. 有腦組織實質的出血
+D. 應該做電腦斷層血管造影（CTA）來排除血管病變
+> 自發性 SAH + 實質出血、無外傷 → 需 **CTA** 排除動脈瘤/AVM；非外傷型態。
+
+@115-2#45|B
+一位 52 歲女性，家族中有母親與哥哥曾因顱內動脈瘤破裂導致蜘蛛網膜下腔出血。她本身患有多囊腎病（autosomal dominant polycystic kidney disease），目前無神經症狀。接受腦部 MRI 時，意外發現一顆 5 mm 的後交通動脈（posterior communicating artery）動脈瘤。下列敘述何者最適當？
+A. 該動脈瘤 5 年內破裂風險極低（＜1％），無需追蹤
+B. 因動脈瘤位於後循環，5 年內破裂風險約 2.5％，應考慮積極評估或處理
+C. 若無高血壓或家族史，後交通動脈瘤 5 mm 的破裂風險與前大腦動脈／中大腦動脈類似
+D. 除非有動靜脈畸形共病，多囊腎病並非顱內動脈瘤的危險因子
+> ISUIA：< 7 mm 前循環 5 年破裂 ~0%，**後循環（含 PComm）約 2.5%**。危險因子：**ADPKD**、家族史（≥ 2 位一等親）、吸菸、高血壓、Ehlers-Danlos、主動脈縮窄。
+
+### 中風預防與特殊病因
+
+@113-2#44|A
+有關缺血性腦中風之抗血栓藥物（antithrombotic drugs）的使用，下列敘述何者最不恰當？
+A. 未發生腦出血性轉型（hemorrhagic transformation）應在中風發生48小時內常規使用抗凝血劑（anticoagulant）
+B. 輕度缺血性中風，短期使用aspirin合併clopidogrel可減少中風復發的機會
+C. 急性大腦靜脈竇栓塞（cerebral venous sinus thrombosis）應優先考慮使用抗凝血劑（anticoagulant）
+D. 頭頸部動脈剝離（arterial dissection），抗凝血劑（anticoagulant）和aspirin的療效相似
+> 急性缺血性中風**不建議常規早期抗凝**（出血風險 > 好處）；AF 依梗塞大小延後 1–14 天開始 NOAC。
+
+@112-2#45|A
+有關腦中風預防策略，下列敘述何者最不恰當？
+A. 症狀性顱內中大腦動脈70%狹窄，應優先考慮使用抗凝血劑（anticoagulant）預防中風
+B. 症狀性顱外內頸動脈70%狹窄，可考慮頸動脈支架置放術（carotid artery stenting）預防中風
+C. 來源不明之栓塞型中風（embolic stroke of undetermined source），可使用抗血小板藥物預防中風
+D. CHA2DS2-VASc分數為0分之非瓣膜性心房顫動（atrial fibrillation），暫不使用抗血栓藥物
+> 顱內動脈狹窄：**抗血小板（短期 DAPT）+ 積極危險因子控制**（WASID：warfarin 無效且出血多；SAMMPRIS：支架不如藥物）。症狀性顱外 ICA 70–99% → CEA（或 CAS）。
+
+@111-2#46|C
+下列造成心因性缺血性腦中風的原因，何者最不建議使用抗凝血劑預防中風？
+A. 非瓣膜性心房顫動（atrial fibrillation）合併 CHA2DS2-VASc 分數為 3
+B. 曾接受機械性瓣膜置換術（mechanical valve replacement）
+C. 感染性心內膜炎（infective endocarditis）
+D. 非細菌性血栓性心内膜炎（nonbacterial thrombotic endocarditis）
+> **IE 栓塞 → 不用抗凝**（mycotic aneurysm 出血風險）；治療靠抗生素 ± 手術。NBTE（癌症 Trousseau）用 heparin；機械瓣用 warfarin。
+
+@113-2#45|D 〔影像題〕
+70歲女性為肺癌病人，因右腳無力就診，抽血檢查發現D-dimer檢驗數值為16 mg/L（正常值為＜0.5mg/L），腦部磁振造影（MRI）檢查結果如下圖（①fluid–attenuated inversion recovery [FLAIR]；②施打顯影劑之T1影像；③diffusion–weighted imaging [DWI]）。下列何者最可能是腦部病灶的原因？
+A. 多發性腦轉移
+B. 肺結核感染
+C. 可逆性後腦病變症候群（posterior reversible encephalopathy syndrome, PRES）
+D. 多發性腦梗塞
+> 癌症 + D-dimer 極高 + **多血管區 DWI 高訊號**、無顯影腫塊 → 癌症相關高凝（Trousseau syndrome/NBTE）**多發性栓塞梗塞**。
+
+@112-2#44|C
+毛毛樣血管疾病（moyamoya disease），指的是下列何種病變？
+A. 腦部腫瘤延著小血管擴散
+B. 腦部動靜脈畸形合併周圍血管增生
+C. 顱內大血管阻塞合併側枝循環增生
+D. 中樞結核感染合併血管炎
+> **雙側 ICA 遠端/Willis 環進行性狹窄** + 基底側枝網路（puff of smoke）；東亞多（RNF213）；兒童缺血（過度換氣如吹笛子誘發）、成人出血。治療：血管繞道（STA–MCA）。
+
+@110-1#46|D
+李小姐，45歲，因頭痛及癲癇發作，被診斷為腦靜脈栓塞（cerebral venous thrombosis）。對此疾病的敘述下列何者最正確？
+A. 腦靜脈栓塞不會合併腦出血
+B. 電腦斷層攝影檢查（CT）較核磁共振攝影檢查（MRI）診斷價值高
+C. 腦壓太高時，應考慮以腰椎穿刺做緊急腦脊髓液引流
+D. 可給與抗凝血藥物治療
+> CVT：**即使合併出血性梗塞仍給抗凝**（heparin/LMWH → 口服）；診斷 MRI + MRV/CTV；靜脈性梗塞常出血。
+
+@110-2#49|A/C（A、C 均給分）
+最常發生腦靜脈竇栓塞（cerebral venous sinus thrombosis）的血管為何？
+A. 上矢狀竇（superior sagittal sinus）
+B. 下矢狀竇（inferior sagittal sinus）
+C. 橫竇（transverse sinus）
+D. 海綿竇（cavernous sinus）
+> 最常受侵：**上矢狀竇與橫竇**（文獻排序不一，故兩者給分）；CT 顯影可見 **empty delta sign**。
+
+@113-1#44|D
+下列何者最不會是造成大腦靜脈竇栓塞（cerebral venous sinus thrombosis）的原因？
+A. 使用避孕藥
+B. 抗磷脂質症候群（antiphospholipid syndrome）
+C. 腦膜炎
+D. 同半胱胺酸缺乏（homocysteine deficiency）
+> CVT 危險因子：口服避孕藥、懷孕/產褥期、易栓症（APS、factor V Leiden、protein C/S/AT 缺乏）、**高**同半胱胺酸血症、感染（中耳炎、腦膜炎）、癌症、脫水。
+
+@110-2#75|D 〔影像題〕
+41 歲女性患者，主訴近幾天有頭痛、噁心和嘔吐症狀，接受電腦斷層檢查，圖 A 為未注射顯影劑之影像，圖 B 則為注射顯影劑後的影像，在圖 B 箭頭所指的是：
+A. 硬腦膜下血腫（subdural hematoma）
+B. 蜘蛛網膜下腔出血（subarachnoid hemorrhage）
+C. 硬腦膜外血腫（epidural hematoma）
+D. 靜脈竇栓塞（venous sinus thrombosis）
+> 顯影後竇內血栓不顯影、周圍竇壁顯影 = **empty delta sign** → 靜脈竇栓塞。
+
+@112-1#45|B
+針對可逆性後腦病變症候群（posterior reversible encephalopathy syndrome, PRES），下列敘述何者最不恰當？
+A. 可能因血壓過高，超過大腦自主調節（autoregulation）的極限所造成
+B. 病人的神經學症狀會顯著改善，但腦部磁振造影的影像通常會長期存在明顯異常
+C. 病人常會出現頭痛和視覺異常的症狀
+D. 典型腦部影像會出現枕葉水腫，但該現象也有可能出現在其它腦區
+> PRES：高血壓、子癲前症、免疫抑制劑（cyclosporine、tacrolimus）、化療 → 頂枕葉**血管性水腫**；頭痛、視覺障礙、癲癇、意識改變；控制病因後臨床與影像皆**可逆**。
+
+@110-2#44|D
+有關腦中風併發症之敘述，下列何者最不恰當？
+A. 腦中風併發症常包括關節僵硬、泌尿道感染、吸入性肺炎、褥瘡
+B. 復健有助於減少腦中風之併發症
+C. 急性期意識不清容易引起吸入性肺炎
+D. 抗憂鬱症藥物對腦中風後併發憂鬱症之病人沒有幫助
+> 中風後憂鬱常見（約 1/3），**SSRI 有效**且可能改善功能恢復。

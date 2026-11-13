@@ -27,11 +27,15 @@ EXAM_CODES = {
 }
 # 考選部 subject code (s=) per paper; changed format from 114 年起
 SUBJECT = {
+    "醫學（四）": {**{e: "22" for e in EXAM_CODES}, "114-1": "0104", "114-2": "0102", "115-1": "0104", "115-2": "0102"},
     "醫學（五）": {**{e: "33" for e in EXAM_CODES}, "114-1": "0105", "114-2": "0103", "115-1": "0105", "115-2": "0103"},
     "醫學（六）": {**{e: "44" for e in EXAM_CODES}, "114-1": "0106", "114-2": "0104", "115-1": "0106", "115-2": "0104"},
 }
 
 SPECIALTIES = {
+    "neuro": dict(name="神經內科", paper="醫學（四）", folder="醫學四", core=range(44, 59),
+                  skip={("110-1", 44)},
+                  scope="每卷第 44–58 題（110 年第 1 次為第 45–58 題），另收錄第 74–78 題中與神經科相關的影像/臨床實例題"),
     "rehab": dict(name="復健科", paper="醫學（六）", folder="醫學六", core=range(58, 72),
                   scope="每卷第 58–71 題，另收錄第 72–77 題中與復健相關的影像/臨床實例題"),
     "uro": dict(name="泌尿科", paper="醫學（五）", folder="醫學五", core=range(64, 72),
@@ -108,7 +112,8 @@ def build(slug):
                 n += 1
                 seen[(v["exam"], v["no"])] += 1
                 body.append(render_q(spec, v, n))
-    missing = [(e, j) for e in EXAM_CODES for j in spec["core"] if (e, j) not in seen]
+    missing = [(e, j) for e in EXAM_CODES for j in spec["core"]
+               if (e, j) not in seen and (e, j) not in spec.get("skip", ())]
     dup = [k for k, c in seen.items() if c > 1]
     if missing or dup:
         sys.exit(f"{slug}: missing={missing} dup={dup}")

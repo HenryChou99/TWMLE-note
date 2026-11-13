@@ -1,0 +1,288 @@
+## 十、中樞脫髓鞘疾病
+### 多發性硬化症
+
+@112-2#56|B
+關於多發性硬化症（multiple sclerosis），下列敘述何者錯誤？
+A. 為中樞神經白質去髓鞘病變（demyelinating disease）
+B. 緯度愈高，天氣愈冷的地區，發生率愈低
+C. 視神經發炎是常見的初始症狀
+D. 病人可能合併疲倦及沮喪等症狀
+> MS 盛行率**隨緯度升高而增加**（維生素 D、日照）；年輕女性；視神經炎、INO、Lhermitte、Uhthoff（熱加重）、疲倦、憂鬱。
+
+@115-2#58|B
+關於多發性硬化症（multiple sclerosis, MS）的敘述，下列何者最不適當？
+A. 在 MS 的致病過程中，T 淋巴球和 B 淋巴球的功能調控，兩者均有失常
+B. MS 的發病病程有多種形式，其中以原發持續惡化型（primary progressive type）最常見
+C. MS 是一種慢性中樞神經系統自體免疫疾病，其特徵是發炎和神經退化
+D. MS 的診斷標準（McDonald criteria）包括臨床、放射線、腦脊髓液檢查結果，以確定疾病在病程和病灶位置上的表現
+> 最常見 **relapsing-remitting（~85%）**；PPMS ~10–15%（ocrelizumab）。McDonald：空間多發（DIS）+ 時間多發（DIT），CSF OCB 可替代 DIT。
+
+@111-2#58|A
+關於多發性硬化症（multiple sclerosis）急性發作時腦脊髓液檢查的敘述，下列何者錯誤？
+A. 腦脊髓液中的總蛋白濃度常大於 100 mg/dL
+B. 部分病人腦脊髓液中的白血球數量有輕微程度的增加
+C. 部分病人的腦脊髓液經免疫電泳分析後，可以發現在病人血清樣本中所不存在的 oligoclonal bands
+D. 腦脊髓液中葡萄糖量是在正常範圍
+> MS CSF：蛋白**正常或輕度上升**（> 100 少見）、WBC < 50（多 < 15）、**CSF 特有 OCB**（> 90%）、IgG index↑、糖正常。
+
+### 視神經脊髓炎與 ADEM
+
+@111-1#58|A
+下列何者與視神經脊髓炎（neuromyelitis optica spectrum disorder, NMOSD）的相關性最為密切？
+A. anti-aquaporin (AQP4) antibody
+B. anti-ganglioside GQ1b antibody
+C. anti- muscle specific kinase (MuSK) antibody
+D. anti-glutamic acid decarboxylase (GAD) antibody
+> NMOSD = **anti-AQP4**（星狀細胞水通道）。GQ1b → Miller Fisher；MuSK → MG；GAD → stiff-person、小腦失調。
+
+@114-2#58|B
+下列何者不是視神經脊髓炎（neuromyelitis optica spectrum disorder）的核心臨床病症（core clinical characteristics）？
+A. 最後區症候群（area postrema syndrome）
+B. 失語症（aphasia）
+C. 視神經炎（optic neuritis）
+D. 急性脊髓炎（acute myelitis）
+> 六大核心：**視神經炎、急性脊髓炎（LETM ≥ 3 節）、area postrema（頑固打嗝/嘔吐）**、急性腦幹、症狀性嗜睡/間腦、大腦症候群。
+
+@113-1#56|A
+關於多發性硬化症（multiple sclerosis, MS）及視神經脊髓炎（neuromyelitis optica spectrum disorder, NMOSD）之比較，下列何者錯誤？
+A. MS病人女比男多，而NMOSD病人男比女多
+B. 臨床症狀及預後，通常NMOSD病人比MS病人嚴重
+C. 寡株帶（oligoclonal band）常見於MS病人的腦脊髓液中，而水離子通道蛋白抗體（aquaporin-4 antibody）常見於NMOSD病人
+D. MS病人脊髓發炎長度大都小於三節；而NMOSD病人其脊髓發炎長度等於三節或多於三節以上
+> NMOSD **女性比例更高（約 9:1）**、亞洲較多、發作重、恢復差；某些 MS 藥物（interferon、fingolimod、natalizumab）會**惡化** NMOSD。
+
+@112-1#57|B
+下列何者不是視神經脊髓炎（neuromyelitis optica spectrum disorder, NMOSD）病人常見的共病症（comorbidity）之一？
+A. 重症肌無力（myasthenia gravis）
+B. 胸腺瘤（thymoma）
+C. Sjögren's 症候群（Sjögren's syndrome）
+D. 紅斑性狼瘡（systemic lupus erythematosus）
+> NMOSD 常合併其他自體免疫：**SLE、Sjögren、MG**、甲狀腺炎。胸腺瘤與 MG 相關，非 NMOSD 的常見共病。
+
+@114-1#58|C/D（C、D 均給分）
+關於急性瀰漫性腦脊髓炎（acute disseminated encephalomyelitis, ADEM）的敘述，下列何者錯誤？
+A. 常發生在病毒或細菌感染後
+B. 偶爾在疫苗接種後發生
+C. 常是單一病程，不會反覆發病
+D. 較好發於成年人
+> ADEM：**兒童**為主、感染/疫苗後 1–3 週、**腦病變（意識改變）**+ 多灶性大片白質病灶；多為單相（但可 multiphasic，故 C 亦給分）；MOG 抗體常陽性；高劑量類固醇。原答 D。
+
+## 十一、中樞神經感染與腦炎
+### 腦膜炎
+
+@110-2#57|B
+36 歲健康女性，因為發燒頭痛數日來到急診。病人意識混亂、頸部僵硬，但腦部電腦斷層檢查無異常。腦脊髓液檢查發現，白血球 20 個／μL，絕大部分是淋巴球，紅血球有 2 個／μL，蛋白質 45 mg/dL，葡萄糖 50 mg/dL，血液中葡萄糖 80 mg/dL。最可能的診斷是：
+A. 蜘蛛膜下腔出血（subarachnoid hemorrhage）
+B. 病毒性腦膜炎（viral meningitis）
+C. 真菌性腦膜炎（fungal meningitis）
+D. 細菌性腦膜炎（bacterial meningitis）
+> 淋巴球輕度上升 + 糖正常（CSF/血糖 > 0.6）+ 蛋白正常/輕升 → **病毒性**。
+
+@113-2#58|A
+35歲男性，三天前開始突然頭痛、發燒、頸部僵硬，於急診執行腰椎穿刺檢查，數值如下：腦脊髓液（CSF）紅血球（RBC）= 0 /μL；白血球（WBC）= 40 /μL（90%為淋巴球、10%為中性球），蛋白質（protein）= 50 mg/dL；葡萄糖（glucose）= 70 mg/dL。下列何者為最可能的診斷？
+A. 病毒性腦膜炎
+B. 細菌性腦膜炎
+C. 結核性腦膜炎
+D. 隱球菌腦膜炎
+> 急性 + 淋巴球 + **糖正常** → 病毒性（腸病毒最常見）。TB/隱球菌：亞急性、淋巴球、**低糖、高蛋白**。
+
+@112-1#56|B
+當病人疑似罹患急性細菌性腦膜炎時，下列給與抗生素治療的時機，何者最不合適？
+A. 血液細菌培養採樣後
+B. 確定腦脊髓液的革蘭氏染色（Gram's stain）結果後
+C. 腦部電腦斷層攝影前
+D. 確定腦脊髓液細菌培養報告前
+> **抽完血液培養後立即給 dexamethasone + 經驗性抗生素**；需先 CT（免疫低下、局部徵候、papilledema、意識差、新發癲癇）時，不可等 CT/LP 結果。
+
+@112-2#58|C
+關於急性化膿性腦膜炎（acute purulent meningitis）的敘述，下列何者最恰當？
+A. 高達80%以上的病人會同時出現高燒、頸部僵硬及意識改變的臨床表徵
+B. 因B型鏈球菌（group B streptococcus）感染造成的比率約5%
+C. 在得知細菌培養結果之前，為防治具盤尼西林抗藥性的肺炎鏈球菌（S. pneumoniae），所使用的抗生素須包括第三代的頭孢菌素類（cephalosporin）
+D. 病人腦壓升高時，可能會出現心跳變快、血壓上升及呼吸不規則的變化
+> 成人經驗性：**ceftriaxone + vancomycin**（> 50 歲或免疫低下加 ampicillin 涵蓋 Listeria）。典型三徵僅約 **44%** 同時出現。ICP↑ → Cushing：**心搏過緩**。
+
+@110-1#58|A
+關於治療結核菌腦膜炎的敘述，下列何者錯誤？
+A. 不可使用類固醇（corticosteroid）
+B. 如果症狀與腦脊髓液檢查結果皆高度懷疑結核菌腦膜炎，就必須儘早投予抗結核菌藥物
+C. 抗結核菌藥物需持續服用6個月以上
+D. 使用isoniazid治療時需併用pyridoxine以避免發生周邊神經炎（peripheral neuropathy）
+> TBM：**加 dexamethasone 可降低死亡率**；經驗性治療勿延誤；療程 9–12 個月；INH + **B6**。影像：基底腦膜增強、水腦、梗塞。
+
+@110-1#57|A
+如果要診斷為神經性梅毒合併失智症，下列那一組檢查結果最具有診斷的正確性？①血清之梅毒螺旋體血球凝集試驗（T. pallidum particle agglutination test, MHA-TP）為陽性反應 ②腦脊髓液之VDRL為陽性反應 ③腦脊髓液之TPHA為陽性反應 ④腦波呈現典型的週期性單側癲癇樣放電（periodic lateralized epileptiform discharges）
+A. ①②
+B. ②④
+C. ①④
+D. ③④
+> 血清 treponemal test（+）證實感染 + **CSF VDRL（+）**（特異度高、敏感度低）→ 神經梅毒。CSF treponemal test 敏感度高但特異度低（排除用）。治療 IV penicillin G 10–14 天。
+
+### 腦炎與腦膿瘍
+
+@111-2#56|A
+下列何種造成中樞神經感染之病原體易攻擊腦部的前顳葉，常可於腦部磁振造影發現該處之病灶？
+A. 單純疱疹病毒
+B. 肺炎鏈球菌
+C. 結核菌
+D. 隱球菌
+> **HSV-1 腦炎**：內側/前顳葉、眶額、insula（出血壞死）；發燒、意識改變、行為改變、癲癇；CSF HSV PCR；**立即 acyclovir**。
+
+@115-1#58|A
+對於病毒性腦炎的敘述，下列何者正確？
+A. 第一型單純疱疹病毒（HSV-1）通常是造成疱疹病毒腦炎的元凶，也容易在口腔周圍出現疱疹
+B. 帶狀疱疹病毒（VZV）和小兒麻痺病毒一樣，常造成運動神經元感染
+C. 小時候受過水痘（chickenpox）感染的病童，成年後就不會受到帶狀疱疹的侵犯
+D. 疱疹病毒腦炎所侵犯的範圍，侷限在腦幹，尤其是延腦後半部
+> 成人 HSE 多為 **HSV-1**（新生兒為 HSV-2）。VZV 潛伏於感覺神經節，水痘後再活化為帶狀疱疹。腦幹腦炎 → 想 Listeria、腸病毒 71。
+
+@114-1#56|C
+關於腦炎的敘述，下列何者錯誤？
+A. 腦炎常因病毒感染而發生，也可以是因為自體免疫的機制而發病
+B. 常見的臨床病症包括發燒、意識障礙與癲癇發作
+C. 腦脊髓液檢查中白血球的數量增加是腦炎診斷的必要條件
+D. 當病人疑似罹患病毒性腦炎時，在確定感染的病原體前，可先開始使用 acyclovir 治療
+> CSF pleocytosis 常見但**非必要**（早期或免疫低下可正常）；疑似即先給 **acyclovir**。
+
+@113-2#50|A
+20歲女性最近兩週發生癲癇，也有幻視幻聽，妄想旁人要害她，肢體及臉、口部會有不自主的抽搐動作。她過去身體健康，也沒有使用任何藥物。腦部磁振造影掃描結果正常，她最可能的診斷是：
+A. 抗NMDA受體腦炎（anti-N-methyl-D-aspartate receptor encephalitis）
+B. 隱球菌腦膜炎（cryptococcal meningitis）
+C. 腸病毒腦炎（enterovirus encephalitis）
+D. 鏈球菌腦膜炎（streptococcal meningitis）
+> **Anti-NMDAR 腦炎**：年輕女性、精神症狀 → 癲癇、**口顏面異動**、意識下降、自主神經不穩、低換氣；MRI 常正常；查**卵巢畸胎瘤**；治療切除腫瘤 + 免疫治療。
+
+@115-2#48|B
+45 歲女性，最近一個月出現記憶障礙與反覆右手抽搐。MRI T2 flair 影像顯示顳葉高訊號變化，腦電圖（EEG）顯示局部慢波，血清抗體陽性。下列何者為最可能之病因？
+A. HSV（herpes simplex virus）腦炎
+B. 自體免疫性邊緣葉腦炎（autoimmune limbic encephalitis）
+C. 多發性硬化症（multiple sclerosis）
+D. 代謝性腦病變（metabolic encephalopathy）
+> **亞急性**記憶障礙 + 癲癇 + 內側顳葉 T2/FLAIR 高訊號 + 抗體（LGI1：faciobrachial dystonic seizures、低血鈉；或 paraneoplastic anti-Hu、Ma2）→ 自體免疫邊緣葉腦炎。
+
+@114-2#56|B
+關於腦膿瘍（brain abscess）的敘述，下列何者錯誤？
+A. 並非所有病人在診斷時都會有發燒的現象
+B. 病人應儘早進行腦脊髓液檢查，以確定病原菌
+C. 關於後顱窩腦膿瘍的診斷，磁振造影比電腦斷層攝影更靈敏
+D. 利用立體定位（stereotactic guidance）方式來進行腦膿瘍的抽取與引流（aspiration and drainage）有助於腦膿瘍的診斷與治療
+> 腦膿瘍**避免腰椎穿刺**（腦疝風險、陽性率低）；典型三徵（頭痛、發燒、局部徵候）不到半數；MRI **環狀顯影 + DWI 中心高訊號**（vs 腫瘤壞死 DWI 低）；立體定位抽吸 + 抗生素。
+
+## 十二、腫瘤與神經皮膚症候群
+### 腦腫瘤
+
+@113-2#56|A
+關於腦膜瘤（meningioma）的敘述，下列何者錯誤？
+A. 是第二常見的原發性顱內腫瘤
+B. 發生的機會隨著年齡增加而增加
+C. 女性發生腦膜瘤的機率比男性高
+D. 可能發生在脊髓硬腦膜
+> Meningioma 是**最常見**的原發性顱內腫瘤（~35–40%）；中年女性、黃體素受體、NF2、放射線；多為良性。
+
+@114-2#74|B 〔臨床實例〕
+關於腦膜瘤（meningioma）的影像特徵，下列敘述何者錯誤？
+A. 腫瘤通常會貼著硬腦膜生長
+B. 腫瘤包圍大血管時通常不會造成血管狹窄
+C. 腫瘤細胞有可能會侵犯附近的骨頭
+D. 打完顯影劑以後通常有很好的顯影加強現象
+> 腦膜瘤：軸外、**dural tail**、均勻強顯影、鄰近骨頭增生（hyperostosis）、可鈣化；包覆血管時**常使血管狹窄**（pituitary adenoma 包覆 ICA 則少狹窄）。
+
+@111-2#57|D
+高惡性度神經膠質瘤（high-grade glioma）與低惡性度神經膠質瘤（low-grade glioma）的臨床病症相比較，下列何者錯誤？
+A. 高惡性度神經膠質瘤的病人較可能發生認知功能障礙
+B. 高惡性度神經膠質瘤的病人較可能發生單側上下肢體無力（hemiparesis）
+C. 高惡性度神經膠質瘤的病人較可能發生失語症（aphasia）
+D. 高惡性度神經膠質瘤的病人較可能發生癲癇發作（seizures）
+> **低惡性度**膠質瘤（尤其 oligodendroglioma、皮質腫瘤）較常以**癲癇**表現；高惡性度生長快 → 局部缺損、ICP↑、認知改變。
+
+@112-1#74|C 〔影像題〕
+28歲女性，最近偶爾會有突發性的暈厥，腦部CT及MRI影像如附圖所示，下列敘述何者最不恰當？
+A. 此腫瘤有鈣化現象
+B. 此腫瘤可能是瀰漫性膠質瘤（diffuse glioma）
+C. 此腫瘤可能是腦膜瘤（meningioma）
+D. 此腫瘤可能是寡樹突膠質細胞瘤（oligodendroglioma）
+> 年輕人、癲癇樣發作、**軸內（腦實質）鈣化腫瘤**（額葉）→ oligodendroglioma（IDH 突變 + 1p/19q 共缺失）等 diffuse glioma；腦膜瘤為軸外。
+
+@114-2#57|B
+關於中樞神經系統惡性腫瘤轉移的敘述，下列何者最不恰當？
+A. 最常發生腦轉移的惡性腫瘤是肺癌與乳癌
+B. 最常發生腦膜轉移（leptomeningeal metastases）的惡性腫瘤是淋巴癌
+C. 攝護腺癌與乳癌易轉移至硬腦膜（dura）
+D. 腦部最常發生腫瘤轉移的部位是灰白質交界
+> 腦轉移：**肺 > 乳 > 黑色素瘤**；灰白質交界、分水嶺。軟腦膜轉移以**固體癌（乳癌、肺癌、黑色素瘤）**最常見（血液腫瘤亦易但總數較少）。
+
+@113-2#74|C 〔臨床實例〕
+關於轉移性腦瘤（brain metastasis）的影像表現，下列敘述何者錯誤？
+A. 若無出血，轉移性腦瘤在不注射顯影劑的電腦斷層影像通常是低密度的病灶
+B. 在頭部電腦斷層和磁振造影檢查，靜脈注射顯影劑之後，轉移性腦瘤通常呈現顯影加強現象
+C. 在成人的後顱窩腦實質病灶，最不可能是轉移性腦瘤
+D. 轉移性腦瘤若是單一性，可能和原發性腦腫瘤無法區分
+> 成人**後顱窩（小腦）實質腫塊最常見為轉移**（其次 hemangioblastoma）。轉移：多發、灰白質交界、水腫不成比例的大。
+
+@115-1#56|C
+關於原發性中樞神經淋巴瘤（primary central nervous system lymphoma, PCNSL）的敘述，下列何者錯誤？
+A. 與一般民眾相較，人類免疫不全病毒（human immunodeficiency virus, HIV）感染者有較高罹患 PCNSL 的風險
+B. 與一般民眾相較，接收器官移植的病人有較高罹患 PCNSL 的風險
+C. 人類疱疹病毒 6（human herpesvirus 6）在 PCNSL 的致病機制中扮演了重要角色
+D. 對於疑似 PCNSL 的病人，在進行病理切片確定診斷前，不宜使用類固醇治療
+> 免疫低下 PCNSL 與 **EBV** 相關（HHV-8 → Kaposi/PEL）；多為 DLBCL；深部/胼胝體、DWI 高訊號、均勻顯影；**類固醇使腫瘤縮小、干擾切片**；治療 high-dose MTX。
+
+### 腦下垂體腫瘤
+
+@113-1#57|C
+關於腦下垂體腫瘤，下列敘述何者最不恰當？
+A. 雙顳側偏盲（bitemporal hemianopia）可能是症狀之一
+B. 可能會因為壓迫視交叉（optic chiasm）或直接侵犯視神經造成病人視力喪失
+C. 常合併血中泌乳激素低下（hypoprolactinemia）
+D. 頭痛是常見的臨床表現
+> 大腺瘤壓迫垂體柄 → 解除 dopamine 抑制 → **泌乳激素輕度上升（stalk effect）**；最常見功能性腺瘤為 prolactinoma。壓迫視交叉 → 雙顳側偏盲。
+
+@115-1#75|A 〔影像題〕
+56 歲男性，主訴近 2 年來雙側視力模糊，頭部磁振造影檢查結果如附圖，下列何者為最可能之診斷？
+A. 腦下垂體腺瘤（pituitary adenoma）
+B. 視神經膠質瘤（optic glioma）
+C. 動脈瘤（aneurysm）
+D. 松果體腫瘤（pineal tumor）
+> 鞍區腫塊向上壓迫視交叉（snowman/figure-of-8）→ 雙側視力模糊/雙顳側偏盲 → pituitary macroadenoma。
+
+@114-1#74|D 〔影像題〕
+53 歲女性，一個月來有頭痛現象，根據所附二張 MRI 影像，下列何者為最可能的診斷？
+A. 內頸動脈動脈瘤
+B. 腦膜瘤
+C. 多形性膠質母細胞瘤
+D. 腦下垂體腺瘤
+> 鞍區/鞍上腫塊、與正常垂體無法分開 → 垂體腺瘤；評估荷爾蒙（PRL、GH/IGF-1、ACTH/cortisol、TSH）與視野。
+
+### 神經皮膚症候群與遺傳
+
+@110-1#45|C
+下列遺傳性疾病，何者最容易有腦出血的併發症？
+A. 蛋白C缺乏症（protein C deficiency）
+B. 蛋白S缺乏症（protein S deficiency）
+C. 馮希伯–林島氏症（von Hippel-Lindau disease）
+D. 抗凝血酶III缺乏症（antithrombin III deficiency）
+> **VHL**（AD、3p）：小腦/脊髓/視網膜 **hemangioblastoma（可出血）**、RCC、pheochromocytoma、胰臟囊腫。Protein C/S/AT 缺乏 → 血栓（含 CVT）。
+
+@110-2#56|D
+下列有關結節性硬化症（tuberous sclerosis complex）的臨床表現，何者正確？
+A. 臉上出現葡萄酒色的色斑（port-wine facial stain）
+B. 雙側額葉出現腦膜瘤
+C. 眼眶周圍出現 heliotrope 徵兆
+D. 在腦部出現室管膜巨細胞星形膠質細胞瘤（subependymal giant cell astrocytoma）
+> **TSC**（TSC1/2，mTOR）：皮質結節、室管膜下結節、**SEGA**（mTOR 抑制劑 everolimus）、嬰兒點頭痙攣（vigabatrin）、ash-leaf、facial angiofibroma、shagreen、心臟橫紋肌瘤、腎 AML。Port-wine = Sturge-Weber；雙側聽神經瘤/腦膜瘤 = NF2；heliotrope = DM。
+
+@110-2#74|A 〔影像題〕
+32 歲女性患者有癲癇、心智遲緩的病史，接受電腦斷層檢查，2 張圖分別是未注射顯影劑的不同切面影像，下列何者是最可能的診斷？
+A. 結節硬化症（tuberous sclerosis）
+B. 神經纖維瘤第一型（neurofibromatosis type 1）
+C. 神經纖維瘤第二型（neurofibromatosis type 2）
+D. 馮希伯－林島氏症候群（von Hippel-Lindau syndrome）
+> 癲癇 + 智能障礙 + CT **鈣化室管膜下結節** → TSC（Vogt triad：癲癇、智能障礙、facial angiofibroma）。
+
+@115-2#53|C
+有關唐氏症（Down syndrome）的敘述，下列何者最適當？
+A. 致病原因是染色體 18 的一段出現異常的現象
+B. 時常出現身高矮小、脊柱側彎，但是智力不受影響
+C. 可以抽取孕婦的羊水，來檢測胎兒是否有三染色體的不正常表現
+D. 在成年後會因為運動神經元死亡而造成肌肉萎縮無力
+> Trisomy **21**；智能障礙、低張、心內膜墊缺損、寰樞椎不穩；**早發 AD**（APP）；羊膜穿刺/絨毛取樣做核型確診，NIPT 篩檢。

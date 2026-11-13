@@ -1,0 +1,335 @@
+## 五、失智症與高級皮質功能
+### 阿茲海默症與輕度認知障礙
+
+@112-1#50|B
+68 歲女性主訴記憶力不佳，目前日常生活可自理，仍可擔任志工工作。她沒有憂鬱或是焦慮的症狀。她的蒙特利爾認知評估（Montreal Cognitive Assessment）得分23分（滿分30分），其中五項物品回想她都無法記起來，腦部磁振造影掃描結果正常。她最可能的診斷是：
+A. 正常老化（normal aging）
+B. 輕度認知障礙（mild cognitive impairment）
+C. 失智症（dementia）
+D. 主觀認知退化（subjective cognitive decline）
+> **MCI**：主訴 + **客觀測驗異常**（MoCA < 26）+ **日常功能保留**。失智症 = 認知退化 + 影響日常獨立功能。主觀認知退化 = 測驗正常。
+
+@110-1#52|C
+有關早期阿茲海默症病人的腦脊髓液分析，下列何者最有可能？
+A. Aβ42上升、phosphorylated tau protein上升
+B. Aβ42上升、phosphorylated tau protein下降
+C. Aβ42下降、phosphorylated tau protein上升
+D. Aβ42下降、phosphorylated tau protein下降
+> AD CSF：**Aβ42↓**（沉積於斑塊）、**p-tau↑、t-tau↑**。
+
+@111-1#52|A
+60歲男性病患被診斷為失智症，下列那一項檢查結果最不像是阿茲海默症（Alzheimer disease）？
+A. 腦脊髓液中的類澱粉蛋白β-42（amyloid β-42）增加
+B. 核磁共振造影發現海馬迴（hippocampus）萎縮
+C. 類澱粉正子斷層造影（amyloid positron emission tomography）結果陽性
+D. 氟化去氧葡萄糖正子斷層造影（2-fluoro-2-deoxy-D-glucose positron emission tomography）發現顳葉及頂葉（temporoparietal lobes）代謝活性降低
+> AD：CSF Aβ42 **下降**；MRI 海馬迴/內側顳葉萎縮；amyloid PET 陽性；FDG-PET 顳頂葉、後扣帶迴低代謝。
+
+@114-1#52|B/C（B、C 均給分）
+有關阿茲海默氏病（Alzheimer disease），下列敘述何者錯誤？
+A. 是最常見的退化型失智症
+B. APP、PSEN1 及 PSEN2 基因突變，會造成隱性遺傳
+C. 病理特徵是細胞外類澱粉斑塊與細胞內神經糾結
+D. 臨床症狀有時會出現妄想症狀
+> 早發家族性 AD：APP、PSEN1、PSEN2 突變為**體染色體顯性**（原答 B）。病理：細胞外 neuritic plaques（Aβ）+ 細胞內 NFT（tau）。晚發型風險基因 APOE ε4。
+
+@114-2#50|B
+有關失智症的敘述，下列何者錯誤？
+A. 低教育程度是失智症的危險因子
+B. 類澱粉斑塊是由類澱粉蛋白先驅物（amyloid precursor protein）經由單一酵素裁切而成
+C. 唐氏症的腦部病理表現與阿茲海默氏病類似
+D. 額顳葉失智症常見的亞型是行為亞型（behavioral variant）
+> APP 依序經 **β-secretase（BACE1）→ γ-secretase（presenilin）**兩步裁切產生 Aβ42；α-secretase 路徑為非類澱粉性。
+
+@112-2#57|D
+唐氏症（Down syndrome）的病人在40歲之後會出現阿茲海默氏病（Alzheimer disease）的神經病理變化。這個現象是因為下列那個基因過度表現所造成的？
+A. APOE
+B. PSEN1
+C. PSEN2
+D. APP
+> **APP 位於 21 號染色體** → trisomy 21 三套 APP → Aβ 過量 → 40 歲後幾乎皆有 AD 病理。
+
+@113-1#51|B
+用來治療阿茲海默氏病（Alzheimer disease）的藥物memantine，它最主要的機轉是：
+A. 乙醯膽鹼酯酶（cholinesterase）抑制劑
+B. 阻斷N-methyl-D-aspartate（NMDA）glutamate受體
+C. 抑制γ secretase
+D. 抑制β secretase
+> **Memantine = NMDA 受體非競爭性拮抗劑**（中重度 AD）。AChEI：donepezil、rivastigmine、galantamine（輕～重度）。抗 Aβ 單抗：lecanemab、donanemab（早期，注意 ARIA）。
+
+### 其他失智症
+
+@110-1#53|A
+下列有關路易氏體失智症（dementia with Lewy bodies）的敘述，何者錯誤？
+A. 應儘量使用dopamine agonist以治療病人的parkinsonism的症狀
+B. 早期即可能出現視幻覺
+C. 出現動眼期睡眠行為障礙（REM sleep behavior disorder）
+D. 常有不明原因意識不清、跌倒或昏倒
+> **DLB 核心**：認知**波動**、反覆**視幻覺**、**RBD**、parkinsonism；對抗精神病藥**極度敏感**。Dopamine agonist 易加重幻覺 → 以低劑量 levodopa 為主；AChEI 有效。
+
+@115-2#50|C
+一位 78 歲男性，具有高血壓與糖尿病病史，近半年出現認知下降。家屬描述病人步態變慢、注意力下降、情緒低落，沒有明顯記憶力減退。神經學檢查中發現輕度下肢僵硬，MRI 顯示多發性深部白質缺血病灶。下列何者為最可能之失智症診斷？
+A. 阿茲海默病（Alzheimer disease）
+B. 額顳葉失智症（frontotemporal dementia）
+C. 多發性腦梗塞失智症（multi-infarct dementia）
+D. 路易體失智症（dementia with Lewy bodies）
+> **血管性失智症（皮質下型）**：處理速度慢、注意力/執行功能障礙、情緒低落、步態異常（lower-body parkinsonism）、尿失禁；記憶相對保留；MRI 深部白質病灶。
+
+@111-2#74|D 〔影像題〕
+55 歲男性由於認知功能退化到精神科求診，根據所附頭部磁振造影（MRI）影像，下列何者為最可能的診斷？
+A. 阿茲海默症（Alzheimer's disease）
+B. 額顳葉失智症（frontotemporal dementia）
+C. 路易氏體失智症（dementia withLewy bodies）
+D. 血管性失智症（vascular dementia）
+> MRI 多發梗塞/廣泛白質高訊號 → 血管性失智症。
+
+@111-2#51|A 〔影像題〕
+54 歲女性主訴最近三年來記憶力減退，她在 49 歲時曾發生右側肢體無力，後來完全恢復。她的簡易智能測驗（Mini-Mental State Examination）得分 22 分（滿分 30 分），她的父親、叔叔和哥哥都有中風和失智的病史。她的腦部磁振造影掃描結果如下圖，她最有可能是那一個基因變異？
+A. Notch-3
+B. MTHFR
+C. SOD
+D. PSEN-1
+> **CADASIL（NOTCH3，AD）**：年輕反覆皮質下梗塞、先兆偏頭痛、情緒障礙、失智；MRI 白質病灶累及**前顳極、外囊**。
+
+@110-1#51|B
+有關原發性常壓性水腦症（idiopathic normal pressure hydrocephalus）的臨床表現與檢查發現，何者正確？
+A. 病人很少併有尿失禁
+B. 步態異常（gait disturbance）往往是第一個、也是最常見的症狀
+C. 病人辨認人臉（face recognition）的功能障礙特別嚴重
+D. 脊髓液引流術對步態不穩無法改善
+> **NPH 三徵：步態（magnetic gait，最早最明顯）、失智（皮質下）、尿失禁**；腦室擴大不成比例於腦溝。
+
+@110-2#50|B
+一位 70 歲男性因為記憶減退及尿失禁被帶來門診。身體檢查發現他走路變慢，兩腳像是被黏在地上。但並無顫抖，也沒有相關疾病的家族史。核磁共振造影檢查發現兩側腦室變大。此時應該進一步安排下列那一項檢查，最可能幫助診斷的確立？
+A. 檢查亨丁頓舞蹈症（Huntington disease）的基因突變
+B. 做腰椎穿刺引流大量之腦脊髓液
+C. 給與左多巴（levodopa）
+D. 氟化去氧葡萄糖正子斷層造影（2-fluoro-2-deoxy-D-glucose positron emission tomography）
+> **CSF tap test**（放 30–50 mL）後步態改善 → 預測 shunt 有效。
+
+@115-1#51|A 〔影像題〕
+65 歲男性走路小碎步，容易跌倒。他的太太表示他最近事情常常記不起來，反應遲鈍，有時也會尿失禁。他的腦部電腦斷層掃描結果如下，如果接受腦室腹腔分流術（ventriculoperitoneal shunt）治療，下列敘述何者最恰當？
+A. 走路比記憶力容易進步
+B. 術前腦壓測量通常不正常
+C. 尿失禁最容易進步
+D. 手術後進步通常可以持續 5 年以上
+> Shunt 後**步態最易、最早改善**，認知最難；開放壓通常**正常**；效果隨時間遞減。
+
+@115-2#77|D 〔臨床實例〕
+有關失智症（dementia）的敘述，下列何者最不適當？
+A. 失智症最常見的原因是阿茲海默症（Alzheimer's disease）及血管性失智症（vascular dementia）
+B. 失智症的確診不易，需要先排除其他疾病
+C. 失智症加上步履不穩以及尿失禁症狀，應考慮常壓水腦症（normal-pressure hydrocephalus）
+D. 偽性失智症（pseudodementia）專指症狀與真正失智症難以區分的腦炎或中樞神經系統感染
+> **Pseudodementia = 憂鬱症**造成的可逆性認知障礙（常回答「不知道」、主訴比表現差）。可逆病因篩檢：B12、甲狀腺、梅毒、NPH、SDH、藥物。
+
+@112-2#76|C 〔臨床實例〕
+80歲男性無故離家走失一天，被發現在公園呆坐自言自語，由救護人員送到急診室，生命徵象無明顯異常，家屬表示病人有失智症（dementia）病史。下列敘述何者最不適當？
+A. 此病人的鑑別診斷應該包括譫妄（delirium）、失智症或精神疾病
+B. 失智症通常不會出現幻覺（hallucination）
+C. 如果病人有肢體震顫（tremor）的症狀，應該可以排除譫妄
+D. 病人抵達急診室後，應儘快做血糖檢測
+> 譫妄常伴 tremor、asterixis、myoclonus（如酒精戒斷、代謝性腦病變），震顫**不能**排除譫妄。急診先驗血糖。
+
+### 普里昂病
+
+@112-1#52|D
+關於庫賈氏病（Creutzfeldt-Jakob disease, CJD）致病原之敘述，下列何者正確？
+A. 可以用134℃的高壓釜（autoclave）消毒手術器械，破壞該致病原
+B. 致病原內含有核糖核酸（RNA）
+C. 被致病原感染後的潛伏期（incubation period）短
+D. 食用罹患狂牛症的牛肉之後出現的變異型庫賈氏病（variant CJD）較易出現在年輕人
+> Prion 不含核酸、潛伏期**長**、對一般滅菌抗性高（需 NaOH/漂白水 + 延長高壓滅菌，器械常直接銷毀）。**vCJD**：年輕人、精神症狀與疼痛先發、MRI **pulvinar sign**。
+
+@112-2#51|A
+關於普里昂疾病（prion disease），下列敘述何者錯誤？
+A. prion disease是因為病毒感染造成普里昂蛋白（prion protein）的錯誤摺疊（misfolding）之後形成的神經退化性疾病
+B. 可分為散發性（sporadic），普里昂蛋白基因突變（genetic mutations in the prion protein gene）及後天性（acquired），其中以散發性最多
+C. 散發性的庫賈氏症（sporadic Creutzfeldt-Jakob disease）臨床表現為快速進展的認知功能障礙、行為改變、動作障礙、視覺障礙及全身的症狀（constitutional symptoms）
+D. 散發性的庫賈氏症（sporadic Creutzfeldt-Jakob disease）診斷除臨床表現之外，目前尚需要腦波、腦部磁振造影或腦脊髓液的14-3-3蛋白檢測
+> Prion 是**蛋白質本身**（PrPˢᶜ）誘導正常 PrPᶜ 錯誤摺疊，非病毒。sCJD 約 85%。
+
+@113-1#50|B 〔影像題〕
+66歲女性最近一個多月來出現記憶力減退、視幻覺、走路不穩，突然聽見鞭炮聲會身體顫抖。她的腦部磁振造影擴散加權成像（diffusion-weighted imaging）結果如下圖。她最可能的診斷是：
+A. 邊緣性腦炎（limbic encephalitis）
+B. 庫賈氏症（Creutzfeldt-Jakob disease）
+C. 血管性失智症（vascular dementia）
+D. 多發性硬化症（multiple sclerosis）
+> 快速進展失智 + **驚嚇肌躍（startle myoclonus）**+ ataxia/視覺症狀 + DWI **皮質緞帶（cortical ribboning）、尾核/殼核高訊號** → sCJD；EEG periodic sharp wave complexes、CSF **RT-QuIC**/14-3-3。
+
+### 失語、失用與暫時性全面失憶
+
+@111-2#50|D
+40 歲女性得了急性失語症，測驗時她還可以重複簡短字句。她最可能的失語症類型是：
+A. 傳導性失語症（conduction aphasia）
+B. 渥尼克氏失語症（Wernicke's aphasia）
+C. 純字聾（pure word deafness）
+D. 跨皮質失語症（transcortical aphasia）
+> **複誦保留 = transcortical**（分水嶺區）。Conduction：複誦最差；Broca/Wernicke/global 複誦皆差。
+
+@115-1#50|送分（原答 A）
+患有意想運動性失用症（ideomotor apraxia）的病人，可執行下列何種測試？
+A. 形容如何寄一封信的步驟
+B. 示範刷牙時如何拿牙刷
+C. 模仿檢查者使用槌子
+D. 用剪刀剪出一直線
+> （一律給分）Ideomotor apraxia：知道動作概念（**能口述步驟**），但無法依指令**比劃（pantomime）或模仿**；實際拿物品時可較好。多為左頂葉。
+
+@114-1#51|C
+60 歲女性在唱卡拉 OK 後，突然開始不停的重複提問同一個問題，如「現在幾點鐘？」、「這裡是那裡？」等等。當獲得回答以後，又會馬上忘記。她可以自己走路、吃東西和洗澡，但是行為表現和平時很不一樣。10 小時後，她恢復正常，但是她對於這 10 小時內的事情完全沒有記憶。有關此疾病，下列敘述何者最恰當？
+A. 只有新發生的事情記不起來，以前的事都可以記住
+B. 後續追蹤容易發生中風
+C. 偏頭痛是此病的危險因子
+D. 腦部血流檢查可發現大腦前動脈血流灌注不良
+> **TGA**：中老年、誘發（情緒、用力、Valsalva、冷水）、**順行性失憶 + 部分逆行性**、反覆問同樣問題、< 24 h 恢復；**偏頭痛**為危險因子；不增加中風；DWI 海馬迴 CA1 點狀高訊號（後循環區域）。
+
+## 六、動作障礙
+### 巴金森氏病
+
+@111-2#52|C
+60 歲男性，一年前右手姆指以及食指出現顫抖現象；寫字不如以前靈活、字越寫越小，走路時右手不太擺動，但是仍然可以用鋤頭整地種菜，感覺功能正常。最近半年右腳比較僵硬、臉部表情較少。下列臨床診斷何者最有可能？
+A. 半身肌張力不全（hemidystonia）
+B. 脊髓小腦共濟失調症（spinocerebellar ataxia）
+C. 巴金森氏病（Parkinson disease）
+D. 本態性顫抖（essential tremor）
+> **PD**：單側起始、靜止性 pill-rolling 顫抖、**小寫症（micrographia）**、手擺動減少、面具臉；bradykinesia + rigidity/tremor。
+
+@111-1#51|B
+典型的原發性巴金森氏病（idiopathic Parkinson disease）在發病兩年內最不會出現下列那一個症狀？
+A. 兩側不對稱（asymmetric）的顫抖
+B. 起步時兩腳會顫抖，出現凍僵步態（freezing of gait）
+C. 做動作時會減輕顫抖
+D. 動腦（mental tasks）時會加重顫抖
+> **早期**（3 年內）出現凍僵步態、姿勢不穩/跌倒、自主神經衰竭、垂直凝視麻痺 → 想 **atypical parkinsonism**（PSP、MSA）。
+
+@113-2#51|D
+關於巴金森氏症候群（parkinsonian syndrome）的敘述，下列何者錯誤？
+A. 後天的（acquired）巴金森氏症的成因包含藥物引發、水腦、缺氧性腦病變、病毒感染或腦炎後遺症、一氧化碳中毒、腦中風等
+B. 常見的Parkinson-Plus syndrome包含大腦皮質基底核退化症（corticobasal degeneration）、多重系統萎縮症（multiple system atrophy）及進行性上眼神經核麻痺症（progressive supranuclear palsy）
+C. 巴金森氏病（Parkinson disease）是最常見的神經退化性動作障礙疾病，其主要臨床表現為顫抖（tremor）、動作遲緩（bradykinesia）、肢體僵硬（rigidity）及姿勢不穩（postural instability）
+D. 巴金森氏病（Parkinson disease）是運動障礙疾病，不會有非動作（non-motor）相關症狀
+> PD **非動作症狀**常先於動作症狀：嗅覺喪失、便秘、**RBD**、憂鬱/焦慮、姿勢性低血壓、失智、疼痛。
+
+@114-2#52|A
+關於肢體僵硬（rigidity）的敘述，下列何者最正確？
+A. 在搬動肢體關節檢查時，出現的阻力與檢查速度無關（velocity-independent）
+B. 在搬動肢體關節檢查時，會出現類似折疊刀（clasp-knife）的阻力
+C. 對上肢屈肌（flexors）之影響比伸肌（extensors）嚴重
+D. 在搬動肢體關節檢查時，方向突然改變，阻力會延後出現
+> **Rigidity**：與速度無關、屈伸肌皆受影響（lead-pipe/cogwheel）。**Spasticity**：速度依賴、clasp-knife、上肢屈肌/下肢伸肌為主。
+
+@112-2#50|A
+關於巴金森氏病（Parkinson disease）之治療，下列何者錯誤？
+A. 左多巴（levodopa）是黃金治療準則，愈早使用大劑量對病患愈有利
+B. 多巴胺促效劑（dopamine agonist）是治療選擇之一，尤其是對較年輕的患者
+C. 多巴胺促效劑（dopamine agonist）可作用於不同類型之dopamine receptors
+D. 對口服藥物藥效波動大的患者，視丘下核（subthalamic nucleus）刺激術是有效的治療選擇
+> Levodopa 最有效，但以**最低有效劑量**；高劑量/長期 → motor fluctuation（wearing-off）、dyskinesia。年輕者可先用 DA agonist/MAO-B inhibitor。藥效波動 → **STN 或 GPi DBS**。
+
+@115-1#52|B
+50 歲認知功能正常的巴金森氏病（Parkinson disease）患者之藥物治療，下列何者最不適當？
+A. anticholinergics
+B. cholinesterase inhibitors
+C. dopamine agonists
+D. monoamine oxidase type B inhibitors
+> AChEI（rivastigmine）用於 **PD 失智**，認知正常者無適應症。Anticholinergic（trihexyphenidyl）可用於年輕、顫抖為主者（老人避免）。
+
+@110-2#52|C
+一位 55 歲男性巴金森氏病（Parkinson disease）病人，在服用多巴胺促效劑（dopamine agonists）之後，出現病態賭博（pathological gambling）的症狀，其最可能是下列那一種神經傳導素接受體被過度刺激的結果所造成？
+A. D1 多巴胺接受體
+B. D2 多巴胺接受體
+C. D3 多巴胺接受體
+D. 5-HT 接受體
+> **Impulse control disorders**（賭博、購物、性慾亢進、暴食）：pramipexole/ropinirole 對**中腦邊緣 D3** 親和力高。
+
+### 非典型巴金森症候群
+
+@112-1#51|C 〔影像題〕
+59歲男性因為姿勢性低血壓暈倒多次，他同時還有動作遲緩、步態不穩及性功能障礙問題，他的腦部磁振造影掃描結果如下圖，下列何者為最可能的診斷？
+A. 行為變異型額顳葉失智症（behavioral variant frontotemporal dementia）
+B. 阿茲海默氏病（Alzheimer disease）
+C. 多重系統萎縮症（multiple system atrophy）
+D. 進行性上眼神經核麻痺症（progressive supranuclear palsy）
+> **MSA**：早期**自主神經衰竭**（姿勢性低血壓、勃起障礙、尿失禁）+ parkinsonism（MSA-P）或 ataxia（MSA-C）；MRI 橋腦 **hot cross bun sign**、小腦/橋腦萎縮。
+
+@114-2#51|C
+53 歲男性至神經科門診就診，主訴近一年來動作遲緩、僵硬，頭部總是向後仰，眼睛轉動緩慢，無法自主性往下看，且家人觀察到他最近時常往後跌倒。依此描述，下列何種診斷最為可能？
+A. 巴金森氏病（Parkinson disease）
+B. 多重系統萎縮症（multiple system atrophy）
+C. 進行性上眼神經核麻痺症（progressive supranuclear palsy）
+D. 路易氏體失智症（dementia with Lewy bodies）
+> **PSP**：**垂直（向下）凝視麻痺**、軸性僵硬、頸後仰（retrocollis）、**早期向後跌倒**、驚訝臉；MRI 中腦萎縮 **hummingbird sign**。
+
+@115-2#51|A
+下列疾病的主要病理變化，何者不屬於 tau 蛋白病變（tauopathy）？
+A. 多重系統萎縮症（multiple system atrophy）
+B. 進行性上眼神經核麻痺症（progressive supranuclear palsy）
+C. 皮質基底核退化症（corticobasal degeneration）
+D. 阿茲海默病（Alzheimer disease）
+> **α-synucleinopathy**：PD、DLB、**MSA**（glial cytoplasmic inclusions）。**Tauopathy**：AD、PSP、CBD、部分 FTD。
+
+@111-1#50|C
+因為一氧化碳中毒造成的巴金森症候群（parkinsonism），病灶位置常發生在：
+A. 尾核（caudate）
+B. 殼部（putamen）
+C. 蒼白球（globus pallidus）
+D. 黑質（substantia nigra）
+> CO → **雙側蒼白球**壞死；可在數週後出現遲發性腦病變（delayed post-hypoxic leukoencephalopathy）。Methanol → 殼核；Wilson → 殼核/基底核。
+
+### 顫抖、舞蹈症與遺傳性動作障礙
+
+@115-2#52|A
+關於本態性顫抖（essential tremor）的敘述，下列何者最不適當？
+A. 通常出現雙手對稱性的靜止性顫抖（resting tremor）
+B. 需排除甲狀腺功能亢進及藥物過量（如：lithium 或 valproate），以確立診斷
+C. 常用的治療藥物，包括 propranolol 及 benzodiazepines
+D. 對於藥物治療反應差的病人，可考慮使用聚焦超音波燒灼術
+> **ET**：雙側對稱**姿勢/動作性**顫抖（含頭、聲音），家族史、**喝酒改善**。治療 propranolol、primidone；難治 → VIM DBS 或 MRgFUS。
+
+@112-2#52|C
+王小姐40歲，三年前開始出現不自主的動作如擠眉弄眼、扮鬼臉、聳肩、抬手或扭腰等等，在身體各部位出現，且愈來愈頻繁。一年前她記憶力有衰退現象，常常打錯字，她的父親在48歲時也出現類似症狀，在55歲時自殺死亡。她最可能的診斷是：
+A. 脊髓小腦共濟失調症（spinocerebellar ataxia）
+B. 巴金森氏病（Parkinson disease）
+C. 亨丁頓氏病（Huntington disease）
+D. 肌萎縮性側索硬化（amyotrophic lateral sclerosis）
+> **HD**：AD、**HTT CAG 擴增**（4p）、anticipation（父系）；舞蹈症 + 精神症狀（憂鬱、**自殺**）+ 皮質下失智；**尾核萎縮**。
+
+@114-1#57|A
+45 歲女性，六年前開始情緒不穩，常易怒煩躁；一年後，動作變得笨拙且容易跌倒。再過兩年，雙腿出現一些不自主、小幅度、無規律性扭動，之後持續惡化並延伸至上肢、軀幹及頭頸部。目前已無法行走，同時也出現記憶衰退。病人父親於 40 歲時有類似症狀，此病人最可能罹患下列何種疾病？
+A. 亨丁頓氏病（Huntington disease）
+B. 額顳葉失智症（frontotemporal dementia）
+C. 威爾森氏病（Wilson disease）
+D. 第六型小腦脊髓共濟失調症（spinocerebellar ataxia type 6）
+> 精神症狀先發 → 舞蹈症 → 失智 + 體染色體顯性家族史 → HD。舞蹈症可用 tetrabenazine/deutetrabenazine（VMAT2 抑制劑）。
+
+@114-1#50|A
+30 歲女性持柺杖至神經科門診就診，主訴近一年來走路不穩的情況愈來愈明顯，說話也變得口齒不清。身體診察發現眼動緩慢且有眼震，肢體測距不準，肌腱反射異常增強，她的父親及祖母也有類似症狀。據上描述，下列何種診斷最為可能？
+A. 脊髓小腦共濟失調（spinocerebellar ataxia）
+B. 威爾森氏病（Wilson disease）
+C. 巴金森氏病（Parkinson disease）
+D. 庫賈氏病（Creutzfeldt-Jakob disease）
+> **SCA**：AD 遺傳、進行性小腦共濟失調、構音障礙、**慢速眼跳**（SCA2）、眼震、錐體徑徵候；台灣最常見 **SCA3（Machado-Joseph）**。
+
+@113-1#58|C
+下列何種遺傳疾病的致病突變不是三核苷酸重複序列擴增（trinucleotide repeat expansion）？
+A. 亨丁頓氏病（Huntington disease）
+B. 第二型小腦脊髓共濟失調症（spinocerebellar ataxia type 2）
+C. 威爾森氏病（Wilson disease）
+D. 第三型小腦脊髓共濟失調症（spinocerebellar ataxia type 3）
+> CAG（polyQ）：HD、SCA1/2/3/6/7、SBMA；CTG：myotonic dystrophy；CGG：fragile X；GAA：Friedreich。**Wilson = ATP7B 點突變（AR）**。
+
+@112-1#58|C
+下列有關威爾森氏病（Wilson disease）的敘述，何者正確？
+A. 體染色體顯性遺傳，其致病基因是ATP7B基因
+B. 和鐵離子代謝相關的疾病
+C. 常出現肝硬化及角膜周邊有所謂的Kayser-Fleischer rings 棕綠色環
+D. 可以用penicillin來治療
+> **Wilson**：AR、ATP7B、**銅**排泄障礙；肝病 + 神經（tremor「wing-beating」、dystonia、parkinsonism、構音障礙）+ 精神症狀；**KF ring**。治療 **penicillamine**/trientine（螯合）、zinc（抑制吸收）、肝移植。
+
+@113-2#52|C
+對於威爾森氏病（Wilson disease）之敘述，下列何者錯誤？
+A. 是一種體隱性遺傳疾病，因ATP7B基因突變導致
+B. 常見的神經學檢查異常包括：精神症狀、巴金森氏症（parkinsonism）、說話及吞嚥困難、肌張力不全、姿態性顫抖和步態異常等
+C. 因體內銅離子代謝異常，患者血液中ceruloplasmin的濃度通常高於正常值
+D. 治療可用排銅藥物（如penicillamine）或抑制銅離子吸收（如zinc sulphate）
+> Wilson：**血清 ceruloplasmin ↓**、24 h 尿銅 ↑、肝銅 ↑。

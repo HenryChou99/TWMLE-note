@@ -1,0 +1,362 @@
+## 七、脊髓疾病
+### 脊髓症候群與外傷
+
+@111-1#54|D
+30歲女性騎馬墜落後送往急診室，神經學檢查發現右下肢無力，左側肚臍以下痛覺和溫覺喪失，其最可能診斷為何？
+A. 胸椎第十節（T10）以上前脊髓損傷
+B. 胸椎第十節（T10）以上後脊髓損傷
+C. 馬尾症候群
+D. 胸椎第十節（T10）以上Brown-Séquard症候群
+> **Brown-Séquard**：**同側**無力 + 本體/振動覺喪失、**對側**痛溫覺喪失（從病灶下 1–2 節開始）；T10 = 肚臍。
+
+@113-2#53|B
+22歲女性，突發性左半身無力，肌力僅3分及右半身麻木，經檢查右側肢體對針刺感覺（pinprick sensation）有明顯下降，下列臨床症候中，何者最不可能合併出現？
+A. 左腳Babinski sign異常
+B. 右側肢體對震動感覺（vibratory sensation）有明顯下降
+C. 左側肢體對關節位置感覺（joint position sensation）有明顯下降
+D. 右側肢體對溫度感覺（temperature sensation）有明顯下降
+> 左側半切：左側無力、左 Babinski、**左側**振動/位置覺喪失；右側痛溫覺喪失。右側振動覺應保留。
+
+@115-1#53|A
+下列有關脊髓症候群（spinal cord syndrome）的敘述，何者錯誤？
+A. 脊椎性休克（spinal shock）是指在急性脊髓損傷該節以下的肌腱反射會上升
+B. Brown-Séquard 症候群是指在脊髓損傷該節以下的同側肢體無力及本體感覺（proprioception）的消失
+C. 前方脊髓症候群（anterior cord syndrome）本體感覺可以保留
+D. 中心脊髓症候群（central cord syndrome）肌肉無力的現象在上肢遠比下肢嚴重
+> **Spinal shock**：急性期損傷以下**弛緩、反射消失**（含球海綿體反射），數天～數週後轉為痙攣、反射亢進。
+
+@112-2#55|D
+18歲男性，游泳跳水時，不慎頭部撞擊到泳池底部，神經學檢查發現肛門反射（anal reflex）及球海綿體肌反射（bulbocavernosus reflex）消失，同時四肢運動及感覺功能喪失，其最佳的診斷為何？
+A. 頸椎第五節（C5）前脊髓損傷
+B. 頸椎第五節（C5）後脊髓損傷
+C. 頸椎第五節（C5）中央脊髓症候群
+D. 頸椎第五節（C5）脊髓休克
+> 急性頸髓損傷 + **球海綿體反射消失** → spinal shock 期（反射恢復代表 shock 結束，才能判斷完全/不完全損傷）。
+
+@114-2#55|C
+60 歲女性車禍後出現頸部疼痛，雙側上肢肌肉力量 3 分，雙側下肢肌肉力量 4 分，雙上肢及上身溫痛覺消失，關節體位感覺（joint position）仍存在，其最可能診斷為何？
+A. 頸椎第五節（C5）脊髓休克
+B. 頸椎第五節（C5）後脊髓損傷
+C. 頸椎第五節（C5）中央脊髓症候群
+D. 頸椎第五節（C5）Brown-Séquard 症候群
+> **Central cord**：**上肢 > 下肢**無力、披肩式（cape）痛溫覺喪失（交叉的脊髓視丘纖維）、後柱保留；老人頸椎退化 + 過度伸展。
+
+@115-1#54|A
+31 歲男性，開車停在路口等紅燈時，不幸遭後車追撞，引起兩側上肢麻木疼痛，最可能傷及下列何種神經路徑？
+A. 脊髓丘腦徑（spinothalamic tract）
+B. 脊神經（spinal nerve）
+C. 椎體徑（pyramidal tract）
+D. 後柱（posterior column）
+> 揮鞭式過度伸展 → 中央脊髓 → 先傷及中央管前方**交叉中的脊髓視丘纖維** → 雙上肢痛、麻（dysesthesia）。
+
+### 非外傷性脊髓病變
+
+@114-1#44|A
+脊髓梗塞（spinal cord infarction）的臨床表現，下列敘述何者最不恰當？
+A. 胸椎之前脊髓症候群（thoracic anterior cord syndrome）的典型症狀為雙下肢無力及本體感覺喪失，但對溫度感覺則不影響
+B. 症狀常在數分鐘到數小時內發生惡化
+C. 症狀初期常出現下肢肌腱反射喪失
+D. 在梗塞區域的皮節（dermatome）常會有疼痛感
+> **Anterior spinal artery**：前 2/3 → 雙側無力 + **痛溫覺喪失**、**本體感覺保留**、括約肌障礙；急性背痛、初期弛緩無反射；好發胸髓分水嶺（主動脈手術、低血壓）。
+
+@111-2#55|C
+63 歲長年茹素女性出現漸進性步態不穩，檢查發現痙攣步態（spastic gait），合併振動感覺（vibration sense）及關節位置感覺（joint position sense）喪失，但痛覺及溫覺正常。兩側膝蓋的深層肌腱反射（deep tendon reflex, DTR）較上肢增強，但兩腳踝的 DTR 卻是減弱。其最可能的診斷為何？
+A. 肌萎縮性側索硬化（amyotrophic lateral sclerosis）
+B. 後脊髓動脈症候群（posterior spinal artery syndrome）
+C. 亞急性合併退化症（subacute combined degeneration）
+D. 慢性脫髓鞘多發性神經病變（chronic inflammatory demyelinating polyradiculoneuropathy）
+> **SCD（B12 缺乏）**：後柱 + 側柱（CST）+ 周邊神經病變 → 膝反射亢進、**踝反射消失**、Babinski(+)；素食、胃切除、metformin、PPI、N₂O。
+
+@114-1#55|C
+60 歲男性主訴漸進性步態不穩 6 個月，合併尿失禁，神經學檢查發現膝反射和踝反射消失，感覺性共濟失調（sensory ataxia），下肢振動覺和關節本體感覺受損，瞳孔光反射異常，聚焦反射（accommodation reflex）正常，最可能的診斷為：
+A. 前額葉腦中風（prefrontal lobe infarct）
+B. 中腦中風（midbrain infarct）
+C. 梅毒脊髓症（tabes dorsalis）
+D. 亞急性合併退化（subacute combined degeneration）
+> **Tabes dorsalis**：後根/後柱 → 感覺性共濟失調（Romberg+）、反射消失、閃電痛、神經性膀胱、Charcot 關節；**Argyll Robertson pupil**（light-near dissociation）。
+
+@112-1#54|B
+關於脊髓空洞症（syringomyelia）的敘述，下列何者最不恰當？
+A. 多發生在20～49歲的男性
+B. 在病變位置以下部位，同側的本體感覺及對側的疼痛感覺會有障礙
+C. 經常會合併Chiari type I malformation
+D. 可使用磁振造影（MRI）來確立診斷
+> Syrinx：中央管擴張 → **病灶節段**雙側**披肩式痛溫覺解離**（本體覺保留）、上肢 LMN 萎縮（前角）；常合併 Chiari I；MRI 確診。B 描述的是 Brown-Séquard。
+
+## 八、周邊神經與運動神經元疾病
+### 周邊神經病變總論
+
+@110-1#54|B
+下列何者非周邊神經病變之常見症狀？
+A. 運動功能障礙
+B. 肌腱反射增強
+C. 感覺功能障礙
+D. 自律神經病變
+> 周邊神經病變 = LMN：無力、萎縮、**反射減弱/消失**、感覺異常（stocking-glove）、自主神經失調。
+
+@111-1#56|B
+下列何者不是下運動神經元病灶表徵（lower motor neuron signs）？
+A. 在肌電圖上出現肌肉纖維顫動（fibrillation）
+B. 肌肉痙攣（spasticity）
+C. 病人自覺肌纖維自發性跳動（fasciculation）
+D. 肌肉萎縮（muscle atrophy）
+> Spasticity = **UMN**。LMN：萎縮、fasciculation、fibrillation（EMG）、低張、反射消失。
+
+@111-1#57|C
+關於軸突缺失（axonal loss）與去髓鞘（demyelination）引起之神經病變的比較，下列敘述何者最恰當？
+A. 去髓鞘神經病變時常造成早期肌肉萎縮
+B. 兩者所造成的神經病變，均以近端肌肉無力來表現
+C. 糖尿病神經病變可以出現軸突缺失和去髓鞘的神經病理變化
+D. 急性軸突缺失神經病變通常可以同時觀察到去髓鞘的病理變化
+> 糖尿病神經病變以軸突為主但可合併脫髓鞘。軸突型：長度依賴、遠端為主、**振幅↓**、早期萎縮；脫髓鞘型：**傳導速度↓、conduction block**，萎縮較晚，CIDP 可近端+遠端。
+
+@111-1#55|A
+下列何種疾病主要且首先影響到運動神經軸突，造成軸突性神經病變（axonal neuropathy）？
+A. 鉛中毒
+B. 類澱粉神經病變
+C. 格林–巴利症候群（Guillain-Barré syndrome）
+D. 單株免疫球蛋白增高血症（monoclonal gammopathy）
+> **鉛**：運動為主的軸突病變（**wrist drop**）、腹痛、貧血（basophilic stippling）。Amyloid：小纖維感覺/自主；GBS（AIDP）、MGUS（anti-MAG）多為脫髓鞘。
+
+@115-1#55|C
+下列何種周邊神經系統疾病的致病機轉與代謝異常有關？
+A. 格林–巴利症候群（Guillain-Barré syndrome）
+B. 運動神經元疾病（motor neuron disease）
+C. 類澱粉樣神經病變（amyloid neuropathy）
+D. 皮肌炎（dermatomyositis）
+> Amyloid neuropathy（TTR 或 AL）：錯誤摺疊蛋白沉積（代謝/沉積性疾病）→ 痛性小纖維神經病變、CTS、自主神經失調；TTR 可用 tafamidis、siRNA。GBS、DM 為免疫性。
+
+@110-2#58|A
+下列何者是自主神經病變時的臨床表徵？
+A. 瞳孔對於光亮和黑暗的調適困難
+B. 從臥姿到站姿時，在 3 分鐘內心跳的變動每分鐘超過 30 下
+C. 收縮血壓在躺、坐、臥三種狀態的變化範圍小於 10 mmHg
+D. 夜尿次數每個夜晚 1～2 次
+> 自主神經病變：瞳孔調適異常、**姿勢性低血壓（3 分鐘內 SBP ↓ ≥ 20 或 DBP ↓ ≥ 10）而心跳代償上升不足**、無汗、胃輕癱、ED、神經性膀胱。站立心跳 ↑ > 30 而無低血壓 = POTS。
+
+@110-1#55|B
+有關疱疹病毒神經病變（neuropathy of herpes zoster）之敘述，下列何者最不恰當？
+A. 可能引起角膜（cornea）損傷
+B. 疱疹病毒主要侵犯運動神經元
+C. 好發於肋間神經
+D. 好發於三叉神經第一分支
+> VZV 潛伏於**感覺神經節**（DRG、三叉神經節）→ 皮節疼痛疹；胸部皮節最常見，其次 **V1（HZO：Hutchinson sign、角膜炎）**；少數可有節段性運動無力。
+
+### 顏面神經與 Guillain-Barré 症候群
+
+@110-2#53|D
+30 歲健康男性，早晨起床刷牙時發現臉歪到左邊，漱口時水會從右嘴角流出，右眼無法緊閉，右耳殼及耳道較為紅腫，伴有小水泡，且會疼痛。根據病史及臨床症狀，下列敘述何者最適合？
+A. 可能罹患疱疹性三叉神經痛（herpetic trigeminal neuralgia）
+B. 通常預後良好
+C. 需要併用抗病毒藥物（antivirals）及非類固醇消炎藥（non-steroid anti-inflammatory drug, NSAID）治療
+D. 需要使用類固醇（steroids）及抗病毒藥物（antivirals）治療
+> **Ramsay Hunt syndrome**（膝狀神經節 VZV）：周邊顏面麻痺 + 耳部水泡 + 耳痛 ± 聽力/前庭症狀；預後比 Bell's palsy 差；**類固醇 + 抗病毒**。
+
+@110-2#55|C
+關於急性發炎性脫髓鞘多發性神經病變症候群（Guillain-Barré syndrome）的敘述，下列何者正確？
+A. 屬於感染性疾病
+B. 大部分病程在 2 至 3 個月到達頂點
+C. 典型症狀有肢體無力及感覺異常
+D. 不會有自律神經系統功能異常
+> GBS：感染後（**C. jejuni**、CMV、EBV）**自體免疫**（molecular mimicry）；上行性無力 + 感覺異常 + 反射消失；**4 週內達高峰**（多 2 週）；自主神經失調常見（心律不整、血壓波動）。
+
+@112-1#53|A
+格林–巴利症候群（Guillain-Barré syndrome）不同於重症肌無力（myasthenia gravis）的主要區別為何？
+A. 自主神經功能異常
+B. 四肢癱瘓
+C. 吞嚥困難
+D. 呼吸困難
+> 兩者皆可四肢無力、球麻痺、呼吸衰竭；**自主神經失調**見於 GBS（與 botulism、LEMS），MG 無。
+
+@113-1#55|D
+格林–巴利症候群（Guillain-Barré syndrome）合併呼吸肌無力時，首選治療為何？
+A. 類固醇（corticosteroid）脈衝療法
+B. cyclophosphamide靜脈輸注
+C. 支持性內科療法即可，不至有生命危險
+D. 血漿交換或血漿分離術（plasma exchange / plasmapheresis）
+> GBS：**PLEX 或 IVIG**（等效，不需合併）；**類固醇無效**。監測 FVC（< 20 mL/kg 考慮插管）、自主神經。
+
+@114-2#54|B
+68 歲男性，上週出現發燒腹瀉，這幾天突然出現排尿困難及全身無力送來急診。神經學檢查顯示意識正常，雙頰作臉部表情困難，四肢力氣差（肌力 3 分），四肢末端有輕微麻木感及振動感覺下降，肌腱反射消失。下列敘述何者正確？
+A. 神經電氣學檢查如果沒看到神經傳導變慢或傳導阻滯（conduction block）就可以排除格林–巴利症候群（Guillain-Barré syndrome）
+B. 使用類固醇（corticosteroid）治療無法縮短病程或影響預後
+C. 腦脊髓液檢查時白血球（white blood cell）至少＞10 cells/μL
+D. 臨床症狀急速惡化下，血漿分離／交換（plasmapheresis/plasma exchange）比靜脈免疫球蛋白注射（intravenous immunoglobulin）為更合適的治療方式
+> 早期 NCS 可正常（F-wave 異常最早）；CSF **蛋白細胞分離**（WBC 通常 < 10，> 50 要想其他診斷）；PLEX 與 IVIG 等效。腹瀉前驅（C. jejuni）、雙側顏面麻痺。
+
+@115-2#54|C
+50 歲男性，罹患上呼吸道感染數日，兩天前起床後出現步態不穩與複視。神經學檢查發現眼球在每個方向的運動都受到限制，肢體動作不協調，並伴隨深部肌腱反射消失。下列何者是最可能的診斷？
+A. 腦幹中風（brainstem stroke）
+B. 病毒性腦炎（viral encephalitis）
+C. 米勒費雪症候群（Miller Fisher syndrome）
+D. 重症肌無力（myasthenia gravis）
+> **Miller Fisher**：**眼肌麻痺 + 共濟失調 + 反射消失**；**anti-GQ1b** 抗體。
+
+@115-2#57|D
+以無力為主要表現的疾病，神經傳導檢查（nerve conduction study, NCS）對下列何者之診斷最有實質助益？
+A. 重症肌無力（myasthenia gravis, MG）
+B. 裘馨肌肉失養症（Duchenne muscular dystrophy, DMD）
+C. 皮肌炎（dermatomyositis）
+D. 慢性脫髓鞘多發性神經炎（chronic inflammatory demyelinating polyradiculoneuropathy, CIDP）
+> CIDP：NCS **脫髓鞘**（CV↓、latency↑、conduction block、temporal dispersion）；> 8 週進展、近端+遠端、對類固醇有效（與 GBS 不同）。MG → RNS/SFEMG；肌病 → EMG。
+
+### 運動神經元疾病
+
+@112-1#55|D
+55歲男性，主訴漸進性全身無力兩年，神經學檢查發現舌頭顫動（tongue fasciculation）、口齒不清、吞嚥困難、四肢肌肉萎縮，無感覺異常，四肢深部肌腱反射增強，最可能罹患何種疾病？
+A. 多次腦中風（multi-infarction）
+B. 頸部椎間盤突出（cervical herniated intervertebral disc）
+C. 巴金森氏病（Parkinson disease）
+D. 肌萎縮性側索硬化（amyotrophic lateral sclerosis）
+> **ALS = UMN + LMN**（同一肢段既萎縮又反射亢進）、舌顫、球麻痺、**無感覺異常**。
+
+@114-2#53|A
+下列會引起肌肉萎縮的疾病中，那一個會同時有肌腱反射上升的現象？
+A. 肌萎縮性側索硬化（amyotrophic lateral sclerosis）
+B. 小兒麻痺（poliomyelitis）
+C. 重症肌無力（myasthenia gravis）
+D. 多發性肌炎（polymyositis）
+> 萎縮 + 反射亢進 = ALS（UMN + LMN）。Polio 純 LMN。
+
+@114-1#53|B
+有關肌萎縮性側索硬化（amyotrophic lateral sclerosis）的敘述，下列何者正確？
+A. 會侵犯自律神經系統
+B. 不會侵犯感覺神經系統
+C. 不會侵犯上運動神經元
+D. 不會侵犯下運動神經元
+> ALS 通常不影響：**感覺、眼外肌、括約肌（Onuf nucleus）**、自主神經。治療 riluzole、edaravone；SOD1 突變可用 tofersen。
+
+@113-1#52|C
+關於肌萎縮性側索硬化（amyotrophic lateral sclerosis, ALS），下列敘述何者錯誤？
+A. ALS是最常見的運動神經元疾病（motor neuron disease），會造成上及下運動神經元漸進性的退化。大部分是散發的（sporadic），少數是家族遺傳性的（familial），無法從臨床表現上去區分這兩種的ALS
+B. ALS臨床變異性很高，病人可以有不同的發病部位、惡化順序及上下運動神經元受影響的比例。因與額顳葉失智症（frontotemporal dementia, FTD）常有共同的遺傳基因，可視為與FTD為同一個疾病群（disease spectrum）
+C. ALS第一個被發現的基因是superoxide dismutase 1（SOD1）gene，也是目前歐洲最常見造成familial ALS的原因
+D. 臨床上若病人有無痛性漸進性的肌肉無力萎縮，甚至肌束跳動（fasciculation），且沒有明顯的感覺功能障礙、複視、眼皮下垂、膀胱功能障礙時，要考慮可能是ALS
+> SOD1 是第一個發現的基因（1993），但歐美最常見的 familial ALS 為 **C9orf72**（GGGGCC 重複，亦造成 FTD）；亞洲 SOD1 較多。約 90% 散發。
+
+@113-2#57|A
+下列何者基因發生致病突變會導致肌萎縮性側索硬化（amyotrophic lateral sclerosis）？
+A. SOD1
+B. APP
+C. LRRK2
+D. parkin
+> ALS：SOD1、C9orf72、TARDBP（TDP-43）、FUS。APP → AD；LRRK2（AD）、parkin（AR 早發）→ PD。
+
+## 九、神經肌肉接合與肌肉疾病
+### 神經肌肉接合疾病
+
+@113-2#55|B
+30歲女性，右眼瞼下垂兩個月，但無複視，此症狀早上比較輕微，睡前比較嚴重。最可能的診斷為何？
+A. 格林–巴利症候群（Guillain-Barré syndrome）
+B. 重症肌無力（myasthenia gravis）
+C. 腦動脈瘤（cerebral artery aneurysm）
+D. 運動神經元疾病（motor neuron disease）
+> **MG**：易疲勞、**傍晚加重**、眼瞼下垂/複視（眼肌型最常見首發）、瞳孔正常；anti-AChR（~85%）、anti-MuSK；ice pack test、RNS 遞減、SFEMG；查胸腺瘤。
+
+@114-1#54|C
+下列有關「吞嚥困難」的特徵，何者較少發生在中風病人，而是重症肌無力病人特有的表現？
+A. 吞嚥困難對「流質食物」特別嚴重
+B. 吞嚥困難常會合併「講話不清楚（dysarthria）」
+C. 吞嚥困難常在「夜間惡化」，以致無法順利進食晚餐
+D. 吞嚥困難常會合併「流口水（drooling）」
+> **疲勞性**：越用越弱、一天之中後段（晚餐、咀嚼到一半）惡化 → MG 特徵。
+
+@111-2#53|C
+肉毒桿菌中毒（botulism）與重症肌無力（myasthenia gravis）之比較，下列何者錯誤？
+A. 肉毒桿菌中毒之自律神經症狀明顯
+B. 肉毒桿菌中毒影響在突觸前神經末端（presynaptic terminal）
+C. 肉毒桿菌中毒不會影響呼吸
+D. 肉毒桿菌中毒使用類固醇無效
+> Botulism：毒素切 SNARE → **突觸前** ACh 釋放受阻；**下行性**麻痺（複視、球麻痺 → 四肢 → **呼吸衰竭**）、瞳孔散大、口乾、便秘；治療抗毒素 + 支持。
+
+@113-1#53|A
+下列關於肌無力症候群（myasthenic syndrome or Lambert-Eaton syndrome）的敘述，何者錯誤？
+A. 體內有免疫抗體攻擊突觸前神經終端（presynaptic nerve terminals）的鉀離子通道
+B. 通常於成年人發病
+C. 約有一半的病人可以合併體內惡性腫瘤
+D. 口乾是一個常見的自律神經失調症狀
+> **LEMS**：抗**突觸前 P/Q 型電壓門控鈣離子通道（VGCC）**；~50–60% 合併 **SCLC**；近端下肢無力、反射減弱、**用力後短暫增強**、口乾；RNS 高頻刺激遞增 > 100%；治療 3,4-DAP。
+
+@112-2#53|D
+下列疾病的臨床症狀，何者最不可能出現波動性（fluctuating）或間歇性（intermittent）無力？
+A. 肌無力症候群（myasthenic syndrome）
+B. 甲狀腺亢進相關的低血鉀性肌肉無力（thyrotoxic hypokalemic weakness）
+C. 週期性麻痺（periodic paralysis）
+D. 運動神經元疾病（motor neuron disease）
+> MND 為**持續進行性**惡化；波動/發作性無力：NMJ 疾病、週期性麻痺。
+
+### 離子通道病與遺傳性肌病
+
+@111-1#53|D
+關於週期性麻痺（periodic paralysis），下列敘述何者最恰當？
+A. 高血鉀是最常見的原因
+B. 無力的肌肉常常影響到吞嚥和呼吸
+C. 屬於神經肌肉接合疾病（neuro-muscular junction diseases）
+D. 對於反覆發作的病人可以使用carbonic anhydrase inhibitor（acetazolamide）預防
+> 最常見**低血鉀型**（CACNA1S；亞洲男性 **thyrotoxic PP**）；發作性四肢弛緩無力，通常不影響球肌/呼吸；屬**肌肉離子通道病**；預防 acetazolamide（TPP 治甲亢 + 非選擇性 β-blocker）。
+
+@113-2#54|D
+肌電圖中關於自發性活動電位的顫波（fibrillation）或正相尖波（positive sharp wave）通常代表肌肉出現「去神經（denervation）現象」，下列何者最不易看到此現象？
+A. 運動神經元疾病（motor neuron disease）
+B. 多發性肌炎（polymyositis）
+C. 糖尿病多發性神經病變（diabetic polyneuropathy）
+D. 週期性麻痺（periodic paralysis）
+> Fibrillation/PSW：去神經（MND、軸突病變）及**發炎性肌病變**（肌纖維壞死分段去神經）。週期性麻痺發作間期 EMG 多正常。
+
+@110-1#56|D
+下列何者不是屬於離子通道病變（channelopathy）？
+A. 先天性肌強直症（myotonia congenita）
+B. 先天性肌強直性痙攣病（paramyotonia congenita）
+C. 高血鉀性週期性麻痺症（hyperkalemic periodic paralysis）
+D. 肌強直性失養症（myotonic dystrophy）
+> Channelopathy：myotonia congenita（**CLCN1** 氯）、paramyotonia & HyperPP（**SCN4A** 鈉）、HypoPP（CACNA1S）。**Myotonic dystrophy type 1 = DMPK CTG 擴增**（遠端無力、斧頭臉、白內障、禿頭、心傳導阻滯、糖尿病）。
+
+@110-2#54|A
+關於粒線體肌病變（mitochondrial myopathies），下列敘述何者錯誤？
+A. 病人幾乎活不過青春期
+B. 以影響近端肌肉無力為主
+C. 測血液中乳酸（lactate）濃度是一種有價值的非侵犯性檢查
+D. 粒線體 DNA 的突變量要達到一定的閥值才會表現徵狀
+> 表現與預後差異極大（heteroplasmy、**閾值效應**），多數可活到成年。母系遺傳；乳酸↑；**ragged red fibers**；MELAS、MERRF、CPEO、Kearns-Sayre。
+
+@115-1#57|D
+關於貝克氏肌肉失養症（Becker muscular dystrophy）的敘述，下列何者錯誤？
+A. 是因為 dystrophin 基因發生突變而致病
+B. 發病時的臨床症狀常是雙下肢近端肌肉無力
+C. 部分病人的發病年齡可以在 20 歲以後
+D. 四分之一病人的致病突變是由父親遺傳來的
+> **X-linked recessive** → 男病人的突變來自**母親**（或新突變），父親不會把 X 傳給兒子。BMD：in-frame 缺失、dystrophin 部分表現 → 較 DMD 晚發、輕；小腿假性肥大、心肌病變。
+
+### 發炎性與其他肌病變
+
+@111-2#54|A
+下列疾病中，何者最常以近端肢體無力（proximal weakness）為初期表現？
+A. 多發性肌炎（polymyositis）
+B. 糖尿病多發性神經病變（diabetic polyneuropathy）
+C. 肌萎縮性側索硬化（amyotrophic lateral sclerosis）
+D. 肘隧道症候群（cubital tunnel syndrome）
+> 肌病變：**對稱近端無力**（爬樓梯、梳頭困難）。神經病變多為遠端。
+
+@112-2#54|A
+關於多發性肌炎（polymyositis）的敘述，下列何者最不恰當？
+A. 常出現複視症狀
+B. 少數可能伴隨有癌症
+C. 主要為侵犯肢體近端肌肉
+D. 以類固醇治療為主
+> 發炎性肌病**不侵犯眼外肌**（複視 → 想 MG）；可有吞嚥困難、ILD；CK↑；類固醇 + 免疫抑制劑。
+
+@115-2#55|D
+在皮肌炎（dermatomyositis）中，下列那一項臨床或實驗室發現最具有特異性？
+A. 近端肌肉無力
+B. 血清肌酸激酶（CK）升高
+C. 關節疼痛
+D. Gottron's 丘疹或紫羅蘭色皮疹（heliotrope rash）
+> **Gottron papules、heliotrope rash** 為 DM 特異性皮膚表徵；成人 DM 需篩檢**惡性腫瘤**（anti-TIF1γ、NXP2）；anti-MDA5 → 快速進展 ILD。
+
+@115-2#56|A
+76 歲男性，慢性腎功能衰竭，接受腎臟移植後開始服用環孢素（cyclosporine）和類固醇。數月後出現近端肌無力，以下肢最明顯，但血清肌酸激酶（CK）正常。下列何者為最可能的診斷？
+A. 類固醇引起的肌病（steroid myopathy）
+B. 尿毒症神經病變（uremic neuropathy）
+C. 多發性肌炎（polymyositis）
+D. 重症肌無力（myasthenia gravis）惡化
+> **類固醇肌病**：近端、下肢為主、**CK 正常**、EMG 多正常；病理 **type 2 纖維萎縮**；減量類固醇 + 運動。

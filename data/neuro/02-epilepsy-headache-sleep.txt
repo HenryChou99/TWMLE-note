@@ -1,0 +1,346 @@
+## 二、癲癇
+### 診斷與分類
+
+@110-2#46|B
+關於癲癇發作（epileptic seizures）與昏厥（syncope）的鑑別診斷之描述，下列何者最不適合？
+A. 若有 Valsalva maneuver、姿勢性低血壓（orthostatic hypotension）為前導因素，應先考慮昏厥
+B. 若發生前有盜汗（diaphoresis）、倦怠（tiredness），應先考慮癲癇發作
+C. 癲癇發作較常導致舌頭咬傷
+D. 幾秒鐘後立刻回復意識且合併心律不整者，應先考慮昏厥
+> 前驅**盜汗、噁心、眼前發黑** = 血管迷走性**昏厥**。癲癇：舌側咬傷、發作後混亂（postictal）、持續較久、頭轉向。
+
+@111-1#47|D
+關於癲癇發作（epileptic seizures），下列敘述何者最恰當？
+A. 正常的腦部磁振造影可以排除病人有癲癇的可能
+B. 暈厥（syncope）的病人如腦電圖出現棘波（spike waves）就可確診為癲癇
+C. 嬰幼兒童一旦曾發生熱痙攣（febrile convulsion）就可確認以後會有癲癇
+D. 暈厥同時有短暫的肌肉強直仍不可確診為癲癇
+> **Convulsive syncope**：腦灌流不足可伴短暫抽動/強直，不等於癲癇。癲癇為臨床診斷；MRI/EEG 正常不能排除，EEG 偶發棘波也不能單獨確診。
+
+@110-2#47|D
+15 歲女孩，無過去病史，兩年前開始清晨剛睡醒時，偶有全身性僵直陣攣發作（generalized tonic-clonic seizure）及雙手短暫抽動，刷牙時曾因雙手突然抽動而將漱口杯甩掉，也曾在白天時被見到有短暫發呆的情形。下列敘述何者錯誤？
+A. 家族成員中亦可能見到類似之癲癇病人
+B. 每秒 4 到 6 次的棘波-慢波（4- to 6-Hz spike waves）及多重棘波（polyspikes）為其特徵性之腦電圖（EEG）表現
+C. 最可能的診斷為青少年肌抽躍癲癇（juvenile myoclonic epilepsy）
+D. 屬於頑固性的次發性全面性癲癇（secondary generalized epilepsy）之一
+> **JME**：青春期、晨起肌躍（掉東西）± GTC ± absence；EEG **4–6 Hz polyspike-wave**、光敏感；屬**特發性（遺傳性）全面癲癇**，對 valproate 反應佳但需長期服藥。
+
+@113-1#49|D
+下列有關癲癇（epilepsy）及癲癇發作（seizure）之敘述，何者正確？
+A. 90%的腦傷病人在一年內會發生創傷後癲癇
+B. 在所有年齡層，頭部外傷都是最常見的癲癇病因
+C. 小於15歲病人其癲癇發病的最常見病因為腦血管病變
+D. 癲癇病人接受抗癲癇藥物治療，約6～7成可達到癲癇發作緩解（remission）
+> 約 **60–70% 用藥可控制**（約 1/3 為藥物難治 → 評估手術）。病因：兒童多遺傳/發育/周產期；**老人以腦血管病最常見**。
+
+@112-2#49|A
+下列敘述何者最不可能是癲癇誘發因素？
+A. 15歲女孩於3歲大時曾發作單純型熱痙攣（simple febrile seizure），後續神經學功能正常無後遺症
+B. 60歲陳舊性大片腦中風女性患者，近日發生尿路感染合併敗血症
+C. 38歲男性癲癇患者，因抗癲癇藥物用完自行停藥三日
+D. 55歲男性糖尿病患者血糖控制不佳，伴有酮酸中毒症
+> 單純熱痙攣日後癲癇風險僅略高（約 1–2%），非誘發因素。誘發因子：停藥、睡眠剝奪、感染/發燒、代謝異常、酒精戒斷。
+
+@114-2#48|C
+26 歲女性，兩年來晚上睡眠中會突然出現臉部表情驚恐，四肢亂動，約持續 20 秒後結束。發作後意識清楚，能正確對答，每次發作的表現都一樣。最近三個月幾乎每晚發作 5 次以上，且都是叢發性（cluster）發作，白天午睡時偶爾也會發作，清醒時則完全正常，最可能的診斷為下列何者？
+A. 恐慌症（panic disorder）
+B. 異睡症（parasomnia）
+C. 額葉癲癇（frontal lobe epilepsy）
+D. 顳葉癲癇（temporal lobe epilepsy）
+> **短暫（< 1 分）、刻板、叢發、睡眠中 hypermotor、發作後立即清醒** → 額葉癲癇（sleep-related hypermotor epilepsy）。NREM parasomnia 較長、發作後混亂、不刻板。
+
+### 抗癲癇藥物
+
+@112-1#47|A
+8歲男童由父母帶來求診，主訴經常出現短暫性的恍神，一天可以發作上百次，每次只持續約10秒。病人智力正常，腦部電腦斷層和磁振造影無異常發現，腦波出現規律之全面性3Hz棘慢波複合波（spike–and–slow–wave），下列何種藥物最適合使用？
+A. valproic acid
+B. levetiracetam
+C. phenytoin
+D. carbamazepine
+> **Childhood absence**（3 Hz spike-wave、過度換氣誘發）：ethosuximide、**valproate**、lamotrigine。Carbamazepine、phenytoin 會**加重** absence。
+
+@111-1#49|B
+關於青少年肌躍性癲癇（juvenile myoclonic epilepsy）需避免使用下列何種抗癲癇藥物？
+A. levetiracetam
+B. phenytoin
+C. valproate
+D. topiramate
+> 全面型癲癇避免 **sodium channel blockers（phenytoin、carbamazepine、oxcarbazepine）**及 gabapentin、vigabatrin → 加重肌躍/absence。
+
+@113-1#47|A/B（A、B 均給分）
+13歲女學生半年來經常熬夜讀書，早上起床常有短暫性全身抽動（myoclonus），上肢特別明顯，意識清楚。這次被父母送來急診主要是因為全身痙攣（convulsion）。病人智力正常，腦部斷層和磁振造影無異常發現，腦波出現不規律之全面性4-6Hz棘慢波複合波，病人過去曾經有肝炎病史。下列何種抗癲癇藥物最適合使用？
+A. valproate
+B. levetiracetam
+C. phenytoin
+D. carbamazepine
+> JME 首選 valproate；但有**肝炎病史**（VPA 肝毒性）且為育齡女性 → **levetiracetam** 較適合（原答 B，後 A、B 均給分）。
+
+@111-2#47|A
+21 歲女性初次被診斷為顳葉癲癇，並準備開始服用抗癲癇藥物，下列何者考量最不適當？
+A. 開立 phenytoin 之前要抽血檢驗，確認不帶有人類組織配對抗原 HLA-B*1500 基因
+B. 病人處於適婚年齡並有懷孕之可能，避免開立 valproic acid
+C. 若病人目前正在服用避孕藥，若開立 phenytoin 或 carbamazepine 應告知可能會有意外懷孕的風險
+D. 如果抗癲癇藥物不能有效控制病情或癲癇發作影響生活品質，癲癇手術是可能的選擇
+> SJS/TEN 相關基因是 **HLA-B\*1502**（亞洲人；carbamazepine，phenytoin 亦相關），不是 B\*1500。酵素誘導劑（PHT、CBZ）降低口服避孕藥效果。顳葉癲癇藥物難治 → 手術。
+
+@113-2#48|C
+68歲男性肝硬化病人，同時也有高血壓和糖尿病正接受治療中。因為中大腦動脈梗塞造成中風後癲癇，使用下列何種抗癲癇藥物最為合適？
+A. phenytoin
+B. valproic acid
+C. levetiracetam
+D. perampanel
+> **Levetiracetam**：主要**腎臟排除**、不經肝代謝、交互作用少 → 肝病、老人首選。VPA 肝毒性；PHT 肝代謝、交互作用多。
+
+@114-2#49|C
+針對生育年齡婦女的癲癇治療，在致畸胎特性上，應最優先考慮下列那一種藥品？
+A. valproate
+B. topiramate
+C. lamotrigine
+D. phenytoin
+> 致畸胎風險最低：**lamotrigine、levetiracetam**。Valproate 最高（NTD、認知/自閉）；topiramate 唇顎裂；phenytoin fetal hydantoin syndrome。
+
+@115-2#49|B
+28 歲女性，患有青少年肌陣攣型癲癇（juvenile myoclonic epilepsy, JME）。她單用 valproic acid 治療，癲癇控制良好，向醫師諮詢孕期用藥的安全性。關於 valproic acid 在孕期使用的敘述，下列何者最適當？
+A. valproic acid 與其他抗癲癇藥物相比，致畸胎風險無顯著差異
+B. valproic acid 與胎兒神經管缺陷的風險增加相關，應該避免或非不得已謹慎使用
+C. 建議懷孕期間將藥物換成 topiramate，以確保胎兒安全
+D. 建議懷孕期間將藥物換成 levetiracetam，由於藥物代謝動力學穩定，懷孕期間無需監測血清藥物濃度
+> VPA：**NTD**、重大畸形、IQ 下降 → 育齡女性避免，若必須用最低劑量 + 高劑量葉酸。懷孕時 LEV、LTG **清除率上升 → 需監測濃度**。最好在**懷孕前**換藥。
+
+@114-1#49|C
+對於不是重積癲癇（status epilepticus）的一般癲癇病人，下列抗癲癇藥物的使用，何者錯誤？
+A. 起始治療應根據病人的癲癇種類，選取單一種最適宜的藥物
+B. 起始治療劑量應由低劑量開始，以減少急性副作用
+C. 起始治療即應達到血中高藥物濃度，以確保療效
+D. 後續藥物調整，應根據病人的反應與副作用而定
+> 原則：依發作型態選**單一藥物**、**start low, go slow**、依臨床反應與副作用調整（非追求血中濃度）。
+
+### 重積癲癇與急救
+
+@112-1#78|C 〔臨床實例〕
+一般癲癇發作時的處理原則，何者最優先？
+A. 立即靜脈注射抗癲癇藥物
+B. 發作期間給予正壓人工呼吸
+C. 讓病人側躺
+D. 立即進行氣管內管插管
+> 現場處置：保護頭部、移開危險物、**側躺（復甦姿勢）**防吸入、記錄時間；不要塞東西入口。> 5 分鐘才給 benzodiazepine。
+
+@110-1#49|A
+關於重積癲癇（status epilepticus）的敘述，下列何者錯誤？
+A. 在兒童之抽搐性重積癲癇（convulsive status epilepticus），死亡率為50%以上
+B. 血中catecholamine濃度升高可誘發致死性心律不整
+C. 所有罹患抽搐性重積癲癇（convulsive status epilepticus）的發燒病人，就算無明顯的腦膜炎跡象，也須做腰椎穿刺檢驗腦脊髓液
+D. 所有罹患抽搐性重積癲癇（convulsive status epilepticus）之成人及無發燒症狀之孩童，均須接受神經影像學檢查，例如CT或MRI
+> CSE 死亡率：兒童約 **3–5%**、成人約 20%。
+
+@115-1#47|A
+37 歲的男性因全身痙攣路倒被救護車送到急診，據路人描述從開始發作到進入急診大約 15 分鐘。標準急救流程已經建立完成，下列有關癲癇之敘述，何者錯誤？
+A. 痙攣須持續超過 30 分鐘，才可以診斷為重積癲癇（status epilepticus）
+B. 立即給與 lorazepam 靜脈注射，若癲癇未停止，5 分鐘後可以再重複一次
+C. 開始給與 phenytoin、valproic acid 或 levetiracetam 靜脈注射
+D. 若給與靜脈注射之抗癲癇藥物後仍未停止發作，需進行插管，開始給與 propofol、midazolam 或phenobarbital 靜脈注射
+> ILAE 操作定義：全身痙攣 **≥ 5 分鐘**（t1，應治療）；≥ 30 分鐘（t2）有長期神經損傷風險。流程：BZD（可重複一次）→ 第二線 fosphenytoin/VPA/LEV → 難治性：麻醉劑 + 插管 + cEEG。
+
+@115-1#76|A 〔臨床實例〕
+有關癲癇重積（status epilepticus）的描述，何者錯誤？
+A. 單次抽搐時間≧10 分鐘
+B. 兩次或兩次以上抽搐之後意識沒有恢復
+C. 癲癇重積可能會造成神經損傷
+D. 靜脈注射抗癲癇藥物是必要的
+> 定義：連續發作 **≥ 5 分鐘**（傳統 30 分鐘），或兩次以上發作之間意識未恢復。
+
+## 三、頭痛與顱內壓
+### 偏頭痛
+
+@115-1#48|D
+下列何者不屬於國際頭痛學會偏頭痛的診斷標準？
+A. 畏光且怕吵
+B. 搏動性
+C. 噁心或嘔吐
+D. 味覺異常
+> ICHD-3 無預兆偏頭痛：≥ 5 次、**4–72 h**；4 項中 ≥ 2（單側、搏動性、中重度、日常活動加重）；+ ≥ 1（噁心/嘔吐，或**畏光且怕吵**）。
+
+@112-2#48|送分（原答 C）
+下列何種神經傳導物質與偏頭痛最沒有關聯？
+A. 降鈣素基因相關胜肽（calcitonin gene-related peptide）
+B. 血清素（serotonin or 5-hydroxytryptamine）
+C. 乙醯膽鹼（acetylcholine）
+D. 多巴胺（dopamine）
+> （一律給分）偏頭痛核心機轉：三叉神經血管系統釋放 **CGRP**、5-HT（triptan 為 5-HT1B/1D 促效劑）；dopamine 與前驅期打哈欠、噁心相關。
+
+@110-2#45|A
+關於 ergotamine 的敘述，下列何者錯誤？
+A. 是一種 beta-adrenergic agonist
+B. 會造成血管收縮
+C. 有血清素受體親和力（serotonin receptor affinity）
+D. 可用來做急性偏頭痛發作時之治療
+> Ergotamine/DHE：**5-HT1B/1D 促效**兼 α-adrenergic 作用 → 血管收縮；急性治療；禁忌：冠心病、懷孕、併用 triptan 或 CYP3A4 抑制劑。
+
+@113-2#49|A
+下列何者不是治療急性偏頭痛發作的藥物？
+A. erenumab
+B. sumatriptan
+C. dihydroergotamine
+D. prochlorperazine
+> **Erenumab = CGRP 受體單株抗體 → 預防用**。急性：NSAIDs、triptans、ergots、止吐劑（prochlorperazine、metoclopramide）、gepants、lasmiditan。
+
+@111-1#48|C
+關於偏頭痛的藥物治療，下列何者最不恰當？
+A. 急性期的治療藥物triptan的使用，須注意心血管疾病的禁忌症
+B. 如果一個月發作4次以上，可以考慮使用預防性藥物
+C. 抗癲癇藥物如carbamazepine常用於預防偏頭痛
+D. 預防性用藥的選擇宜考慮病患是否有其他共病，如高血壓或躁鬱症
+> 預防用抗癲癇藥是 **topiramate、valproate**；carbamazepine 用於三叉神經痛。
+
+@114-1#47|B
+下列何者不是預防偏頭痛發作的藥物？
+A. propranolol
+B. carbamazepine
+C. topiramate
+D. onabotulinum toxin type A
+> 預防：β-blocker（propranolol）、flunarizine、topiramate、valproate、amitriptyline、CGRP 單抗、**botox（慢性偏頭痛）**。
+
+@112-1#49|D
+45歲女性，自15歲左右就偶爾頭痛。發作時常從下午持續到睡覺。發作位置在雙側，劇痛，常合併噁心想吐，畏光怕吵，需要躺下休息，身體活動會加劇頭痛。近十年來頭痛皆以止痛糖漿自行治療。近二年來頭痛越來越頻繁，幾乎兩、三天就得喝半瓶止痛糖漿。因近三個月來幾乎天天頭痛而來就診。下列敘述何者最適當？
+A. 此病人之診斷應為緊縮型頭痛（tension-type headache）
+B. 此病人之診斷應為叢發性頭痛（cluster headache）
+C. 此病人之頭痛應為次發性頭痛，並無原發性頭痛
+D. 此病人之診斷應為偏頭痛合併藥物過度使用頭痛
+> 偏頭痛（可雙側）+ 每月 ≥ 15 天頭痛、止痛藥過度使用 > 3 個月 → **MOH**；處置：停用過量藥物 + 開始預防性用藥。
+
+### 其他原發性頭痛與顏面痛
+
+@111-2#49|B
+下列何種治療證實對於慢性緊縮性頭痛（chronic tension-type headache）具有療效？
+A. verapamil
+B. amitriptyline
+C. alprazolam
+D. onabotulinum toxin type A
+> CTTH 預防：**amitriptyline**（TCA）效果最佳；botox 對 CTTH 無效（對慢性偏頭痛有效）；verapamil 為叢發性頭痛預防。
+
+@114-2#47|D
+34 歲女性，左側眼窩內頭痛，有時會延伸到左側額顳區，每次發作約 2～45 分鐘，一天發作至少 5 次以上，發作時伴隨左側流眼淚和流鼻水並會干擾她的日常生活。頭痛 3 天內會自動緩解，神經影像學檢查正常。下列何種藥物對她特別有療效？
+A. verapamil
+B. carbamazepine
+C. acetaminophen
+D. indomethacin
+> TAC 中**每次 2–30 分、每天 > 5 次、女性** → **paroxysmal hemicrania**，對 **indomethacin 絕對有效**（診斷要件）。叢發性頭痛：15–180 分、男性、O₂/triptan 急性、verapamil 預防。
+
+@113-1#54|C
+下列有關三叉神經痛的敘述，何者錯誤？
+A. 疼痛侷限於三叉神經單條或多條分支範圍的劇烈疼痛
+B. 常發生於中老年人
+C. 成因可能與三叉神經在腦幹附近的動／靜脈血管壓迫或拉扯有關，尤其是下小腦動脈（inferior cerebellar artery）
+D. carbamazepine是治療的選項之一
+> 最常壓迫的是 **superior cerebellar artery（SCA）**；V2/V3 多、電擊樣、扳機點。首選 **carbamazepine**/oxcarbazepine；藥物無效 → microvascular decompression。年輕或雙側 → 想 MS。
+
+### 次發性頭痛與顱內壓
+
+@110-1#47|C
+一位28歲女性突然發生劇烈頭痛，當她躺下後數分鐘內會改善，起床後數分鐘內頭痛又會加劇。她接受注射顯影劑的腦部磁振造影檢查發現硬腦膜有瀰漫性的顯影。下列何者為最可能的診斷？
+A. 偏頭痛
+B. 蜘蛛網膜下腔出血
+C. 自發性顱內低壓性頭痛
+D. 叢發性頭痛
+> **SIH**：姿勢性頭痛（站起加重、躺下改善）；MRI **瀰漫性硬腦膜增強**、腦下垂（brain sagging）、硬膜下積液；原因 CSF 漏；治療臥床、補水、咖啡因、**硬膜外血液貼片**。
+
+@110-1#75|B 〔影像題〕
+26歲女性患者，主訴姿態性頭痛已經一個星期，接受磁振造影檢查，圖A是FLAIR影像，圖B是注射顯影劑後的T1加權影像，下列何者是最可能的診斷？
+A. 腦膜炎（meningitis）
+B. 顱內低壓（intracranial hypotension）
+C. 蜘蛛網膜下出血（subarachnoid hemorrhage）
+D. 硬腦膜下水囊（subdural hygroma）
+> 姿勢性頭痛 + 平滑瀰漫硬腦膜（pachymeningeal）增強 → 顱內低壓。腦膜炎多為軟腦膜（leptomeningeal）增強。
+
+@110-1#48|A
+下列關於顱內壓上升（increased intracranial pressure）之臨床徵候與檢視的敘述，何者錯誤？
+A. 嚴重的顱內壓上升，病人可能出現低血壓、心搏加速及頭痛的現象
+B. 出現庫欣氏反射（Cushing reflex）暗示有續發急性腦疝脫的可能
+C. 進行腰椎穿刺前的病人應先做腦部攝影
+D. 可藉由眼底鏡檢視是否有視乳突水腫（papilledema）的現象
+> **Cushing triad：高血壓、心搏過緩、呼吸不規則** → 腦疝前兆。ICP↑ 症狀：晨起頭痛、噴射性嘔吐、papilledema、CN VI 麻痺。
+
+## 四、睡眠障礙
+### 睡眠呼吸中止與嗜睡
+
+@110-1#50|C
+關於睡眠呼吸中止症（sleep apnea）的敘述，下列何者錯誤？
+A. 中樞型睡眠呼吸中止症（central sleep apnea）可發生於腦幹中風或腦幹發炎之病人
+B. 阻塞型睡眠呼吸中止症（obstructive sleep apnea）常發生於肥胖短頸或肢端肥大症（acromegaly）之病人
+C. 阻塞型睡眠呼吸中止症只發生於快速動眼期睡眠（REM sleep）
+D. 連續氣道正壓呼吸器（CPAP）為睡眠呼吸中止症最常用且有效的治療方法
+> OSA 在 NREM 與 REM 都會發生（**REM 較嚴重**，肌張力最低）。中樞型：腦幹病灶、心衰竭（Cheyne-Stokes）、鴉片類。
+
+@112-1#48|D
+58歲男性，常被妻子抱怨幾乎每晚睡覺時鼾聲大作，而且鼾聲消失十幾秒後，突然又大聲喘息。他自覺不管睡多久，早晨醒來都沒有睡飽，且經常頭痛，白天工作時也常打瞌睡。下列何者與他的臨床診斷最沒有關係？
+A. 肥胖
+B. 高血壓
+C. 扁桃腺肥大（large tonsils）
+D. 下顎前突（antero-flexed mandible）
+> OSA 相關：肥胖、頸圍大、扁桃腺肥大、**下顎後縮（retrognathia）**、巨舌、高血壓（結果與危險因子）。下顎前移裝置反而是治療。
+
+@115-1#49|B
+21 歲女性，自 4 年前開始有白日嗜睡的困擾。她生活作息正常，但是 6 個月前和同學開玩笑的時候開始出現眼瞼和頭部下垂，以及雙膝癱軟的情形，有時因此摔倒，發作時意識正常。晚上睡覺常出現全身不能動彈，感覺有黑影壓在身上，令她非常害怕。下列何者是最可能的致病機轉？
+A. 腦部異常放電（癲癇樣波）
+B. 下視丘泌素（hypocretin）缺乏
+C. 神經肌肉交接傳遞異常
+D. 血鉀過低
+> **Narcolepsy type 1**：白日嗜睡 + **猝倒（情緒誘發、意識清楚）**+ 睡眠癱瘓 + 入睡幻覺；下視丘 **hypocretin/orexin** 神經元喪失（HLA-DQB1*06:02）；MSLT 平均入睡 ≤ 8 分、≥ 2 次 SOREMP。
+
+@113-1#48|A
+下列何種治療對延遲型睡眠週期症候群（delayed sleep phase syndrome）最不合適？
+A. 晚上照光治療
+B. 褪黑激素（melatonin） 每晚0.2～0.5mg
+C. 每天延後睡覺2～3個小時，連續幾天，以重置生物鐘
+D. 晚間給與褪黑激素促效劑（melatonin agonist）
+> DSPS（青少年常見）：**早晨照光**、傍晚低劑量 melatonin、chronotherapy。晚上照光會使節律更延後（晚上照光用於 advanced sleep phase）。
+
+### 異睡症與睡眠相關動作障礙
+
+@111-2#48|C
+57 歲男性因睡眠異常行為由妻子陪伴來診，妻子表示他經常在後半夜發作，會與人對話、大聲謾罵、揮手踢腳，甚至衝撞牆壁跌落床下。有時發作中醒來，他可以栩栩如生描述夢境，與他所表現的行為吻合。有關他的疾病，下列敘述何者最不適當？
+A. 主要好發於老年男性
+B. 睡眠多項生理檢查（polysomnography）主要的發現為快速動眼期睡眠（rapid eye movement sleep, REM sleep）不能維持肌肉失張力狀態（muscle atonia）
+C. 使用抗憂鬱劑（例如 serotonin 或 norepinephrine reuptake blockers）可以改善症狀
+D. 十年內發展成巴金森氏病的危險率增加
+> **RBD**：SSRI/SNRI 會**誘發/加重**。治療 clonazepam、melatonin、環境安全。為 α-synucleinopathy（PD、DLB、MSA）前驅。
+
+@115-2#47|B
+50 歲男性，在夜間睡眠中經常出現大聲叫喊和拳打腳踢等激烈行為，有時會跌下床導致受傷。當他被妻子叫醒或因為撞擊醒來的時候，通常能夠清楚地描述與其肢體動作相符的生動夢境。關於此病症的敘述，下列何者最適當？
+A. 此病症通常發生在非快速動眼期（non-rapid eye movement, NREM）睡眠的第三期（N3）階段，主要在前半夜
+B. 此病症的確定診斷須經多項生理睡眠檢查（polysomnography）
+C. 此病症是運動神經元疾病（motor neuron disease）的前驅症狀
+D. 治療此病症的首選藥物是 modafinil，因為它可以平衡睡眠和清醒狀態
+> RBD 確診須 **PSG 證實 REM sleep without atonia**；發生於 REM（後半夜）；是 synucleinopathy 而非 MND 的前驅；首選 clonazepam/melatonin。
+
+@112-2#47|C
+10歲女童因「夢遊症」求診，她入睡時間正常，但入睡後約1～3小時會突然從床上坐起來在房間走動，偶爾會打開門走出去，又走回臥室。整個發作期間都是一些簡單沒有實際意義的行為，每週約發生1次，每次持續約15～30分鐘，白天特別累時夜晚就容易發生，隔天早上不記得昨夜發生的事，腦波檢查沒有癲癇症的證據。下列敘述何者錯誤？
+A. 通常發生在非快速動眼期睡眠（non-rapid eye movement sleep, NREM sleep）之第三期（stage N3）
+B. 有可能合併夜驚症（sleep terrors）和覺醒障礙症（confusional arousals）
+C. 發作時為夢境實演（dream enactment behavior）的行為
+D. 除非有安全上的考量，基本上不需要藥物治療
+> 夢遊 = **NREM（N3）覺醒障礙**，前 1/3 夜、隔天失憶、無夢境內容。**夢境實演 = RBD**（REM）。
+
+@110-2#51|B
+一位 28 歲懷孕 30 週的婦女最近失眠，因為在晚上入睡前會感覺兩腳不舒服，好像有小蟲在爬，讓她很想去動一下，而且在摩擦兩腳或是起來踏步後，會減輕症狀。她最近並未服用任何藥物，身體檢查發現兩腳輕微水腫。此孕婦最可能的診斷是：
+A. 肌肉病變（myopathy）
+B. 不寧腳症候群（restless leg syndrome）
+C. 腳水腫後遺症
+D. 靜坐不能（akathisia）
+> **RLS（URGE）**：想動的衝動、休息時出現、**活動後緩解**、傍晚/夜間加重。懷孕、缺鐵為次發因素。
+
+@113-2#47|C
+36歲女性，最近三年有失眠的困擾。在夜間坐著，特別是躺在床上的時候，覺得兩小腿有一種非動不可的感覺，伴隨一種難以言喻的酸麻。所以她必須不斷的伸一伸、踢一踢或起來走一走，煎熬整夜。下列何者與她的臨床診斷最不可能相關？
+A. 缺鐵性貧血（iron deficiency anemia）
+B. 慢性腎臟病（chronic kidney disease）
+C. 癲癇症（epilepsy）
+D. 睡眠週期性肢體抽動症（periodic limb movements in sleep）
+> RLS 相關：**缺鐵（ferritin < 75 → 補鐵）、CKD/透析、懷孕**、周邊神經病變；約 80% 合併 **PLMS**。治療：補鐵、α2δ ligand（gabapentin/pregabalin）、dopamine agonist（注意 augmentation）。
+
+@114-1#48|B
+下列何者不是入睡抽動（hypnic jerks）常見的加重因子？
+A. 睡眠不足
+B. 睡前喝水
+C. 睡前劇烈運動
+D. 情緒壓力
+> Hypnic jerks（sleep starts）為生理現象，入睡時短暫全身抽動；加重因子：睡眠不足、壓力、咖啡因/興奮劑、睡前劇烈運動。
