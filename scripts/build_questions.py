@@ -34,6 +34,8 @@ SUBJECT = {
 SPECIALTIES = {
     "rehab": dict(name="復健科", paper="醫學（六）", folder="醫學六", core=range(58, 72),
                   scope="每卷第 58–71 題，另收錄第 72–77 題中與復健相關的影像/臨床實例題"),
+    "uro": dict(name="泌尿科", paper="醫學（五）", folder="醫學五", core=range(64, 72),
+                scope="每卷第 64–71 題，另收錄第 72–77 題中與泌尿相關的影像/臨床實例題"),
     "ortho": dict(name="骨科", paper="醫學（五）", folder="醫學五", core=range(56, 64),
                   scope="每卷第 56–63 題（110 年第 2 次另含第 53–55 題組），另收錄第 72–77 題中與骨科相關的影像/臨床實例題；第十二章足踝重建於 110–115 年未出題"),
 }

@@ -4,7 +4,7 @@
 
 - 網站：https://henrychou99.github.io/TWMLE-note/
 - 題目原始資料：`data/<科別>/*.txt`（純文字，方便修改）
-- 網站：MkDocs Material（`mkdocs.yml`、`docs/`）；考古題頁由 `python3 scripts/build_questions.py` 從 `data/<科別>/` 產生（rehab、ortho）
+- 網站：MkDocs Material（`mkdocs.yml`、`docs/`）；考古題頁由 `python3 scripts/build_questions.py` 從 `data/<科別>/` 產生（rehab、ortho、uro）
 
 ## data 格式
 
