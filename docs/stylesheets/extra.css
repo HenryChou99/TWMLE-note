@@ -31,3 +31,19 @@
   from { background-color: rgba(255, 213, 79, 0.7); }
   to   { background-color: transparent; }
 }
+
+/* 表格與圖並排（窄螢幕自動上下排） */
+.md-typeset .side-by-side {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+}
+.md-typeset .side-by-side > * {
+  flex: 1 1 260px;
+  margin: 0;
+}
+.md-typeset .side-by-side img {
+  width: 100%;
+  max-width: 480px;
+}
