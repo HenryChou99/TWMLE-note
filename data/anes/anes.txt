@@ -1,0 +1,984 @@
+## 一、術前評估與呼吸道處置
+### 呼吸道評估
+
+@110-1#1|A
+按 modified Mallampati classification 進行氣道評估，請病人做最大張口、舌頭盡力伸出的動作，若只可看見 hard palate，而不能看見 soft palate，則分類屬於何等級？
+A. class IV
+B. class II
+C. class I
+D. class III
+> **Modified Mallampati**：I 軟顎、咽門、懸雍垂、扁桃柱全見；II 軟顎、咽門、懸雍垂；III **軟顎 + 懸雍垂基部**；**IV 只見硬顎**。坐姿、張口伸舌、不發聲。
+
+@115-1#1|D
+病人嘴張到最大、舌頭伸到最長，不使用壓舌棒下，只能看見 soft palate、base of the uvula，不能看見 tonsillar pillars、fauces。依據前述，屬於何等級？
+A. class Ⅰ
+B. class Ⅱ
+C. class Ⅳ
+D. class Ⅲ
+> 同上：軟顎 + 懸雍垂基部 = **class III**。
+
+@111-1#76|A 〔臨床實例〕
+下列何種狀況可能會導致氣道內管插管困難？
+A. Mallampati 分級：Class Ⅲ
+B. 下巴離舌骨超過三指幅寬
+C. 嘴巴打開超過三指幅寬
+D. 配戴活動式假牙
+> 困難插管預測：**Mallampati III–IV**、張口 < 3 指、**thyromental distance < 6 cm（< 3 指）**、頸部活動受限、短頸、大舌、門牙突出。活動假牙插管前取下即可。
+
+@115-1#75|B 〔臨床實例〕
+困難氣管插管可用 LEMON 來評估，下列敘述何者最不適當？
+A. look externally（L）：評估外觀是否短下巴、短脖子、肥胖
+B. evaluation 3-3-2（E）：使用手指評估張口是否達到 3 個指幅、牙齒到下巴下緣是否達到 3 個指幅、舌骨到甲狀軟骨是否達到 2 個指幅
+C. Mallampati 分級（M）：請病人張嘴，將舌頭吐出，評估懸壅垂與舌根位置
+D. neck mobility（N）：評估脖子活動度是否正常
+> **3-3-2**：張口 3 指、**下巴（mentum）到舌骨 3 指**、舌骨到甲狀軟骨 2 指。LEMON：Look、Evaluate 3-3-2、Mallampati、**Obstruction/Obesity**、Neck mobility。
+
+@112-2#1|A
+下列何者為麻醉誘導後施行面罩通氣困難（difficult mask ventilation）最可能之預測因子？
+A. 有大量鬍鬚之男性
+B. 青少年
+C. BMI 小於 20 kg/m²
+D. Mallampati classification II
+> 困難面罩通氣 **OBESE / BONES**：**Obesity（BMI > 26–30）、Beard（鬍鬚）、Edentulous（無牙）、Snoring/OSA、Elderly（> 55 歲）**；Mallampati III–IV、下頜前突受限、頸部放療。
+
+### 呼吸道輔具與插管技術
+
+@110-2#1|A
+下列何者不能作為施行正壓呼吸的工具？
+A. 凡德里面罩（Venturi mask）
+B. 喉頭罩（laryngeal mask airway）
+C. 氣管內管
+D. 麻醉面罩
+> **Venturi mask = 固定 FiO₂ 的氧氣給予裝置**（自發呼吸），不能正壓通氣。
+
+@111-2#1|A
+氣道的輔助工具包括鼻咽人工氣道與口咽人工氣道，下列敘述何者錯誤？
+A. 清醒的病人優先使用口咽人工氣道
+B. 誘發嘔吐是口咽人工氣道的潛在性風險
+C. 顱骨底骨折是鼻咽人工氣道的禁忌
+D. 鼻出血是鼻咽人工氣道的潛在性併發症
+> **清醒/半清醒（有 gag reflex）→ 鼻咽呼吸道**；口咽呼吸道用於**無意識**病人（否則誘發嘔吐、喉痙攣）。鼻咽禁忌：**顱底骨折**、凝血異常。
+
+@111-2#6|A
+麻醉誘導進行面罩通氣時發現通氣困難，下列那一項措施的改善效果最差？
+A. 用力往下壓緊面罩
+B. 放置口咽呼吸道
+C. 放置鼻咽呼吸道
+D. 壓額抬下巴
+> 改善面罩通氣：**head tilt-chin lift、jaw thrust、口/鼻咽呼吸道、雙人雙手扣面罩**、加深麻醉/肌鬆；往下用力壓面罩會把下巴壓向後、**加重阻塞**。
+
+@113-1#1|B
+使用軟式光纖支氣管鏡（flexible fiberoptic bronchoscope）置放氣管內管，下列敘述何者正確？
+A. 只能經鼻插管，不能經口插管
+B. 可用於不穩定頸椎骨折病人之氣管插管
+C. 不適用於清醒的病人
+D. 不適用於已麻醉的病人
+> FOB：經口/經鼻、清醒/麻醉皆可；**頸部不需移動** → 不穩定頸椎、張口受限、預期困難插管的**清醒插管首選**。
+
+@114-1#1|D
+麻醉醫師認為必須採取清醒下插氣管內管，此時最常施行之神經阻斷技術輔助，不包括下列何者？
+A. glossopharyngeal nerve block
+B. superior laryngeal nerve block
+C. translaryngeal block
+D. recurrent laryngeal nerve block
+> 清醒插管表面麻醉：**glossopharyngeal（舌根、咽、gag）**、**superior laryngeal（internal branch：會厭至聲帶以上）**、**transtracheal/translaryngeal（聲帶以下氣管）**。RLN 支配聲帶運動，阻斷 → 聲帶麻痺、氣道阻塞。
+
+@111-1#1|A
+執行全身麻醉誘導後，完成置放氣管內管，病人生命徵象穩定。確認氣管內管位置在氣管內的正確方法，下列何者錯誤？
+A. 後頸部超音波掃描影像，確認氣管內管位置
+B. 通氣時聽診胸部、腹部呼吸音，發現兩側胸部呼吸音強，上腹部聽不到呼吸音
+C. 呼氣末二氧化碳監測儀，可見呼氣時呈現二氧化碳方波連續出現
+D. 光纖支氣管鏡檢查，確認氣管內管位置
+> 確認：**持續 EtCO₂ 波形（最可靠，gold standard）**、直視通過聲門、FOB 見氣管環/隆突、聽診、胸部起伏、**前頸部**超音波（非後頸）。
+
+@112-1#1|A
+執行全身麻醉誘導後，遇到非預期的困難呼吸道，並發生無法通氣及插管（CICV）的情況，麻醉醫師立即施行環甲膜切開術（surgical cricothyrotomy），下列敘述何者錯誤？
+A. 環甲膜切開術亦適用於六歲以下兒童施行
+B. 讓病人平躺，觸摸頸部甲狀軟骨下緣，以環狀軟骨與甲狀軟骨之間的距離來定位
+C. 環甲膜切開術之併發症，包括出血與感染
+D. 環甲膜切開術不應作為將來病人之永久性通氣道
+> **< 10–12 歲（尤其 < 6 歲）環甲膜小、環狀軟骨是唯一完整環 → 禁 surgical cricothyrotomy**（狹窄），改 **needle cricothyrotomy + jet ventilation**。
+
+@113-2#1|A
+呼吸道的處置中，有些情況風險性特別高，應該要有預先的警覺。下列關於這些情況的描述，何者錯誤？
+A. 以發生機率而言，全身麻醉過程中，手術拔管後與恢復期發生吸入性肺炎的機率高於麻醉誘導期
+B. 對於預期性困難插管的病患，可採取局部麻醉之下進行清醒插管
+C. 麻醉誘導期發生非預期性困難插管的情況仍在所難免，因此必須事先備妥困難插管應變流程
+D. 「無法插管，且無法通氣」是指無法以非侵入性方法進行通氣，而又無法進行插管的緊急情況
+> 吸入性肺炎**最常發生在誘導期**（喪失保護反射 → 插管前）；預防：禁食、RSI、制酸劑。
+
+@115-2#1|D
+手術完成後，全身麻醉甦醒拔管時期，下列何者是最不可能發生之氣道相關併發症？
+A. 上呼吸道阻塞
+B. 支氣管痙攣
+C. 杓狀軟骨脫位（arytenoid dislocation）
+D. 神經性肺水腫
+> 拔管期：**喉痙攣、上呼吸道阻塞 → negative-pressure pulmonary edema**（非神經性）、支氣管痙攣、吸入、杓狀軟骨脫位、喉水腫。**Neurogenic pulmonary edema** 見於腦傷/SAH。
+
+### 快速順序插管（RSI）
+
+@114-2#1|A
+執行快速插管（rapid sequence intubation）使用的藥物或步驟，下列何者最不適合？
+A. 使用光纖內視鏡輔助插管
+B. 預先給氧
+C. 快速作用的非去極化神經肌肉阻斷劑
+D. 快速作用的去極化神經肌肉阻斷劑
+> **RSI**（full stomach）：**preoxygenation** → 快速誘導劑 + **succinylcholine 或高劑量 rocuronium（1.2 mg/kg）** → **避免正壓面罩通氣** → 直接喉鏡插管（± cricoid pressure）。FOB 費時，用於清醒/預期困難插管。
+
+@111-2#77|B 〔臨床實例〕
+25 歲男性病人有頭部外傷，至急診時昏迷指數 7 分，血壓 220/116 mmHg，瞳孔不等大，要實施 RSI，下列藥物何者使用須特別小心？
+A. lidocaine
+B. ketamine
+C. etomidate
+D. propofol
+> **Ketamine：交感興奮 → 血壓、心跳、ICP（傳統觀點）、IOP↑** → 已高血壓 + 疑腦疝時慎用。Etomidate 血行動力穩定；propofol 降 ICP 但降血壓；lidocaine 減弱插管 ICP 反應。
+
+@112-1#76|D 〔臨床實例〕
+關於急診快速階段性氣管內管置放時藥物的使用，下列何者最不適當？
+A. ketamine 用於重積性氣喘的病人
+B. rocuronium 用於重症肌無力的病人
+C. succinylcholine 用於蜘蛛膜下腔出血的病人
+D. propofol 用於低血容性休克的病人
+> **Propofol → 血管擴張、心肌抑制 → 低血壓**；休克 → **ketamine 或 etomidate**。Ketamine 支氣管擴張 → 氣喘首選。
+
+@112-2#75|B 〔臨床實例〕
+70 歲男性有氣喘病史，因呼吸窘迫送到急診，心跳 120/min，呼吸 40/min，血壓 86/54 mmHg，血氧 70%。胸部 X 光發現右側大片肺炎。擬執行氣管內管置放時，下列藥物何者最適合？
+A. midazolam
+B. ketamine
+C. propofol
+D. barbiturate
+> **低血壓 + 支氣管痙攣 → ketamine**（擬交感、支氣管擴張、維持血壓與呼吸驅動）。
+
+@114-2#77|B 〔臨床實例〕
+25 歲男性病人有頭部外傷，須實施 RSI，當使用 succinylcholine 時，下列有關 succinylcholine 的敘述，何者最不適當？
+A. 可能會造成橫紋肌溶解
+B. 若該病人合併有燒燙傷，succinylcholine 比 rocuronium 合適
+C. 可能造成顱內壓上升及眼壓上升
+D. 可能造成胃內壓上升
+> **燒傷、SCI、去神經、長期臥床、擠壓傷（> 24–48 h 後）→ 接頭外 AChR 上調 → succinylcholine 致致命高血鉀** → 用 rocuronium。
+
+### 術前風險評估
+
+@114-2#6|C
+75 歲男性，預計經尿道攝護腺切除術，病人的術前心臟超音波報告剛出來，下列數據何者最可能需要暫緩手術？
+A. 主動脈瓣平均跨瓣壓力梯度 30 mmHg
+B. 主動脈瓣最大流速 2 m/s
+C. 主動脈瓣瓣口面積（AVA）0.9 平方公分
+D. 二尖瓣平均跨瓣壓力梯度 6 mmHg
+> **Severe AS：AVA < 1.0 cm²、mean gradient ≥ 40 mmHg、Vmax ≥ 4 m/s** → 非心臟手術前評估是否先處理 AS（TAVI/AVR）。
+
+@115-1#7|A
+60 歲男性，BMI 35，因上消化道出血需進行緊急剖腹探查，術前血紅素 8 g/dL，未用氧氣下血氧 94%，以 ARISCAT Score 評估術後發生肺部併發症為高風險，下列何者不是 ARISCAT Score 的評估項目？
+A. 身體質量指數
+B. 年齡
+C. 術前血紅素
+D. 緊急手術
+> **ARISCAT 7 項**：年齡、**術前 SpO₂**、近 1 個月呼吸道感染、**術前貧血（Hb ≤ 10）**、**上腹/胸腔切口**、**手術時間 > 2 h**、**緊急手術**。BMI 不在內。
+
+## 二、麻醉監測
+### 呼吸監測
+
+@110-1#2|C
+全身麻醉中，潮氣末二氧化碳（EtCO₂）數值突然降低之原因，不包括下列那一項？
+A. 氣管內管彎折
+B. 呼吸迴路鬆脫
+C. 病人發燒
+D. 急性肺栓塞
+> EtCO₂ **驟降/消失**：迴路脫落、管路阻塞/彎折、食道插管、**心跳停止、大量 PE、空氣栓塞**、嚴重低血壓；**上升**：發燒、**惡性高熱**、通氣不足、CO₂ 吸收劑耗盡、腹腔鏡 CO₂ 吸收、鬆止血帶。
+
+@112-2#3|D
+關於手術中麻醉呼吸功能的基礎監測，下列敘述何者錯誤？
+A. 呼吸監測必須包含氧合與換氣
+B. Pulse oximetry 是必要的呼吸監測項目
+C. Capnography 可以監測 ventilation，包含確認氣管內管的位置
+D. EtCO₂ 與動脈血 CO₂ 分壓有固定的差距，其可以完全反應動脈血 CO₂ 分壓的變化
+> 正常 **PaCO₂ − EtCO₂ ≈ 2–5 mmHg**，**死腔↑（低心輸出、PE、COPD、側臥）時差距變大且不固定**。
+
+@115-2#4|D
+麻醉中呼吸監測與判讀，下列敘述何者最不適當？
+A. pulse oximetry 為呼吸監測中重要的工具
+B. EtCO₂ 和 PaCO₂ 數值不一定相同
+C. 影像檢查如超音波，可幫助床邊呼吸監測，早期診斷 pneumothorax、consolidation 和 pleural effusion 等
+D. 胸部 X 光為肺水腫早期診斷的最佳工具，肺水增加 5%，就可以顯現變化並判讀
+> CXR 對肺水腫**不敏感**（需肺水增加約 30% 才顯示）；**肺超音波 B-lines** 較早較敏感。
+
+@113-2#3|B 〔影像題〕
+麻醉誘導並執行氣管插管後，Pulse oximetry 顯示 97%，接上 EtCO₂ 監測，出現圖形如下，下列後續處置何項最適宜？
+A. 懷疑氣管內管阻塞，準備抽吸
+B. 懷疑食道內插管，準備再重新插管
+C. 換新的 soda lime，以利吸收二氧化碳
+D. 懷疑插管位置過深，造成單肺通氣，準備外移氣管內管
+> **EtCO₂ 數個波後逐漸消失 = 食道插管**（胃內少量 CO₂）；SpO₂ 會延遲下降（預先給氧）。「No trace = wrong place」。
+
+@114-2#3|B
+關於 EtCO₂ 的監測，下列敘述何者最不適當？
+A. 可以快速發現是否將氣管內管誤放入食道
+B. 可以快速發現是否將氣管內管置放過深
+C. 可以用來監測復甦品質，確認組織灌流改善
+D. 全身麻醉中 EtCO₂ 快速增加可能是 malignant hyperthermia 的 early sign
+> 插管過深（右主支氣管）EtCO₂ 變化不明顯 → 靠**聽診兩側呼吸音、氣道壓↑、SpO₂ 下降、CXR/FOB**。CPR：**EtCO₂ < 10 → 胸壓品質差；驟升 → ROSC**。**惡性高熱最早徵象：無法解釋的 EtCO₂ 上升**、心搏過速、肌肉僵硬（咬肌）→ dantrolene。
+
+@113-1#2|D
+關於脈衝動脈血氧飽和度（SpO₂）在臨床麻醉的應用，下列敘述何者最不適當？
+A. 藉由波形可以發現是否有心律不整
+B. 波形振幅偏低，代表組織可能灌流不足
+C. 不能當作氣管插管位置正確與否的早期診斷工具
+D. 氣管插管若過深而進入右側支氣管，則血氧飽和度會快速下降
+> 單肺通氣在高 FiO₂ 下 SpO₂ 常**延遲或輕度下降**；SpO₂ 為**晚期**指標（預先給氧時尤其）。
+
+@114-1#3|A
+關於脈搏血氧飽和度（SpO₂），下列敘述何者正確？
+A. 原理是 oxyhemoglobin 與 deoxyhemoglobin 對不同波長的光，有不同吸收比值
+B. 可以幫助我們監測通氣和體內酸鹼平衡狀態
+C. 主要測量對象是靜脈血
+D. 和動脈血氧分壓（PaO₂）呈線性關係
+> **660 nm（紅光，deoxyHb 吸收多）/ 940 nm（紅外光，oxyHb 吸收多）**，取**搏動成分（動脈）**；與 PaO₂ 呈 **S 形（解離曲線）**；不反映通氣（給氧時）。誤差：**CO 中毒（偏高）**、MetHb（趨向 85%）、低灌流、指甲油、methylene blue。
+
+### 循環監測
+
+@111-1#2|C
+關於侵入性心血管監測，下列敘述何者正確？
+A. 在橈動脈置入動脈導管，先做 Allen test 可預防動脈導管後遺症
+B. 使用肺動脈導管監測，被證實會改善臨床結果，在重症病人建議使用
+C. 若要監測心臟前負荷，動態測量（如 stroke volume variation）較靜態測量（如 CVP）更能預測血管內容積的反應性
+D. CVP 數值與循環血量成正比
+> **Allen test 預測價值差**（不能預防缺血）；PAC 未改善預後；**CVP 預測輸液反應差**（受順應性、胸內壓、瓣膜影響）；**動態指標（SVV、PPV > 12–13%）** 需機械通氣、竇性心律、潮氣量 ≥ 8 mL/kg。
+
+@111-2#2|A
+關於心血管監測在麻醉或重症病人的臨床運用，下列敘述何者錯誤？
+A. 在肺動脈導管監測 SvO₂，目的是測量心輸出量與全身血氧供應量是否足夠。正常的 SvO₂ 數值約 30%～50%
+B. TEE 對心臟功能、瓣膜功能、心室內血量、導管位置都有良好的監測效果，也可以使用在非開心手術的病人監測
+C. 若要監測心臟前負荷，動態測量（如 PPV）較靜態測量（如 PCWP）更能預測血管內容積的反應性
+D. 使用 CVP 和肺動脈導管監測最常見的後遺症是對數值的誤用與誤判
+> 正常 **SvO₂ 約 65–75%**（ScvO₂ ≥ 70%）；下降 → 氧輸送不足（低 CO、貧血、低 SaO₂）或耗氧增加。
+
+@112-2#2|D
+要抽血檢測混合靜脈氧飽和度（SvO₂），應從何處抽取較精確？
+A. 外頸靜脈
+B. 橈動脈導管
+C. 中央靜脈導管
+D. 肺動脈導管
+> **SvO₂ = 肺動脈血**（上下腔靜脈與冠狀竇完全混合）；中央靜脈導管測的是 ScvO₂（上腔靜脈）。
+
+@115-1#3|D
+重大手術麻醉與術後常須更密切、甚至侵入性的循環監測，下列有關循環監測的敘述何者最適當？
+A. 設立 radial artery catheter 之前，先做 Allen test 已被證實可以減少導管置入之相關後遺症
+B. 在股動脈導管測得的 pulse pressure，基於波型反射原理，可以預測比在主動脈測得的 pulse pressure 數值為低
+C. CVP 為最準確的循環血量測量，在重大手術監測與處置中扮演重要角色
+D. EtCO₂ 可以被轉換利用來監測心輸出量的變化
+> 固定通氣下 **EtCO₂ 反映肺血流（心輸出量）**。越**遠端動脈收縮壓越高、脈壓越大**（波反射、distal amplification）。
+
+@112-1#3|B
+對一正常人直接測量其下列各血管之 systolic blood pressure，測得結果由高至低排列順序為何？①femoral artery ②dorsalis pedis artery ③brachial artery ④subclavian artery
+A. ①②③④
+B. ②①③④
+C. ②③①④
+D. ④②①③
+> **越遠端收縮壓越高**（波反射疊加、動脈變窄變硬）：足背 > 股 > 肱 > 鎖骨下；平均壓則幾乎不變（略降）。
+
+@115-2#2|B
+78 歲洗腎病人被公車撞，導致骨盆及大腿骨骨折，入住加護病房並使用呼吸器治療。在給與輸液或輸血治療時，下列何者為最合適此病人使用的輸液反應評估指標？
+A. 量測 CVP
+B. 計算脈壓變異率（PPV）
+C. 被動式抬腿測試（passive leg raising test）
+D. 量測血壓
+> 機械通氣 → **PPV/SVV** 可用；**骨盆股骨骨折不適合 PLR**；CVP、血壓不能預測輸液反應。
+
+@111-1#6|D
+利用經食道心臟超音波測量主動脈瓣狹窄病人，其通過主動脈瓣的最高流速為每秒 3.5 公尺，則該病人主動脈瓣狹窄的壓力差較接近下列何者？
+A. 20 mmHg
+B. 30 mmHg
+C. 40 mmHg
+D. 50 mmHg
+> **Simplified Bernoulli：ΔP = 4v²** = 4 × 3.5² = **49 mmHg**（peak gradient）。
+
+@111-2#7|D
+下列何者不是經食道超音波能獲得的資訊？
+A. 左心室舒張功能
+B. 心輸出量
+C. 主動脈瓣膜狹窄程度
+D. 冠狀動脈狹窄程度
+> TEE：心室收縮/舒張功能、**局部室壁運動（缺血）**、容積、瓣膜、CO（Doppler）、空氣栓塞、主動脈剝離；**冠狀動脈狹窄需冠狀動脈攝影/CTA**。
+
+@115-2#7|A
+下列何者不是聚焦心臟超音波檢查（FoCUS）最主要的視圖（view）？
+A. 心尖長軸視圖（ALAX）
+B. 胸骨旁短軸視圖（PSAX）
+C. 心尖四腔視圖（A4C）
+D. 劍突下四腔視圖（SC4）
+> FoCUS 基本視圖：**PLAX、PSAX、A4C、subcostal 4C、subcostal IVC**。
+
+@115-1#2|A/C（A、C 均給分）
+關於術中心電圖（ECG）監測，下列何者錯誤？
+A. ECG 中的 ST segment 代表心肌的再極化，對心肌缺血最敏感
+B. 術中發生 myocardial ischemia，表現常為 ECG ST segment depression
+C. 術中發生的 myocardial ischemia 大多可以清楚定位缺血區域
+D. 對缺血敏感度最高的 lead 是 V5，次之則是 V4
+> 術中缺血多為 **ST depression（subendocardial）**、**難定位**；**V5 最敏感（~75%），II + V5 ~80%，II + V4 + V5 ~96%**。ST segment 是再極化早期（plateau）。
+
+### 麻醉深度與腦波
+
+@110-2#3|C
+關於麻醉深度的監測，下列敘述何者正確？
+A. 腦部約使用 15% 的心輸出量，腦血氧監測為良好的麻醉深度監測指標
+B. 以 EEG 為基礎的監測（BIS、entropy），無助於減少術中 awareness 的風險
+C. EEG 的分析，對鎮靜程度及全身麻醉深度之監測很有助益
+D. 研究結果顯示，麻醉中若 BIS 數值越低，術後的後遺症越少
+> 腦血氧（NIRS）監測**灌流**非麻醉深度；BIS 可降低高風險病人（TIVA、肌鬆）的 awareness；**過深麻醉（BIS 過低、burst suppression）與術後譫妄、死亡率相關**。
+
+@113-2#2|C
+有關 bispectral index（BIS）監測，其結果代表之意義，下列何者錯誤？
+A. BIS 100 代表清醒
+B. BIS 40～60 時，產生回憶的機率低，可減少術中 awareness 的風險
+C. 腦波 burst suppression 時，BIS 的數值通常呈現為 40
+D. BIS 是 consciousness level 的監測，不能完全代表麻醉深度
+> BIS：**100 清醒、60–80 鎮靜、40–60 全身麻醉、< 40 深麻醉、burst suppression 約 < 20、0 = 等電位**。BIS 不反映鎮痛/體動。
+
+@114-1#2|C
+關於 BIS 於術中麻醉深度的監測，下列敘述何者錯誤？
+A. 當 BIS 值為 90～100 時，表示病人處於清醒的狀態
+B. 當 BIS 值為 0 時，表示病人處於深度昏迷或無意識的狀態
+C. 鎮靜麻醉藥物中，ketamine 與 propofol 對 EEG 的影響類似
+D. 使用 propofol 達到意識失去狀態時，EEG 會趨於顯示低頻率與高振幅的波形
+> **Ketamine（NMDA 拮抗）→ EEG 呈高頻 beta/gamma → BIS 反而升高、不可靠**；**N₂O**、xenon 同樣。Propofol/volatile → 慢波、frontal alpha。
+
+@114-1#7|D
+有關各種狀態的腦波敘述，下列何者最不適當？
+A. 全身麻醉下，可能呈現 delta 波和 alpha 波活性到爆發抑制
+B. 全身麻醉恢復過程 alpha 跟 beta 活性會增加
+C. 腦幹死呈現等電位狀態
+D. 植物人的腦波近似正常人睡眠時期的腦波
+> 植物人 EEG 多為**彌漫性慢波/低電位**，缺乏正常睡眠結構；等電位（electrocerebral silence）見於腦死。
+
+### 體溫
+
+@110-1#3|C
+基本麻醉監測中，體溫監測的概念與敘述，下列何者錯誤？
+A. 術後低體溫會引起發抖反應，在成人可增加代謝產熱 50% 到 100%，此反應可能增加心血管病人的風險
+B. 30 分鐘以上的全身麻醉，體溫監測應為常規監測，核心體溫應維持攝氏 36 度以上
+C. 區域麻醉只會影響周邊溫度控制，不易引發惡性高熱，不須體溫監測
+D. 老年人的血管收縮的閾值低於年輕人，導致老年人更容易失溫
+> **神經軸阻斷也會造成低體溫**（阻斷區血管擴張 + 中樞閾值下降 + 重分布）→ 也需監測。
+
+@111-1#3|A
+麻醉中體溫的監測與維護非常重要，有關麻醉中體溫變化與處置，下列敘述何者正確？
+A. 麻醉開始後的體溫降低很常見，核心體溫降低 0.5°C 到 1.5°C，原因是重分布低體溫（redistribution hypothermia）
+B. 體表加溫可有效預防麻醉開始後第 1 小時的低體溫
+C. 呼吸道保溫與保濕對成人比對小兒有效
+D. 區域麻醉不影響中樞溫度控制，比起全身麻醉，較不會有低體溫狀況
+> **麻醉低體溫三期**：① 第 1 小時**重分布**（核心 → 周邊，降 1–1.5°C，**最主要**）② 2–3 h 線性下降（散熱 > 產熱）③ 平台期。預防第 1 期：**麻醉前預先體表加溫（prewarming）**。呼吸道加溫對嬰兒較有效。
+
+@112-1#2|D
+有關病患於手術麻醉期間發生體溫過低的現象，下列敘述何者錯誤？
+A. 全身麻醉劑會降低身體啟動血管收縮及寒顫等保溫機轉的閾值
+B. 開刀房內較低的氣溫也會導致手術麻醉期間發生的體溫過低
+C. 絕大部分的初始體溫散失，都是導因於中樞至周邊的體熱再分布作用
+D. 神經軸麻醉（neuraxial anesthesia）不會發生體溫過低的現象
+> 同上。低體溫後果：**傷口感染↑、出血（血小板/凝血功能↓）、心肌缺血、藥物代謝延長、寒顫耗氧↑**。
+
+### 腎功能
+
+@110-2#2|B
+術後急性腎損傷（AKI）影響手術死亡率，有關麻醉與手術中腎功能監測的描述，下列何者正確？
+A. 術中尿液輸出量減少與術後 AKI 息息相關，但術後尿液輸出量減少為正常現象，不影響腎功能
+B. 對腎功能變化的監測，GFR 測量較術後血漿肌酸酐濃度變化，更有敏感性與專一性
+C. 術後血漿肌酸酐濃度的增加與術後 GFR 的降低，彼此無關聯性
+D. 血中 NGAL 可做為 AKI 的早期生物指標，最早在術後 24 小時內就可測得
+> **術中尿量與術後 AKI 相關性差**（ADH、手術壓力反應）；creatinine 為**延遲、非線性**指標；**NGAL 2–6 小時內即上升**（早於 creatinine）。
+
+@111-2#3|C
+麻醉中關於腎臟功能的監測與處理，下列敘述何者正確？
+A. 術中尿排出量為術中最常用的監測，可以監測腎絲球過濾與腎功能
+B. creatinine 升高與 GFR 降低成線性正比關係
+C. 麻醉中為確保腎功能，最有效的方式是監測及維持 hemodynamics，確保心臟功能、血管內血量及足夠的組織灌流
+D. 腎功能受損的 biomarker IL-18 與腎小管壓力反應並無相關
+> Creatinine 與 GFR 呈**雙曲線（反比、非線性）**；腎保護核心 = **維持灌流（MAP、容積、CO）**、避免腎毒性藥物。新 biomarker：NGAL、KIM-1、**IL-18**、TIMP-2·IGFBP7。
+
+@115-1#9|B/C/D（B、C、D 均給分）
+腎臟低灌流是腎前性氮血症的主因，下列藥物何者不會直接作用在腎血管造成腎臟低灌流？
+A. 使用 norepinephrine 或 vasopressin 等血管收縮藥物
+B. 使用 ketorolac 等 COX 抑制的止痛藥
+C. 使用 ACE inhibitor 的抗高血壓藥物
+D. 使用低劑量硝化甘油輸注
+> （多選給分）NSAID → 入球小動脈收縮（PG↓）；ACEI → 出球小動脈擴張（GFR↓）；NTG 主要擴張靜脈、可致全身低血壓（間接）。
+
+## 三、麻醉藥理
+### 吸入性麻醉劑
+
+@110-2#4|B
+下列有關吸入性麻醉劑的敘述，何者錯誤？
+A. desflurane 在血液和身體組織中的低溶解度導致其麻醉的快速甦醒
+B. sevoflurane 與 desflurane 皆為氯化物
+C. desflurane 可以被乾燥的二氧化碳吸收劑降解為一氧化碳
+D. sevoflurane 可以被乾燥的二氧化碳吸收劑降解為 compound A
+> **Sevoflurane、desflurane 為純氟化物**；isoflurane 含氯。**Desflurane：最低血氣分配係數（最快）、刺激氣道（不用於誘導）、乾燥吸收劑 → CO**；**sevoflurane：氣道不刺激（吸入誘導首選，兒童）、compound A（低流量 → 腎毒性，動物）**。
+
+@113-2#5|D
+下列有關吸入性麻醉劑的敘述，何者錯誤？
+A. 其效力與其脂溶性之間有良好相關性
+B. 大多具有血管舒張的效用
+C. desflurane 可用於低流量麻醉
+D. 其最低肺泡濃度（MAC）不受年齡影響
+> **Meyer-Overton：脂溶性（油氣分配係數）越高 → MAC 越低（越強）**。**MAC 隨年齡下降（每 10 年約 −6%）、嬰兒（6 月）最高**；↓：老年、低體溫、懷孕、急性酒精、opioids、benzodiazepines、α2 agonist；↑：高體溫、慢性酒精、甲亢、急性安非他命。
+
+### 靜脈麻醉劑與鎮靜
+
+@111-2#5|D
+下列有關靜脈麻醉劑的敘述，何者錯誤？
+A. benzodiazepine 可能導致呼吸暫停
+B. propofol 製劑有助於細菌的生長
+C. barbiturate 抑制腦幹中的 reticular activating system
+D. barbiturate 經由與 NMDA 受體結合而起作用
+> **Barbiturate、propofol、benzodiazepine、etomidate → GABA-A**；**ketamine → NMDA 拮抗**；dexmedetomidine → α2。Propofol 脂肪乳劑易長菌（開封 6–12 h 內使用）。
+
+@112-1#5|C
+下列有關靜脈麻醉劑的敘述，何者錯誤？
+A. barbiturates 可收縮腦血管，使腦血流減少
+B. benzodiazepine 可能導致呼吸停止
+C. ketamine 可降低動脈血壓和心率
+D. etomidate 會抑制腎上腺皮質
+> 見下表。
+
+> Ketamine（NMDA 拮抗）→ **交感興奮：血壓、心率↑**、支氣管擴張、呼吸抑制最少。Propofol → 血壓↓↓；barbiturate → ↓ CMRO₂/CBF/ICP；**etomidate → 血行動力最穩定、抑制 11β-hydroxylase（腎上腺）**；benzodiazepine 合併 opioid 可致 apnea。
+
+@112-1#6|C
+下列那一種藥物對呼吸的抑制最少？
+A. thiopental
+B. fentanyl
+C. ketamine
+D. propofol
+> **Ketamine** 保留呼吸驅動與氣道反射（仍可能分泌物增加/喉痙攣）。
+
+@115-2#5|B
+有關於 dexmedetomidine 的藥理作用，下列敘述何者最適當？
+A. α2 作用劑的鎮痛作用通過刺激腹角的 α2C 和 α2A 受體介導
+B. 使用 dexmedetomidine 在手術期間和術後具有減少類鴉片藥物使用的效果
+C. 在全身麻醉期間，dexmedetomidine 會提高吸入麻醉劑的 MAC
+D. 容易產生術後的呼吸抑制，所以不建議術後使用
+> **α2A（藍斑核 → 鎮靜）、脊髓後角（dorsal horn）α2 → 鎮痛**；**降低 MAC**、opioid-sparing、減少譫妄；**幾乎無呼吸抑制**；副作用：心搏過緩、低血壓（loading 時可短暫高血壓）。
+
+@115-2#8|C
+鎮靜與全身麻醉是一連續漸進過程，有關鎮靜深度與麻醉的敘述，下列何者錯誤？
+A. minimal sedation：達到緩解焦慮，仍可正常反應
+B. moderate（conscious）sedation：較為嗜睡，對口語叫喚或觸碰刺激有反應
+C. deep sedation：對疼痛刺激有反應，自發呼吸皆足夠，不需呼吸道處置
+D. 當病人失去意識且對疼痛刺激無反應時，已進入全身麻醉
+> **ASA sedation continuum**：minimal（對口語正常反應）→ moderate（對口語/輕觸有目的反應，呼吸道與自發呼吸足夠）→ **deep（反覆或疼痛刺激才有反應，可能需呼吸道介入、自發呼吸可能不足）** → general（對疼痛無反應）。
+
+### 鴉片類藥物
+
+@112-1#4|B
+下列有關鴉片類藥物（opioids）的敘述，何者錯誤？
+A. opioids 會導致細胞膜過極化
+B. opioids 啟動鈣離子通道，並抑制鉀離子通道
+C. endorphins 是結合 opioid 受體的內源性肽
+D. fentanyl 的低分子量和高脂溶性有利其經皮吸收
+> μ receptor（Gi/o）→ **開啟 K⁺ 通道（過極化）、關閉電位依賴性 Ca²⁺ 通道（↓ 神經傳導物釋放）**、↓ cAMP。
+
+@110-1#5|D
+下列有關 remifentanil 的敘述，何者錯誤？
+A. remifentanil 的代謝是經由紅血球和組織中的 esterase 水解
+B. remifentanil 其終端排除半衰期不到 10 分鐘
+C. remifentanil 較其他鴉片類藥物不易累積於體內
+D. pseudocholinesterase 缺乏者不可使用 remifentanil
+> Remifentanil：**nonspecific tissue/plasma esterase**（非 pseudocholinesterase）→ context-sensitive half-time 約 3–4 分鐘、**不受輸注時間、肝腎功能影響**；停藥後迅速失去鎮痛 → 需銜接術後止痛；opioid-induced hyperalgesia。
+
+@112-2#5|C
+下列有關 opioids 的敘述，何者錯誤？
+A. 在肝衰竭患者中，嗎啡代謝物的積累可能導致昏迷和呼吸抑制
+B. 快速施打大劑量 opioids 可引起胸壁僵硬
+C. opioids 的長期使用可能產生痛覺減退（hypoalgesia）
+D. 大劑量的 opioids 可以抑制手術引起的 catecholamine 上升
+> 長期使用 → **tolerance、opioid-induced hyperalgesia（痛覺過敏）**、依賴。嗎啡 → **M6G（活性，腎排除）、M3G（神經毒）** → 腎衰竭累積。
+
+@111-2#4|A
+下列何者具鴉片類藥物受體專一性拮抗作用，可以拮抗過量鴉片類藥物所造成的呼吸抑制？
+A. naloxone
+B. flumazenil
+C. dexmedetomidine
+D. ketamine
+> **Naloxone（μ 拮抗）**：作用時間（30–60 分）短於多數 opioid → **可能再抑制（renarcotization）** → 觀察/持續輸注；過快 → 疼痛、高血壓、肺水腫。Flumazenil → benzodiazepine。
+
+### 神經肌肉阻斷劑
+
+@115-1#5|A
+Cisatracurium 神經肌肉阻斷劑，具有下列何項作用？①肌肉鬆弛作用 ②意識喪失 ③止痛 ④記憶缺失
+A. 僅①
+B. ①②④
+C. ①②③
+D. ①③④
+> NMBD **只有肌肉鬆弛**，無鎮靜、鎮痛、遺忘 → 必須搭配麻醉（避免 awareness）。
+
+@113-1#4|A
+下列何者不以肝作為主要代謝器官，適合使用在肝功能嚴重異常的病人？
+A. cisatracurium
+B. vecuronium
+C. rocuronium
+D. succinylcholine
+> **Cisatracurium/atracurium：Hofmann elimination（pH、溫度依賴）+ ester hydrolysis → 不依賴肝腎**；atracurium → histamine、laudanosine（癲癇）。Rocuronium/vecuronium：肝膽排除。Succinylcholine：**plasma pseudocholinesterase**（肝臟合成 → 嚴重肝病延長）。
+
+@114-2#5|C
+下列關於 succinylcholine 之敘述，何者最不適當？
+A. 兒童在使用 succinylcholine 後，較容易出現嚴重的心搏過緩
+B. 可先施打低劑量的非去極化肌肉鬆弛劑，來避免 succinylcholine 引起的肌束顫動
+C. 在燒傷病人使用會引發低血鉀，應避免使用 succinylcholine
+D. 可能引發惡性高熱症
+> **Succinylcholine** 副作用：**高血鉀**（正常 ↑ 0.5 mEq/L；燒傷、SCI、去神經、肌病變致命）、**心搏過緩（兒童、重複給藥）**、肌束顫動與肌痛、**ICP/IOP/胃內壓↑**、**惡性高熱**（RYR1）、pseudocholinesterase 缺乏 → 延長作用。
+
+@113-2#4|A
+Sugammadex 是肌肉鬆弛劑專用的拮抗劑，其對下列何種非去極化神經肌肉阻斷劑具有專一性？
+A. rocuronium
+B. cisatracurium
+C. mivacurium
+D. pancuronium
+> **Sugammadex：γ-cyclodextrin 包覆 steroidal NMBD（rocuronium > vecuronium）**；可逆轉深度阻斷、可用於 **CICV 緊急逆轉（16 mg/kg）**；對 benzylisoquinolinium（cisatracurium、mivacurium）無效。
+
+@113-1#3|B
+有關 NMBDs 的使用與監測，下列敘述何者正確？
+A. 在恢復室若測得 adductor pollicis TOF 大於 0.9，會增加缺氧、呼吸道阻塞、延長住院的風險
+B. neostigmine 可增加神經肌肉交界處的 acetylcholine，最好在病人已有恢復自主呼吸跡象時再給與
+C. sugammadex 可與 steroidal NMBDs 充分結合，臨床上用以除去 cisatracurium 的作用，可用於氣管插管通氣失敗時緊急 reversal
+D. 使用靜脈麻醉比使用氣體麻醉容易增加術後殘留肌肉神經阻斷的風險
+> **Neostigmine（AChE inhibitor）有 ceiling effect** → 需已有自發恢復（**TOF count ≥ 2–4**）才給；合併 **glycopyrrolate/atropine**（抵消毒蕈鹼作用）。**拔管目標 TOF ratio ≥ 0.9**（< 0.9 = 殘留阻斷 → 缺氧、吸入）。吸入麻醉劑會**增強** NMBD 作用。
+
+@114-2#2|D
+關於應用四連刺激監測（TOF）於神經肌肉阻斷的恢復，下列敘述何者錯誤？
+A. 當第四個肌肉抽動反應再次出現時，就進入神經肌肉阻斷恢復的階段
+B. 當 TOF ratio 小於 0.4 時，病人通常無法抬頭或舉起手臂
+C. 當 TOF ratio 為 0.7～0.75 時，病人通常可以正常咳嗽及抬頭至少 5 秒
+D. 當 TOF ratio 達到 0.8 時，表示病人已完全恢復神經肌肉的功能
+> 充分恢復 = **TOF ratio ≥ 0.9**（咽部功能、防吸入）；臨床徵象（抬頭 5 秒）不可靠。Fade 見於**非去極化**阻斷（及 phase II）。
+
+@114-2#4|D
+50 歲女性，有重症肌無力病史，規則服用類固醇及 pyridostigmine，安排腹腔鏡膽囊切除術及全身麻醉插管。有關麻醉注意事項，下列何者最不適當？
+A. 此病人肌肉無力與自體免疫引起 AChR 的破壞有關，導致受體數量減少
+B. 術前需評估乙醯膽素分解酶抑制劑使用劑量
+C. 該病人有術後呼吸衰竭的風險，圍術期可使用 TOF 監測
+D. 使用短效性的去極化肌肉鬆弛劑時，應減少劑量
+> **MG：對 succinylcholine 有抗性（需增加劑量，約 1.5–2 mg/kg）**、對**非去極化 NMBD 極敏感（減量 1/10、TOF 監測）**；Lambert-Eaton 對兩者皆敏感。術後呼吸衰竭風險：病程 > 6 年、COPD、pyridostigmine > 750 mg/d、肺活量 < 2.9 L。
+
+### 局部麻醉劑
+
+@110-1#4|A
+下列有關局部麻醉劑的敘述，何者錯誤？
+A. 局部麻醉劑主要阻斷電位門控型鈣離子通道
+B. 神經纖維對局部麻醉劑的敏感性會受軸突直徑和髓鞘的影響
+C. 若過量會造成心血管的抑制
+D. 高脂溶性局部麻醉劑之作用時間較長
+> 阻斷**電位門控型 Na⁺ 通道（內側，非離子型穿膜 → 離子型結合）**。**脂溶性 → 效力**；**pKa → onset**（越接近生理 pH 越快）；**蛋白結合 → duration**。小直徑、有髓纖維較敏感（B > Aδ、C > Aβ > Aα）。
+
+@111-1#4|C
+下列有關局部麻醉劑的敘述，何者錯誤？
+A. 電位門控型鈉離子通道至少存在三種狀態：resting、activated 和 inactivated
+B. 局部麻醉劑過量通常先表現的是神經系統的症狀
+C. 在局部麻醉劑中加入 epinephrine 會導致施打部位血管擴張
+D. 中樞神經系統可受局部麻醉劑毒性影響
+> **Epinephrine → 血管收縮 → 延長作用、減少全身吸收（↑ 最大劑量）、作為血管內注射 test dose**；避免於末梢血流區（陰莖）傳統上。
+
+@112-2#4|A
+下列有關局部麻醉劑的敘述，何者錯誤？
+A. amide 類局部麻醉劑主要經由血液中偽膽鹼酯酶代謝
+B. 其全身吸收率與注射部位的血管豐富性有關
+C. 非離子化局部麻醉劑的相對濃度可能會影響其起始作用的快慢
+D. 意外注射 bupivacaine 於血管中，可導致嚴重心臟毒性
+> **Ester → plasma pseudocholinesterase（PABA → 過敏）**；**amide（名稱有兩個 i：lidocaine、bupivacaine、ropivacaine）→ 肝 CYP450**。**全身吸收：IV > intercostal > caudal > epidural > brachial plexus > sciatic/femoral > subcutaneous**。
+
+@115-2#6|D
+有關局部麻醉劑的藥理特性，下列敘述何者最適當？
+A. 局部麻醉劑從血液中快速移除，主要是由於它們一開始就快速重新分布到肌肉組織
+B. 醯胺類局部麻醉劑經由肝臟中的膽鹼酯酶代謝
+C. cocaine 屬於醯胺類局部麻醉劑
+D. bupivacaine 是經由肝臟 P-450 enzymes 代謝
+> **Cocaine 屬 ester**（唯一抑制 NE 再回收 → 血管收縮）；吸收後先分布到高灌流器官（**肺首過攝取**）。
+
+@110-2#5|D
+下列何者不是局部麻醉劑引起的中樞神經症狀？
+A. 口邊麻木
+B. 舌頭感覺異常
+C. 眩暈
+D. 幻覺
+> **LAST 中樞進程**：**口周麻、舌麻、金屬味、耳鳴、頭暈** → 視覺障礙、肌肉抽搐 → **癲癇** → 昏迷、呼吸停止；心血管（bupivacaine 尤其）：心律不整、心肌抑制、心跳停止。
+
+@110-1#7|B
+病患因上肢骨折進行手術，採用注射 bupivacaine 的鎖骨上臂神經叢阻斷，過程中發生心室性心搏過速，下列那一項處置最不恰當？
+A. 給與 intralipid（lipid emulsion）
+B. 給與 lidocaine
+C. 立即停止注射 bupivacaine
+D. 注意可能發生 seizure，必要時給與 midazolam
+> **LAST 處置**：停止注射、呼救、呼吸道與給氧（避免酸中毒/缺氧）、**benzodiazepine 止抽**（避免大劑量 propofol）、**20% lipid emulsion 1.5 mL/kg bolus + 輸注**；ACLS 調整：**epinephrine ≤ 1 μg/kg**、**避免 vasopressin、CCB、β-blocker、lidocaine（其他局麻藥）**；必要時 ECMO。
+
+## 四、區域麻醉
+### 脊椎與硬膜外麻醉
+
+@110-2#6|C
+執行硬脊膜外麻醉時，當穿刺針具抵達硬脊膜外腔時，會有 sudden loss of resistance，這是因為穿刺針具通過了下列何項解剖構造？
+A. erector spinal muscle
+B. interspinous ligament
+C. ligamentum flavum 黃韌帶
+D. dura mater
+> 正中穿刺層次：皮膚 → 皮下 → **棘上韌帶 → 棘間韌帶 → 黃韌帶（最硬）→ 硬膜外腔（loss of resistance）** → 硬脊膜 → 蜘蛛網膜 → **蜘蛛網膜下腔（CSF）**。
+
+@113-2#6|B
+執行脊椎麻醉，當穿刺針最後穿過那一層結構時，才會見到腦脊髓液流出？
+A. dura mater
+B. arachnoid mater
+C. pia mater
+D. ligamentum flavum
+> CSF 位於**蜘蛛網膜下腔**（arachnoid 與 pia 之間）；成人脊髓止於 **L1–2** → 穿刺於 **L3–4 / L4–5**（Tuffier line ≈ L4）。
+
+@112-1#7|D
+有關脊椎麻醉阻斷皮節高度的影響因素，下列何者錯誤？
+A. 局部麻醉藥劑之比重為影響因素之一
+B. 局部麻醉藥之劑量與體積為影響因素之一
+C. 病人姿勢為影響因素之一
+D. 肥胖病患對脊椎麻醉阻斷皮節高度無影響
+> 主要因素：**藥物比重（baricity）+ 病人姿勢**、**劑量**、**CSF 容積（肥胖、懷孕、腹內壓↑ → CSF 少 → 阻斷較高）**、注射節段；**注射速度、針孔方向、barbotage 影響小**。
+
+@114-1#4|D
+下列何者最不會影響脊髓麻醉阻斷皮節的高度？
+A. 病人姿勢和擺位
+B. 病人身高
+C. 局部麻醉藥劑之比重
+D. 注射局部麻醉藥時的給藥速度
+> 同上（身高極端時有影響；注射速度影響最小）。
+
+@113-1#5|A
+下列有關脊椎麻醉的敘述，何者錯誤？
+A. lidocaine 的作用時間較 bupivacaine 長
+B. morphine 的作用時間較 fentanyl 長
+C. 脊椎腔內注射 opioid 可導致尿滯留
+D. 脊椎麻醉最常見的併發症為低血壓
+> Bupivacaine 長效（lidocaine 短效且有 TNS）；**intrathecal morphine（親水）作用長（12–24 h）但延遲性呼吸抑制（6–12 h）**；fentanyl 親脂短效。脊麻**低血壓（交感阻斷）最常見**、心搏過緩（T1–4 cardioaccelerator）、尿滯留、PDPH、total spinal。
+
+@115-1#4|D
+35 歲懷孕女性，因剖腹生產接受半身麻醉後第二天抱怨頭痛，且每當由床上要坐起來時，會加劇疼痛，平躺不久之後會立刻改善，疼痛在枕部且會擴散至肩部。此時的鑑別診斷最可能是下列何者？
+A. 腦膜炎
+B. 顱內壓增加
+C. 張力性頭痛
+D. 硬脊膜穿刺後頭痛（PDPH）
+> **PDPH**：**姿勢性頭痛**（坐立加重、平躺緩解）、額枕部、頸僵、耳鳴、畏光；24–48 h 出現；危險因子：**年輕女性、孕婦、大口徑/切割型針**；治療：臥床、補液、咖啡因 → **epidural blood patch**（最有效）。
+
+@115-1#8|B
+所謂的 caudal block，麻醉藥會分布在下列何處？
+A. 硬膜下空間
+B. 硬膜上空間（epidural space）
+C. intrathecal space
+D. epi-sacrococcygeal ligament space
+> Caudal = 經 **sacral hiatus（穿過 sacrococcygeal ligament）** 進入**薦部硬膜外腔**；兒童下腹/會陰手術常用。
+
+### 周邊神經阻斷
+
+@113-2#7|D
+95 歲高齡病患因手腕骨折，骨科醫師預計進行骨折復位手術，麻醉醫師準備進行區域麻醉，下列有關區域麻醉的敘述何者正確？
+A. 應優先考慮進行 interscalene brachial plexus block
+B. 若手術時間預計為 45 分鐘，則可以考慮使用作用時間較短的 bupivacaine
+C. brachial plexus block 若是以注射 lidocaine 執行，約可在 5 分鐘以內達到麻醉效果開始手術
+D. brachial plexus block 使用 lidocaine 與少量 sodium bicarbonate 混和鹼化，可以加速 onset
+> **鹼化 → 非離子型比例↑ → onset 加快**。臂神經叢入路：**interscalene → 肩/上臂（漏 C8–T1 尺側；100% 同側膈神經麻痺）**；**supraclavicular（spinal of the arm）、infraclavicular、axillary → 肘以下/手腕**。Bupivacaine 為**長效**。
+
+## 五、特殊族群與手術情境
+### 產科麻醉
+
+@114-2#7|C
+正常懷孕婦女在足月時期產生的生理變化與未懷孕時期相比，下列敘述何者最不適當？
+A. 心輸出量增加，心搏量與心跳速率也會增加，而周邊血管阻力下降
+B. 每分鐘換氣量增加，但功能性肺餘容量降低
+C. 懷孕婦女的血紅素血氧飽和曲線會左移，增加氧氣在胎盤的釋放
+D. 食道下括約肌張力下降，生產時胃排空時間會延長
+> **母體氧解離曲線右移**（2,3-DPG↑，P50 約 30）→ 利於胎盤釋氧；**胎兒 HbF 左移**。孕婦：**CO↑ 40–50%、SVR↓、MV↑（呼吸性鹼中毒）、FRC↓ 20% → 快速缺氧**、**aortocaval compression → 左傾**、**full stomach**、MAC↓、局麻藥需求↓、困難插管（水腫）。
+
+@110-2#77|A 〔臨床實例〕
+關於孕婦在急救的處置與一般成人相較，下列敘述何者最正確？
+A. 氣管插管時最好選用尺寸較小號的氣管內管
+B. 若使用 RSI，使用誘導藥物的劑量要減半
+C. 若使用電擊去顫，所需的電擊劑量要減半
+D. 若子宮位置高過肚臍，在急救過程中須把子宮推往右側
+> 孕婦氣道水腫 → **小 0.5–1 號 ETT**；去顫劑量不變；子宮達臍以上 → **手動將子宮推向左側（LUD）**；**4 分鐘無 ROSC → 5 分鐘內 perimortem cesarean**。
+
+@112-2#7|B
+有關產婦硬脊膜外止痛（labor epidural analgesia），下列敘述何者錯誤？
+A. 硬脊膜外止痛在第一產程階段，主要是作用於 T10–L1 level
+B. epidural analgesia 是常用有效的方式，必須等到子宮頸口開 3 cm 以上才能施打，以免造成第一產程延長或增加剖腹產率
+C. 持續使用於第二產程可能會延長第二產程
+D. 完成硬脊膜外導管置放後，可先給予 test dose，以確認導管沒有移位至脊髓腔內
+> **產婦要求即可施打，不需等子宮頸開幾公分**（不增加剖腹產率）。疼痛：第一產程 **T10–L1（內臟、子宮頸/子宮）**；第二產程 **S2–S4（陰部神經、會陰）**。Test dose：lidocaine + epinephrine（排除血管內/蜘蛛網膜下腔）。
+
+@114-1#5|D
+有關產婦分娩硬脊膜外止痛用藥注意事項，下列何者最適當？
+A. 不建議局部麻醉藥添加類鴉片藥物，因為會增加低血壓和藥物毒性等不良副作用的發生率
+B. bupivacaine 作用時間長，不具心臟毒性
+C. 臨床上很常使用較高濃度的局部麻醉劑，來達到較佳鎮痛
+D. 使用低濃度的 bupivacaine 較不會產生運動阻滯，可允許下床走動
+> 現行：**低濃度局麻藥（bupivacaine 0.0625–0.125%）+ fentanyl** → 鎮痛好、**運動阻滯少（walking epidural）**、局麻藥總量少；bupivacaine **心毒性最強**。
+
+@115-1#6|A
+下列四位孕婦中，那一位最適合施打減痛分娩的硬脊膜外導管？
+A. 36 歲王女士當天早上抽血血小板數量較低，僅 100,000 × 10⁶/L
+B. 33 歲方女士開過腰椎手術，背部傷口附近有滲液，有感染的可能性
+C. 41 歲的林女士罹患風濕性心臟病，且有重度的主動脈狹窄
+D. 39 歲的高女士在懷孕期間發現有腦部腫瘤
+> 神經軸阻斷禁忌：**病人拒絕、穿刺處感染、凝血異常（血小板一般 < 70–80k）、未矯正低血容、ICP↑（腦瘤 → 腦疝）**；**嚴重 AS/固定心輸出 → 相對禁忌**（急速 SVR↓）。血小板 100k 可安全施打。
+
+@113-1#7|B
+常規剖腹生產若是在插管全身麻醉下進行手術，有關麻醉處置下列敘述何者錯誤？
+A. 足月生產的孕婦皆應視為 full stomach，可給與不含顆粒口服制酸劑預防吸入性肺炎
+B. 不宜使用肌肉鬆弛劑 succinylcholine，以避免影響出生嬰兒呼吸
+C. 胎兒娩出後，再給與 opioids
+D. 胎兒娩出後，若使用麻醉氣體維持麻醉，建議維持 0.5 MAC 即可
+> **Succinylcholine（高度離子化）幾乎不通過胎盤** → **產科 RSI 首選**；NMBD 皆少通過胎盤。娩出後降吸入麻醉劑（**< 1 MAC，避免子宮弛緩出血**）、給 oxytocin、opioid。
+
+@112-2#6|A
+懷孕 25 週婦女因闌尾炎須進行腹腔鏡手術，下列有關手術與全身麻醉處置之敘述，何者錯誤？
+A. 術中可以用 permissive hypercapnia 原則來維持麻醉
+B. 腹腔鏡手術的氣腹壓力盡量不要太高
+C. 避免過度頭低腳高或頭高腳低的姿勢
+D. 術中宜監測胎心音
+> 孕婦非產科手術：**維持母體正常 PaCO₂（約 30–32 mmHg）**——**高碳酸血症 → 胎兒酸中毒**、子宮血管收縮；**避免低血壓、缺氧**；**左傾**；氣腹 10–15 mmHg；胎兒可存活（> 23–24 週）時監測 FHR。
+
+### 姿勢與神經外科麻醉
+
+@110-1#6|B
+有關手術採頭低腳高姿勢（Trendelenburg position），下列敘述何者錯誤？
+A. 採頭低腳高姿勢過久，可能會因喉頭水腫導致上呼吸道阻塞
+B. 上腹部的手術通常採用此姿勢
+C. 會增加中央靜脈壓、顱內壓及眼內壓
+D. 因病患的 FRC 下降，會增加肺塌陷的風險
+> Trendelenburg → **下腹/骨盆手術**（腸道往頭側移開）；**上腹部手術用 reverse Trendelenburg**。效應：ICP/IOP/CVP↑、FRC↓、ETT 往支氣管移位、臉/喉水腫。
+
+@113-1#6|A
+有關手術中採趴臥姿勢，下列敘述何者正確？
+A. 恰當的趴臥擺位，肺功能可能會優於正躺與側躺姿勢
+B. 上臂絕對不能外展
+C. 病患靜脈回流增加，不易形成靜脈血栓
+D. 眼睛若無受壓則完全不會有視力喪失可能
+> **Prone 改善 V/Q（ARDS 亦利用）**、腹部懸空；風險：**術後視力喪失（POVL）**—主因 **posterior ischemic optic neuropathy**（長時間、大量出血、低血壓、大量輸液），**非單純眼球受壓**；上臂外展 < 90°；腹部受壓 → 靜脈回流↓、出血↑。
+
+@110-2#7|B
+顱內血腫接受急診手術，有關其麻醉處置，下列何者錯誤？
+A. 麻醉誘導宜避免使用具腦血管舒張作用的藥物
+B. ketamine 是理想的麻醉誘導選擇藥物
+C. 術後若須維持氣管插管到加護病房照護，以 narcotics-based 麻醉輔以肌肉鬆弛劑是良好的麻醉維持選擇
+D. 若腦部灌注壓小於 60 mmHg，則腦部有再度受損的風險
+> **CPP = MAP − ICP**（目標 60–70）；神經麻醉：**propofol/thiopental（↓ CMRO₂、CBF、ICP）**、避免高劑量吸入麻醉劑（腦血管擴張，> 1 MAC）、**ketamine 傳統避免**、維持正常 CO₂（短暫過度換氣僅救急）、避免高血糖與低血壓。
+
+## 六、術後照護與疼痛處置
+### 恢復室
+
+@111-1#7|B
+有關手術麻醉後送到麻醉恢復室（PACU）觀察麻醉恢復之敘述，下列何者錯誤？
+A. 噁心及嘔吐為常見的問題
+B. 幾乎都是高血壓狀況，不會有低血壓情形
+C. 標準監測須包含呼吸、循環、體溫及清醒度
+D. 須注意部分抗生素可能延長肌肉鬆弛劑作用的時間
+> PACU 常見：**PONV、低血氧、低血壓（低容積、出血）、高血壓（疼痛、膀胱脹）**、低體溫/寒顫、譫妄、殘留肌鬆（**aminoglycosides**、Mg²⁺、低體溫、酸中毒會增強）。
+
+@114-1#6|D
+病人是否能從恢復室轉回病房，可以用 Aldrete score 來評估，9 分以上被認為是可以轉出恢復室的標準。下列何者不包含在 Aldrete score 的項目中？
+A. 意識
+B. 血液循環（血壓與麻醉前比較）
+C. 血氧飽和度
+D. 疼痛
+> **Modified Aldrete（各 0–2，滿分 10，≥ 9 轉出）**：**activity、respiration、circulation、consciousness、O₂ saturation**。疼痛、PONV 屬 PADSS（門診手術出院）。
+
+@111-1#5|A
+使用下列何種藥物，可以預防性降低手術後噁心嘔吐的發生率？
+A. dexamethasone
+B. edrophonium
+C. fentanyl
+D. atracurium
+> **Apfel 危險因子**：**女性、不抽菸、PONV/暈車病史、術後 opioid**（0–4 → 10/20/40/60/80%）；其他：吸入麻醉劑、N₂O、手術時間。**預防：dexamethasone（誘導時）、5-HT₃ antagonist（ondansetron，結束時）**、droperidol、scopolamine patch、aprepitant；**TIVA propofol** 降低風險。
+
+### 急性術後疼痛
+
+@110-1#8|C
+針對膝蓋人工關節置換手術，下列何種術後止痛技術之止痛效果最差？
+A. epidural analgesia
+B. femoral nerve block
+C. sciatic nerve block
+D. adductor canal block
+> 膝前方主要由 **femoral n.（含 saphenous）** 支配 → **femoral / adductor canal block（保留股四頭肌力，利早期復健）**；sciatic 只涵蓋膝後方。
+
+@110-2#8|A
+針對傳統的 open thoracotomy 開胸手術進行之全肺切除，下列何種手術後止痛方式的止痛效果可能最好？
+A. 硬膜外止痛（epidural analgesia）
+B. 靜脈病患自控式止痛（IVPCA）
+C. 腋下神經叢阻斷
+D. 口服 NSAID
+> 開胸術：**thoracic epidural** 或 **paravertebral block**（效果相當、副作用較少）；減少肺部併發症。
+
+@111-1#8|B
+下列何者不是 epidural analgesia 硬膜外止痛運用於手術後疼痛處置的可能優點？
+A. 降低全身性 opioid 的使用
+B. 增加 sympathetic outflow，提升病患自我防禦能力
+C. 降低手術後的腸胃道併發症
+D. 降低手術後的肺部併發症
+> Epidural 局麻藥**阻斷交感**（降低壓力反應）→ **腸蠕動恢復快（副交感相對優勢）**、肺部併發症↓、opioid↓、血栓↓；副作用：低血壓、尿滯留、運動阻滯、硬膜外血腫（抗凝）。
+
+@112-1#8|C
+下列有關 ERAS 多模式止痛的敘述，何者錯誤？
+A. 合併使用 NSAIDs 可能造成腎功能損害
+B. 使用 patient-controlled analgesia 可提高病患滿意度
+C. 儘量不使用 peripheral nerve blockade，以加速病患恢復及提早出院
+D. 即使是腸胃道手術，也儘可能不置放鼻胃管
+> **ERAS**：術前碳水化合物負荷、縮短禁食（清液 2 h、固體 6 h）、**多模式 opioid-sparing（acetaminophen、NSAIDs、區域阻斷、局部浸潤）**、目標導向輸液、預防 PONV、**不常規放 NG/引流管**、早期進食與下床。
+
+@115-2#9|A
+術後病人疼痛難耐而使用靜脈注射的類鴉片藥物 PCA，有關 PCA 的敘述，下列何者最不適當？
+A. PCA 可設定給與劑量，不反應時間（lockout interval），由電腦控制，絕對安全
+B. PCA 可設定基本用量及每次按壓劑量
+C. PCA 可提高病人止痛滿意度，並減少類鴉片藥物總用量
+D. PCA 可減少類鴉片藥物相關副作用
+> PCA 安全機制：**病人自己按（鎮靜時不會再按）**、lockout、4 h 上限；風險：**PCA by proxy（家屬代按）**、**basal infusion（尤其 OSA、opioid-naive）**、程式設定錯誤 → 仍需監測呼吸/鎮靜。
+
+### 慢性與癌症疼痛
+
+@113-2#8|C
+下列有關慢性疼痛的相關名詞定義，何者錯誤？
+A. allodynia：對非傷害性的刺激感受為疼痛
+B. hyperalgesia：對傷害性的刺激反應加劇
+C. analgesia：對所有知覺皆無反應
+D. paresthesia：無明顯刺激狀態下卻感受異樣知覺
+> **Analgesia = 對疼痛刺激無痛覺**；對所有感覺無反應 = **anesthesia**。Dysesthesia：不愉快的異常感覺；hypoalgesia：痛覺減弱。
+
+@113-1#8|D
+下列何項藥物是治療典型三叉神經痛的首選藥物？
+A. pregabalin
+B. fluoxetine
+C. tramadol
+D. carbamazepine
+> **Carbamazepine（first-line）**、oxcarbazepine；藥物無效 → **microvascular decompression**（SCA 壓迫）、gamma knife、RF rhizotomy。
+
+@111-2#8|D
+下列有關 epidural injection for chronic pain 的敘述，何者錯誤？
+A. 適用於治療輕度神經根壓迫所造成的 radicular pain
+B. 通常需要有影像的導引，最常用的是 X 光透視導引
+C. 合併使用類固醇加局部麻醉藥較單獨使用局部麻醉藥注射效果好
+D. 頸椎 epidural injection 的風險太高，臨床上並未使用
+> **ESI** 用於神經根痛（腰、頸皆可）；頸椎 transforaminal 有嚴重神經併發症風險 → 多用 **interlaminar** + 非顆粒型類固醇。
+
+@112-2#8|C
+下列何種鴉片類藥物與給藥途徑並不適合作為癌症疼痛的長期用藥方式？
+A. transdermal fentanyl
+B. oral morphine
+C. intravenous meperidine
+D. oral oxycodone
+> **Meperidine → normeperidine（神經毒、癲癇，腎衰竭累積）**、與 MAOI 致 serotonin syndrome → **不用於長期疼痛**。WHO 階梯：**口服優先、定時給藥 + 突發痛劑量**；不能口服 → 貼片、皮下。
+
+@114-1#8|C
+有關癌症止痛的處置，下列何者最不適當？
+A. 若病人已不能經口服用藥物，穿皮貼片為合理選擇
+B. 針對末期病人的骨轉移所造成的嚴重疼痛，可以合併給與類固醇
+C. 因化療藥物造成的周邊神經病變性疼痛，不算是癌症疼痛
+D. 當病人因癌症惡病質明顯消瘦時，皮下嗎啡注射仍可以提供有效止痛
+> 癌症疼痛包括**腫瘤本身 + 治療相關（化療神經病變、放療、手術）**。消瘦 → 貼片吸收不穩、皮下注射仍有效。骨轉移痛：NSAID、類固醇、**放療**、bisphosphonate/denosumab。
+
+@114-2#8|A
+下列何種介入性疼痛治療，最適用於處理上腹部惡性腫瘤造成的臟器性疼痛？
+A. celiac plexus block
+B. superior hypogastric plexus block
+C. stellate ganglion block
+D. Bier block
+> **Celiac plexus**：上腹內臟（**胰臟癌**、胃、肝膽）→ neurolysis（酒精）；副作用：**姿勢性低血壓、腹瀉**。**Superior hypogastric**：骨盆內臟；**ganglion impar**：會陰；**stellate**：上肢 CRPS、頭頸；**Bier block**：靜脈區域麻醉（前臂手術）。
+
+## 七、重症醫學
+### 敗血症
+
+@112-1#9|D
+70 歲男性，體重 70 公斤，經急診診斷肺炎，住進加護病房時意識改變，血壓 80/40 mmHg，心跳 110 次/分，體溫 38.4℃。已經給與靜脈輸液 3000 毫升，夜班時病人血壓 90/45 mmHg，心跳 95 次/分，夜班醫師正在考慮是否給與升血壓藥物。此時病人的狀態，應診斷為下列何者？
+A. SIRS
+B. 敗血症
+C. 嚴重敗血症
+D. 敗血性休克
+> **Sepsis-3**：感染 + 器官功能障礙（**SOFA ≥ 2**）；**septic shock = 適當輸液後仍需升壓劑維持 MAP ≥ 65 且 lactate > 2 mmol/L**。本例 MAP 約 60 → 需升壓 → septic shock。
+
+@110-1#9|C
+處理敗血性休克的心血管用藥，下列何者為第一優先考量？
+A. dopamine
+B. epinephrine
+C. norepinephrine
+D. vasopressin
+> **Surviving Sepsis**：**30 mL/kg crystalloid（3 h 內）** → **norepinephrine 第一線**（目標 MAP ≥ 65）→ 加 **vasopressin** → epinephrine；心功能差 → dobutamine；dopamine 心律不整多；**1 h 內抗生素**、lactate、血液培養。
+
+@113-2#9|B
+目前關於敗血症的治療方法，下列何者在實證上對預後有幫助？
+A. 以 EGDT，優先給與足夠的輸液，來維持平均血壓 > 90 mmHg
+B. 以加強胰島素治療，來控制血糖低於 180 mg/dL
+C. 給與高劑量類固醇，可抑制全身性發炎反應，降低 90 天死亡率
+D. 給與腎性劑量的 dopamine，可增加尿量，減少住院洗腎率
+> 血糖目標 **≤ 180 mg/dL**（> 180 開始胰島素；避免過度嚴格 80–110，NICE-SUGAR）；**MAP 目標 65**；EGDT 未優於常規照護；**低劑量** hydrocortisone（200 mg/d）用於難治休克；renal-dose dopamine 無效。
+
+@111-2#9|A
+敗血性休克常併發多重器官的問題，下列敘述何者錯誤？
+A. 產生胰島素抗性，常導致低血糖
+B. 因為血小板的活化與凝集，常導致血小板低下，是敗血症的早期病徵之一
+C. 常併發瀰漫性血管內凝血
+D. 因為胃黏膜的壓力性潰瘍，常導致上消化道出血
+> 壓力反應（cortisol、catecholamine、glucagon、cytokines）+ insulin resistance → **高血糖**（低血糖見於肝衰竭、晚期）。
+
+### 呼吸衰竭與 ARDS
+
+@112-2#9|A
+ARDS 之診斷條件，根據柏林定義，下列何者正確？
+A. 一週內發生的臨床事件或新的/惡化的呼吸症狀
+B. PaO₂/FiO₂ ≤ 300，屬於重度 ARDS
+C. 初期常合併有左心室衰竭及擴大
+D. 胸部 X 光通常呈現單側肺浸潤
+> **Berlin**：**1 週內**、**雙側浸潤**（非積液/塌陷/結節可解釋）、**非心因性**（不能完全以心衰竭/體液過多解釋）、**PEEP ≥ 5 下 P/F：mild 200–300、moderate 100–200、severe ≤ 100**。
+
+@114-1#9|B/C（B、C 均給分）
+關於 ARDS 的診斷，其 PaO₂/FiO₂ 數值的定義為何？
+A. < 400
+B. < 300
+C. < 200
+D. < 100
+> Berlin：**≤ 300**（舊 AECC 定義 ARDS ≤ 200、ALI ≤ 300）→ 兩者均給分。
+
+@113-1#9|C
+ARDS 病人使用一氧化氮吸入治療，其作用機轉為何？
+A. 全身性的血管擴張
+B. 全身性的血管收縮
+C. 選擇性肺血管擴張
+D. 選擇性肺血管收縮
+> **Inhaled NO → 只擴張有通氣肺泡的血管（改善 V/Q）**、進入血液即被 Hb 失活 → 無全身效應；改善氧合但**不降低死亡率**；副作用 methemoglobinemia、rebound。ARDS 實證：**低潮氣量 6 mL/kg PBW、plateau ≤ 30、prone（P/F < 150）**、保守輸液、± NMBD。
+
+@111-1#9|D
+使用呼吸道正壓治療，壓力過高時會產生過度擴張肺泡的副作用，其可能影響的生理表現，下列何者錯誤？
+A. 增加死腔，減少有效通氣
+B. 增加肺血管阻力及右心室後負荷
+C. 減少血液回流及左心室前負荷，因此降低心輸出量
+D. 壓力達 10 cmH₂O 即可能明顯增加肺壓力性創傷的危險
+> **Barotrauma 風險：plateau > 30–35 cmH₂O**；PEEP 10 屬常用範圍。正壓 → 靜脈回流↓、PVR↑（肺泡過度擴張壓迫微血管）、West zone 1↑（死腔）。
+
+### 其他重症議題
+
+@110-2#9|C
+關於重症病人營養支持的併發症，下列何者錯誤？
+A. 腸道營養常併發腹瀉，亦可能增加胃脹而逆流的風險
+B. 周邊靜脈營養會增加靜脈炎的危險
+C. 將全靜脈營養減量至停用時，須注意胰島素劑量與低血糖的監測，若是腸道營養減量時，則不需特別注意
+D. 接受靜脈營養的重症病人若出現敗血症，應考慮周邊或中央靜脈管路造成的血行性感染
+> 任何營養（PN 或 EN）中斷而胰島素未調整 → **低血糖**；**優先腸道營養（24–48 h 內）**；再餵食症候群（低磷）。
+
+@114-2#9|B
+下列何者最不可能導致病人手術後出現高血糖的病生理變化？
+A. 交感神經亢奮
+B. 活化免疫系統
+C. 加重感染情況
+D. 增加分解代謝率
+> 術後**壓力性高血糖**：cortisol、catecholamine、glucagon、GH ↑、insulin resistance、分解代謝；高血糖 → 感染↑、傷口癒合差。（官方答 B）
+
+@115-2#3|A/B（A、B 均給分）
+關於一氧化碳中毒，下列敘述何者最不適當？
+A. 因一氧化碳較易與血紅素結合，因此氧合血紅素變少，會造成 SpO₂ 數值偏低
+B. 中毒的定義為血中一氧化碳血紅素濃度 > 15%
+C. 臨床症狀可能出現頭痛、噁心、無力、意識混亂、休克等
+D. 先給與 100% 之氧氣面罩治療，高壓氧可加速降低體內一氧化碳血紅素
+> **COHb 被一般 SpO₂ 誤判為 O₂Hb → SpO₂ 假性正常**（需 **co-oximetry**）；COHb 正常 < 3%（吸菸者 < 10%）；CO 對 Hb 親和力約 250 倍、曲線左移、抑制 cytochrome oxidase；**100% O₂ 半衰期 ~90 min（室內空氣 ~300 min）、HBO ~30 min**。
+
+@115-1#76|C 〔臨床實例〕
+病人從密閉火場被救出，臉部燒傷，口鼻處有燻黑炭渣，鼻毛燒焦，聲音沙啞，有喘鳴聲，其他皮膚無明顯燒傷，下列那項處置最不適當？
+A. 置放氣管內管以保護呼吸道
+B. 給與 100% 潮濕氧氣
+C. 給與大量輸液
+D. 檢驗血中一氧化碳濃度
+> **吸入性傷害**（密閉空間、臉燒傷、碳渣、鼻毛焦、聲啞、喘鳴）→ **早期插管**（水腫快速進展）、100% O₂、查 **COHb、cyanide（lactate↑）**；無明顯皮膚燒傷**不需大量輸液**（Parkland 依燒傷面積）。
