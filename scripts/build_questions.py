@@ -81,7 +81,9 @@ def parse(data_dir):
                            stem=[], opts=[], exp=[])
                 sections[-1][1].append(("q", cur))
             elif cur is not None and line:
-                if line.startswith(">"):
+                if line.startswith("!fig "):
+                    cur.setdefault("figs", []).extend(int(x) for x in line[5:].split())
+                elif line.startswith(">"):
                     cur["exp"].append(line[1:].strip())
                 elif re.match(r"^[A-D]\. ", line):
                     cur["opts"].append(line)
@@ -90,6 +92,29 @@ def parse(data_dir):
                 else:
                     cur["stem"].append(line)
     return sections
+
+
+FIGS = {}
+
+
+def load_figs(data_dir):
+    """figures.tsv: id, Commons file name, author, license, caption"""
+    FIGS.clear()
+    f = data_dir / "figures.tsv"
+    if f.exists():
+        for line in f.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                i, name, author, lic, cap = line.split("\t")
+                FIGS[int(i)] = (name, author, lic, cap)
+
+
+def fig_html(i, width=480):
+    import html, urllib.parse
+    name, author, lic, cap = FIGS[i]
+    q = urllib.parse.quote(name.replace(" ", "_"))
+    return (f'<figure><a href="https://commons.wikimedia.org/wiki/File:{q}" target="_blank" rel="noopener">'
+            f'<img src="https://commons.wikimedia.org/wiki/Special:FilePath/{q}?width={width}" alt="{html.escape(cap)}" loading="lazy"></a>'
+            f'<figcaption>{html.escape(cap)}<br><small>{html.escape(author)} · {lic} · Wikimedia Commons</small></figcaption></figure>')
 
 
 def render_q(spec, q, n):
@@ -109,6 +134,10 @@ def render_q(spec, q, n):
         brk = "  " if k == "text" and i < len(q["exp"]) - 1 else ""
         out.append(f"    {e}{brk}")
         prev = k
+    if q.get("figs"):
+        out += ["", "    <div class=\"rad-gallery rad-ref\"><p>參考影像（非原題附圖，示範典型表現）</p>"]
+        out += [f"    {fig_html(i)}" for i in q["figs"]]
+        out += ["    </div>"]
     out += [""]
     return "\n".join(out)
 
@@ -116,6 +145,7 @@ def render_q(spec, q, n):
 def build(slug):
     spec = SPECIALTIES[slug]
     sections = parse(ROOT / "data" / slug)
+    load_figs(ROOT / "data" / slug)
     seen = collections.Counter()
     body = [f"# {spec['name']}考古題", "",
             '!!! info "說明"',
