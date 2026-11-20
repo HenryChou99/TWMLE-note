@@ -5,6 +5,7 @@ Data format:
   ## 大標題          -> H2 section (numbered by order of appearance)
   ### 小標題         -> H3 subsection
   @115-2#58|A [〔標籤〕]
+  @三/115-2#75|C       (跨卷科別：卷別前綴 三/四/五/六 = 醫學（三）…（六）)
   題幹 (one or more lines)
   A. ...
   B. ...
@@ -27,6 +28,7 @@ EXAM_CODES = {
 }
 # 考選部 subject code (s=) per paper; changed format from 114 年起
 SUBJECT = {
+    "醫學（三）": {**{e: "11" for e in EXAM_CODES}, "114-1": "0103", "114-2": "0101", "115-1": "0103", "115-2": "0101"},
     "醫學（四）": {**{e: "22" for e in EXAM_CODES}, "114-1": "0104", "114-2": "0102", "115-1": "0104", "115-2": "0102"},
     "醫學（五）": {**{e: "33" for e in EXAM_CODES}, "114-1": "0105", "114-2": "0103", "115-1": "0105", "115-2": "0103"},
     "醫學（六）": {**{e: "44" for e in EXAM_CODES}, "114-1": "0106", "114-2": "0104", "115-1": "0106", "115-2": "0104"},
@@ -44,13 +46,19 @@ SPECIALTIES = {
                 scope="每卷第 10–18 題，另收錄第 72–77 題中與眼科相關的影像/臨床實例題"),
     "uro": dict(name="泌尿科", paper="醫學（五）", folder="醫學五", core=range(64, 72),
                 scope="每卷第 64–71 題，另收錄第 72–77 題中與泌尿相關的影像/臨床實例題"),
+    "rad": dict(name="放射科", paper="醫學（三）～（六）", folder="放射科",
+                core={"三": range(74, 76), "四": range(74, 76), "五": range(72, 75), "六": range(72, 75)},
+                scope="各卷影像醫學題：醫學（三）、（四）第 74–75 題，醫學（五）、（六）第 72–74 題；另收錄醫學（四）113 年第 2 次 #76"),
     "ortho": dict(name="骨科", paper="醫學（五）", folder="醫學五", core=range(56, 64),
                   scope="每卷第 56–63 題（110 年第 2 次另含第 53–55 題組），另收錄第 72–77 題中與骨科相關的影像/臨床實例題；第十二章足踝重建於 110–115 年未出題"),
 }
 
 
-def pdf(spec, label, t="Q"):
-    s = SUBJECT[spec["paper"]][label]
+PAPER = {"三": "醫學（三）", "四": "醫學（四）", "五": "醫學（五）", "六": "醫學（六）"}
+
+
+def pdf(spec, label, t="Q", paper=None):
+    s = SUBJECT[PAPER[paper] if paper else spec["paper"]][label]
     return (f"https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx"
             f"?t={t}&code={EXAM_CODES[label]}&c=302&s={s}&q=1")
 
@@ -66,10 +74,10 @@ def parse(data_dir):
             elif line.startswith("### "):
                 sections[-1][1].append(("sub", line[4:].strip())); cur = None
             elif line.startswith("@"):
-                m = re.match(r"@(\d{3}-\d)#(\d+)\|(\S+)\s*(.*)", line)
+                m = re.match(r"@(?:([三四五六])/)?(\d{3}-\d)#(\d+)\|(\S+)\s*(.*)", line)
                 if not m:
                     sys.exit(f"{f.name}: bad header: {line}")
-                cur = dict(exam=m[1], no=int(m[2]), ans=m[3], tag=m[4].strip(),
+                cur = dict(paper=m[1], exam=m[2], no=int(m[3]), ans=m[4], tag=m[5].strip(),
                            stem=[], opts=[], exp=[])
                 sections[-1][1].append(("q", cur))
             elif cur is not None and line:
@@ -85,13 +93,22 @@ def parse(data_dir):
 
 
 def render_q(spec, q, n):
-    src = f"[{q['exam'].replace('-', '年第')}次 #{q['no']}]({pdf(spec, q['exam'])})"
+    pp = f" 醫學{q['paper']}" if q["paper"] else ""
+    src = f"[{q['exam'].replace('-', '年第')}次{pp} #{q['no']}]({pdf(spec, q['exam'], paper=q['paper'])})"
     tag = f" {q['tag']}" if q["tag"] else ""
     img = "（附圖請見原卷）" if "影像" in q["tag"] else ""
     out = [f"**{n}.** {' '.join(q['stem'])}{img}", ""]
     out += [f"{o}  " for o in q["opts"]]
     out += ["", f"<small>{src}{tag}</small>", "", '??? note "答案"', f"    **{q['ans']}**", ""]
-    out += [f"    {e}" + ("  " if i < len(q["exp"]) - 1 else "") for i, e in enumerate(q["exp"])]
+    kind = lambda e: "list" if re.match(r"^(- |\d+\. )", e) else ("table" if e.startswith("|") else "text")
+    prev = None
+    for i, e in enumerate(q["exp"]):
+        k = kind(e)
+        if prev is not None and k != prev and (k != "text" or prev != "text"):
+            out.append("")  # blank line so lists/tables render as blocks
+        brk = "  " if k == "text" and i < len(q["exp"]) - 1 else ""
+        out.append(f"    {e}{brk}")
+        prev = k
     out += [""]
     return "\n".join(out)
 
@@ -114,10 +131,11 @@ def build(slug):
                 body += [f"### {i}.{sub} {re.sub(r'^\d+\.\s*', '', v)}", ""]
             else:
                 n += 1
-                seen[(v["exam"], v["no"])] += 1
+                seen[(v["paper"], v["exam"], v["no"])] += 1
                 body.append(render_q(spec, v, n))
-    missing = [(e, j) for e in EXAM_CODES for j in spec["core"]
-               if (e, j) not in seen and (e, j) not in spec.get("skip", ())]
+    core = spec["core"] if isinstance(spec["core"], dict) else {None: spec["core"]}
+    missing = [(pp, e, j) for pp, rng in core.items() for e in EXAM_CODES for j in rng
+               if (pp, e, j) not in seen and (e, j) not in spec.get("skip", ())]
     dup = [k for k, c in seen.items() if c > 1]
     if missing or dup:
         sys.exit(f"{slug}: missing={missing} dup={dup}")

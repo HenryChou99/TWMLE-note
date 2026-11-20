@@ -1,0 +1,525 @@
+## 六、泌尿生殖
+
+@五/110-1#72|D 〔影像題〕
+45歲女性病人接受年度健康檢查，發現左腎腫瘤，下圖為注射對比劑之腎臟電腦斷層攝影（computed tomography of kidneys），最可能之診斷為何？
+A. renal cell carcinoma
+B. renal lymphoma
+C. renal urothelial carcinoma
+D. renal angiomyolipoma
+> 腎腫瘤內含**巨觀脂肪**（CT 負 HU、超音波高回音）→ **angiomyolipoma**。
+> - 與 **TSC** 有關
+> - > 4 cm 易出血（Wunderlich syndrome）→ 栓塞
+> - RCC 很少含脂肪；clear cell 型動脈期強烈且不均勻顯影
+
+@三/114-1#74|C 〔影像題〕
+65 歲男性病人，主訴腎功能不良，常規腹部Ｘ光片（KUB）顯示如附圖。下列何者為最可能的診斷？
+A. 腎水腫（renal hydronephrosis）
+B. 腎膿瘍（renal abscess）
+C. 晚期腎結核（renal tuberculosis, late stage）
+D. 腎細胞癌（renal cell carcinoma）
+> 整顆腎臟萎縮並呈**瀰漫無定形鈣化** → **putty kidney / autonephrectomy**（末期腎結核）。
+> 其他腎結核影像：乳頭壞死、漏斗部狹窄、**輸尿管串珠狀狹窄**、膀胱攣縮（thimble bladder）、無菌性膿尿。
+
+@五/115-2#73|A 〔影像題〕
+32 歲男性病人，主訴為無痛性血尿，腹部 X 光片（KUB）顯示如附圖。下列診斷何者最恰當？
+A. 腎髓質鈣化症（medullary nephrocalcinosis）
+B. 腎水腫（hydronephrosis）
+C. 急性腎結核（acute renal tuberculosis）
+D. 泌尿上皮細胞癌（urothelial cell carcinoma）
+> 雙側腎錐體成簇鈣化 → **髓質鈣化症**。
+> - 病因：**MSK（medullary sponge kidney）**、**distal RTA**、副甲狀腺亢進、維生素 D 過量
+> - MSK 在 IVU 上呈 **paintbrush** 外觀，可造成血尿、結石
+> - 皮質鈣化：急性皮質壞死、慢性腎絲球腎炎
+
+@五/112-1#74|B 〔影像題〕
+一名成年男性病人車禍後主訴下腹部疼痛和血尿，逆行性膀胱攝影檢查呈現如附圖。下列有關膀胱的初診斷何者最恰當？
+A. ureter rupture
+B. intraperitoneal rupture of the urinary bladder
+C. pseudodiverticulum of the urinary bladder
+D. prostate gland hypertrophy
+> **逆行性膀胱攝影（CT cystography）**是膀胱破裂的診斷標準。
+> | | 腹膜內破裂 | 腹膜外破裂 |
+> |---|---|---|
+> | 機轉 | 膀胱脹滿時下腹鈍傷，**頂部破裂** | 骨盆骨折 |
+> | 影像 | 顯影劑勾勒出腸管、流入結腸旁溝 | **火焰狀（molar tooth）**顯影劑在膀胱周圍 |
+> | 治療 | **手術修補** | 導尿管引流 |
+> 腹膜外破裂較常見。
+
+@五/112-2#73|D 〔影像題〕
+糖尿病病患主訴會陰部紅腫脹痛，血液中白血球數目增加，電腦斷層檢查呈現如圖。箭號所指之異常最可能之初診斷為下列何者？
+A. inguinal hernia
+B. femoral hernia
+C. obturator hernia
+D. Fournier's gangrene
+> 會陰、陰囊軟組織內有**氣體**沿筋膜分布 → **Fournier's gangrene**（會陰壞死性筋膜炎，多菌種）。
+> 危險因子：**糖尿病**、酒精、免疫低下。需緊急清創 + 廣效抗生素。
+
+## 七、婦產科影像
+
+@六/112-1#72|A
+30歲已婚婦女在無避孕措施的性生活之下，想懷孕但經過18個月無懷孕跡象，下列相關影像檢查之敘述，何者最不恰當？
+A. 應優先施行電腦斷層檢查
+B. 未注射顯影劑之經陰道超音波無法觀察輸卵管是否通暢
+C. 輸卵管攝影可觀察輸卵管是否通暢
+D. 磁振造影大多不適合做為篩檢工具
+> 不孕的影像檢查：
+> - **經陰道超音波**：子宮、卵巢第一線
+> - **HSG（子宮輸卵管攝影）**：看輸卵管通暢（有游離溢出）與子宮腔
+> - **saline/contrast sonography**：也可評估輸卵管
+> - **MRI**：問題導向，例如區分 adenomyosis、Müllerian 異常
+> - **CT**：有輻射、軟組織對比差，**不用於不孕評估**
+
+@六/114-2#73|A 〔影像題〕
+34 歲女性子宮輸卵管攝影檢查呈現如圖，箭號所指之病灶，下列何者為最恰當之診斷？
+A. 輸卵管積水（hydrosalpinx）
+B. 子宮（輸卵管）外孕
+C. 輸卵管惡性腫瘤
+D. 子宮內膜異位
+> HSG 見輸卵管遠端（壺腹部）**膨大、顯影劑沒有溢入腹腔** → 遠端阻塞合併**輸卵管積水**。常見原因為 PID（披衣菌）沾黏。積水會降低 IVF 成功率 → 建議先做輸卵管切除或結紮。
+
+@六/115-1#73|B 〔影像題〕
+35 歲女性病人主訴不孕，子宮輸卵管攝影檢查發現如附圖。最可能之診斷為何？
+A. 正常的子宮輸卵管影像
+B. 雙側遠端輸卵管阻塞併輸卵管積水（hydrosalpinx）
+C. 輸卵管癌（tubal cancer）
+D. 輸卵管卵巢膿瘍（tubo-ovarian abscess）
+> 同上：雙側輸卵管遠端膨大、無腹腔溢出 → 雙側輸卵管積水。正常 HSG 應見顯影劑自繖部**自由溢出**並分布於腸管之間。
+
+@六/110-1#72|A 〔影像題〕
+35歲女性病患，主訴下腹痛，磁振造影檢查發現骨盆腔有囊狀病灶（星號），在T2加權影像（左圖）呈稍低訊號，T1加權影像（右圖）呈高訊號。其診斷為何？
+A. 巧克力囊腫（chocolate cyst）
+B. 卵巢癌（ovarian cancer）
+C. 輸卵管卵巢膿瘍（tubo-ovarian abscess）
+D. 畸胎瘤（teratoma）
+> **子宮內膜異位瘤**：反覆出血、含濃縮血鐵。
+> - **T1 高訊號、T2 相對低訊號（shading）**
+> - **T1 脂肪抑制後仍為高訊號**（與畸胎瘤的分辨點）
+> - 超音波：均勻低階回音（ground-glass）
+
+@六/114-2#74|A 〔影像題〕
+一位年輕女性接受磁振造影檢查發現卵巢腫瘤如圖，箭號所指之病灶，下列何者為最恰當之診斷？
+A. 畸胎瘤
+B. 血腫
+C. 黃體囊腫
+D. 巧克力囊腫
+> **成熟性畸胎瘤（dermoid）**：含脂肪 → T1 高訊號，但在**脂肪抑制序列訊號下降**；可見 Rokitansky nodule、鈣化、毛髮。
+
+@五/115-1#73|A 〔影像題〕
+35 歲女性病人主訴下腹疼痛，超音波檢查發現疑似右側卵巢腫塊，電腦斷層檢查呈現如圖，箭號所示最有可能的診斷為何？
+A. dermoid cyst
+B. endometrioma
+C. theca lutein cyst
+D. cystadenocarcinoma
+> CT 見卵巢腫塊內有**脂肪密度（負 HU）**、脂液面與**鈣化（牙齒）** → dermoid cyst。
+> - 併發症：**卵巢扭轉**（最常見）、破裂、惡性轉變（鱗狀細胞癌，罕見）
+> - 超音波：dermoid plug、**dot-dash pattern（毛髮）**、tip of the iceberg
+
+@六/111-2#74|C 〔影像題〕
+18 歲女性，因急性下腹痛就醫，腹部Ｘ光影像如圖，最可能的診斷為何？
+A. 右髂內動脈瘤（right internal iliac artery aneurysm）
+B. 骨盆腔發炎性疾病（pelvic inflammatory disease）
+C. 畸胎瘤（teratoma）
+D. 薦骨骨折（sacral bone fracture）
+> 骨盆腔中出現**牙齒狀鈣化**與**脂肪透亮區** → 畸胎瘤；年輕女性急性下腹痛要想到**合併扭轉**。
+
+@六/110-2#74|A 〔影像題〕
+37歲女性，下腹部電腦斷層檢查呈現如圖，箭號所指之敘述何者最為可能？
+A. 囊腺瘤（cystadenoma）
+B. 子宮肌瘤（myoma）
+C. 畸胎瘤（teratoma）
+D. 膀胱瘤（bladder tumor）
+> 薄壁、大型、單房或少分隔、**沒有實質結節**的卵巢囊性腫瘤 → 囊腺瘤（serous 或 mucinous）。
+> 惡性徵象：**厚分隔、壁結節/實質成分且會顯影**、腹水、腹膜轉移。
+
+@六/112-2#72|D 〔影像題〕
+26歲女性病人，因下腹痛及發燒接受電腦斷層檢查（如附圖）。最可能之診斷為何？
+A. 巧克力囊腫（chocolate cyst）
+B. 卵巢癌（ovarian cancer）
+C. 畸胎瘤（teratoma）
+D. 輸卵管卵巢膿瘍（tubo-ovarian abscess）
+> 年輕女性、發燒、下腹痛，CT 見附件區**多房、厚壁、壁顯影**的囊性腫塊，周圍脂肪發炎 → **TOA**（PID 的併發症）。治療：抗生素 ± 經皮引流。
+
+@六/113-1#74|B 〔影像題〕
+37 歲女性病人經電腦斷層檢查，發現影像中箭號所指處有結腸肝彎處腫瘤阻塞，合併右側卵巢多囊性腫瘤，下列有關卵巢的診斷何者最恰當？
+A. cystadenoma
+B. Krukenberg tumor
+C. endometrioma
+D. dermoid cyst
+> 消化道原發癌合併卵巢腫瘤 → **Krukenberg tumor**（卵巢轉移，印戒細胞）。
+> - 原發：**胃癌**最常見，其次大腸癌
+> - 常**雙側**、以實質為主
+> - 婦女發現雙側卵巢實質腫塊 → 要找消化道原發
+
+@六/113-2#73|C 〔影像題〕
+45歲女性病人到醫院做健康檢查，腹部X光片顯示骨盆腔病變如圖示；進一步進行經陰道超音波檢查，結果發現異常如圖示。最可能的診斷為何？
+A. 骨盆腔發炎性疾病（pelvic inflammatory disease）
+B. 子宮內避孕器（intrauterine contraceptive device）
+C. 子宮類纖維瘤（uterine fibroid or leiomyoma）
+D. 子宮內膜癌（endometrial carcinoma）
+> 骨盆中線**爆米花狀（popcorn）粗鈣化** + 超音波見子宮內邊界清楚的低回音腫塊並帶聲影 → **鈣化的子宮肌瘤**（退化後鈣化，多見於停經前後）。
+
+@六/115-1#74|A 〔影像題〕
+65 歲女性病人因腹痛接受腹部Ｘ光檢查如附圖。最可能之診斷為何？
+A. 子宮肌瘤（uterine myoma）
+B. 輸卵管卵巢膿瘍（tubo-ovarian abscess）
+C. 子宮頸癌（cervical cancer）
+D. 卵巢癌（ovarian cancer）
+> 同上：老年女性骨盆中線的大型粗鈣化腫塊 → **鈣化肌瘤**。卵巢癌的鈣化多為細小沙粒體（psammoma，漿液性癌），X 光不易看見。
+
+@六/114-1#73|C 〔影像題〕
+28 歲女性主訴腹部突然劇痛，注射顯影劑後電腦斷層檢查呈現如圖，箭號所指之病灶，下列何項診斷最不可能？
+A. 異位妊娠破裂
+B. 腹腔血腫
+C. 子宮內膜異位
+D. 急性輸卵管破裂出血
+> 育齡女性突發腹痛，CT 見骨盆腔**高密度積血（hemoperitoneum）**或活動性出血 → 先想子宮外孕破裂、黃體破裂。
+> - **sentinel clot sign**：最高密度的血塊位於出血源附近
+> - 子宮內膜異位不會造成急性大量腹腔出血
+
+## 八、肌肉骨骼
+### 骨折與外傷
+
+@四/113-2#75|C
+有關肘關節附近骨折的X光片敘述，下列何者最適當？
+A. 肱骨遠端前脂肪墊向前移位時，若無明顯可見骨折線，則可完全排除骨折
+B. 骨折後一星期左右常出現高密度骨質區域
+C. 不明顯且無位移的骨折，在受傷後一星期左右可能較為明顯可見
+D. 骨折固定後，在骨釘旁出現的低密度區域相當常見，只需觀察
+> **隱匿性骨折**：骨折線邊緣骨吸收後，約 **7–10 天**會變明顯 → 臨床懷疑時要追蹤 X 光，或做 MRI/CT（例：scaphoid）。
+> - 前脂肪墊上抬（**sail sign**）或**看得到後脂肪墊** = 關節積液 → 即使沒看到骨折線也要當作隱匿性骨折處理（成人：橈骨頭；兒童：髁上骨折）
+> - **骨釘周圍出現透亮帶 = 鬆脫或感染**
+
+@五/112-2#72|D 〔影像題〕
+病人跌倒後被送到急診室，左手肘劇烈疼痛且無法活動。他的左手肘X光片側面照的影像如圖所示，下列敘述何者最恰當？
+A. 可明顯發現肱骨（humerus）骨折
+B. 可明顯發現橈骨（radius）骨折
+C. 生長板（growth plate）尚未癒合
+D. 可明顯發現關節積液（joint effusion）
+> 肘關節側面照見前脂肪墊上抬（sail sign）與**後脂肪墊**出現 → **關節積液**，提示有隱匿性骨折。
+
+@五/115-2#72|C 〔影像題〕
+35 歲男性病人跌倒後被送到急診室，左肩劇烈疼痛且肩膀無法活動。他的左肩電腦斷層橫切面影像如圖所示，下列關於病況的敘述何者最恰當？
+A. 這是肩盂肱關節（glenohumeral joint）最常見的脫臼
+B. 這類病患肩盂前部（anterior glenoid）會比肩盂後部（posterior glenoid）更容易受到損傷
+C. 這類病患未治療前，肩部無法做出外轉（external rotation）的動作
+D. 這類病患大部分都需要緊急開刀
+> 軸狀 CT 見肱骨頭位於關節盂**後方** → **後脫臼**。
+> - 原因：癲癇、電擊、跌倒
+> - 手臂固定在**內轉**、**無法外轉**
+> - AP X 光：**light bulb sign**、**trough line**（reverse Hill-Sachs）、empty glenoid（rim sign）；易漏診，需 axillary/Y view 或 CT
+> - 後盂唇與後關節盂受損（reverse Bankart）
+> - 多數以閉鎖復位處理
+
+@五/112-1#73|B 〔影像題〕
+20歲男性病人因車禍左髖關節腫痛。圖為本次就診之左髖關節X光攝影及電腦斷層影像。最可能的診斷為何？
+A. anterior hip fracture-dislocation
+B. posterior hip fracture-dislocation
+C. heterotopic ossification following dislocation
+D. avascular necrosis of femoral head
+> **髖關節後脫臼合併髖臼後壁骨折**：
+> - 機轉：**dashboard injury**（屈髖屈膝時膝前方受力）
+> - 姿勢：屈曲、內收、內轉、縮短
+> - 併發症：**坐骨神經**損傷、**股骨頭 AVN**（6 小時內復位）
+> - 前脫臼（約 10%）：外展、外轉
+
+@五/114-2#73|A 〔影像題〕
+20 歲男性病人因打球摔傷，膝部疼痛接受電腦斷層檢查，發現脛骨近端有骨折如圖。最可能合併下列何者傷害？
+A. 前十字韌帶（anterior cruciate ligament）
+B. 後十字韌帶（posterior cruciate ligament）
+C. 內側副韌帶（medial collateral ligament）
+D. 臏韌帶（patellar ligament）
+> 脛骨近端**外側平台邊緣撕脫骨折（Segond fracture）**或**脛骨棘撕脫**（兒童較多）→ 高度相關 **ACL 斷裂**。
+> - **Reverse Segond**（內側）→ PCL
+> - Arcuate sign（腓骨頭撕脫）→ 後外側角
+
+@六/110-1#73|C 〔影像題〕
+20歲男性病患膝關節受傷，接受膝部X光及磁振造影檢查如圖，下列何者診斷為錯誤？
+A. 病人有anterior cruciate ligament tear
+B. 病人有bone contusion
+C. 病人有lateral meniscal tear
+D. X光可看到Segond fracture
+> **ACL 斷裂的 MRI**：
+> - 韌帶不連續、走向異常
+> - **pivot-shift 骨挫傷**：股骨外髁 + 脛骨外側平台後方
+> - 脛骨前移
+> - X 光：Segond fracture
+> 本題影像沒有外側半月板撕裂。O'Donoghue unhappy triad 為 ACL + MCL + **內側**半月板。
+
+### 骨腫瘤
+
+@五/114-1#73|C 〔影像題〕
+附圖是一位13歲女性脛骨骨肉瘤（osteosarcoma）的膝部X光影像，箭頭所指的影像表現是下列何者？
+A. 遊動體（loose body）
+B. 軟組織鈣化（soft tissue calcification）
+C. 骨膜反應（periosteal reaction）
+D. 骨折（fracture）
+> **惡性/侵襲性骨膜反應**：**Codman triangle**、**sunburst（hair-on-end）**、onion skin（層狀，Ewing 常見）。
+> 骨肉瘤：青少年長骨**幹骺端**（膝周最多）、混合溶骨/成骨、軟組織腫塊內有骨樣基質。
+
+@五/113-1#74|C 〔影像題〕
+14 歲女性病人主訴右肩痠痛約半年，肩部 X 光片如圖，最可能的診斷為何？
+A. bone metastasis
+B. lymphoma
+C. osteogenic sarcoma
+D. chondrosarcoma
+> 青少年**肱骨近端幹骺端**侵襲性病灶，伴隨**骨樣基質（雲絮狀成骨）**與骨膜反應 → osteosarcoma（第二常見部位是肱骨近端）。軟骨肉瘤多見於 > 40 歲（環弧狀鈣化）；轉移多見於 > 40 歲。
+
+@五/110-1#74|A 〔影像題〕
+23歲男性無特殊病史，近二個月來，他覺得舉重物時右髖部附近會痛，附圖為X光攝影，最可能的診斷為何？
+A. fibrous dysplasia
+B. chondroblastoma
+C. osteogenic sarcoma
+D. eosinophilic granuloma
+> **纖維性骨失養**：
+> - 髓腔內膨脹性病灶，**毛玻璃基質（ground-glass）**、硬化邊緣
+> - 股骨近端反覆微骨折 → **shepherd's crook deformity**
+> - 多骨型 + 咖啡牛奶斑 + 性早熟 = **McCune-Albright**（GNAS）
+> - 鑑別：chondroblastoma 位於**骨骺**
+
+### 關節、骨壞死與軟組織
+
+@五/113-2#74|D 〔影像題〕
+57歲女性雙手多處關節腫痛，雙手X光檢查如附圖，最可能的診斷為何？
+A. gouty arthritis
+B. osteoarthritis
+C. septic arthritis
+D. rheumatoid arthritis
+> | | 典型 X 光表現 |
+> |---|---|
+> | **RA** | **對稱**侵犯 MCP、PIP、腕；**關節周圍骨質疏鬆**；**邊緣侵蝕（marginal erosion）**；均勻關節腔變窄；尺側偏移 |
+> | **OA** | 侵犯 DIP、PIP、第一 CMC；骨刺、軟骨下硬化；Heberden/Bouchard 結節 |
+> | **Gout** | 邊緣懸垂的**打洞樣侵蝕（overhanging edge）**；關節腔保留；tophi |
+
+@三/115-1#74|D 〔影像題〕
+34 歲男性長期在風濕免疫科就診，最近開始抱怨左手腕疼痛，醫師告知手腕的月狀骨（lunate bone）有異常。病人的手腕 X 光片影像如圖所示，下列何者最可能造成月狀骨影像之異常？
+A. 退化性關節炎（osteoarthritis）
+B. 類風濕性關節炎（rheumatoid arthritis）
+C. 痛風性關節炎（gouty arthritis）
+D. 缺血性壞死（avascular necrosis）
+> 月狀骨**硬化、塌陷、碎裂** → **Kienböck disease**（月狀骨缺血性壞死）。
+> - 危險因子：**negative ulnar variance**、長期**類固醇**（風免病人）、SLE
+> - MRI T1 低訊號最早出現
+
+@五/115-1#74|A 〔影像題〕
+49 歲男性，長期酗酒，近 3 個月來開始覺得左髖部附近疼痛。附圖為 X 光及磁振造影（T1WI）影像，最可能的診斷為何？
+A. avascular necrosis of the femoral head
+B. severe osteoarthritis of the hip
+C. osteogenic sarcoma of the femur
+D. eosinophilic granuloma of the femur
+> **股骨頭 AVN**：
+> - 危險因子：**酒精、類固醇**、SLE、鐮刀型貧血、潛水夫病、外傷
+> - MRI 最敏感：T1 上**蜿蜒的低訊號帶**；T2 **double line sign**
+> - X 光晚期：**crescent sign**（軟骨下骨折）→ 股骨頭塌陷
+> - 分期：Ficat、ARCO
+
+@六/115-2#73|B 〔影像題〕
+65 歲女性病人主訴慢性膝蓋疼痛且最近症狀加劇，X 光及磁振造影檢查如圖，最可能之診斷為何？
+A. rheumatoid arthritis（RA）
+B. spontaneous osteonecrosis of knee（SONK）
+C. pigmented villonodular synovitis（PVNS）
+D. osteogenic sarcoma（OGS）
+> **SONK**（現多視為**軟骨下骨質不足性骨折**）：
+> - 典型病人：老年女性、骨質疏鬆，常合併內側半月板後根撕裂
+> - 部位：**股骨內髁承重面**
+> - 症狀：突發劇痛
+> - MRI：軟骨下低訊號線 + 大範圍骨髓水腫
+> - 鑑別：PVNS 為**含鐵血黃素 → T2/GRE 低訊號（blooming）**、反覆血性積液
+
+@六/113-2#74|A
+下列有關分離性骨軟骨炎（osteochondritis dissecans）的敘述，何者最不適當？
+A. 常見於70歲以上的男性，且合併股骨頭部缺血性壞死
+B. 可出現關節囊內骨小塊游離
+C. 磁振造影可協助診斷
+D. 常見於中學生且侵犯踝關節
+> **OCD**：**青少年**運動者軟骨下骨與軟骨分離。
+> - 部位：**股骨內髁外側面（最常見）**、距骨頂、肱骨小頭（投手）
+> - 可形成游離體
+> - MRI：碎片後方出現 T2 高訊號線 = 不穩定
+
+@六/115-2#72|B 〔影像題〕
+54 歲女性病人左肩疼痛約 2 個月，經左肩關節 X 光及左肩超音波檢查如附圖，最可能之診斷為何？
+A. 肩旋轉環帶破裂（rotator cuff tear）
+B. 肩旋轉環帶鈣化性肌腱變性（calcific tendinosis）
+C. 肩部退化性關節炎（degenerative arthritis）
+D. 肩旋轉環帶外生骨疣（exostosis）
+> X 光見大結節上方肌腱內**不定形鈣化**，超音波見**棘上肌腱內高回音 + 聲影** → 鈣化性肌腱炎（hydroxyapatite）。
+> - 好發 40–60 歲女性，**棘上肌**最常見
+> - 吸收期最痛
+> - 治療：超音波導引 barbotage、ESWT
+
+@六/112-2#74|C 〔影像題〕
+63歲女性病人，主訴右足底疼痛，於起床著地時特別明顯。超音波檢查如圖，上圖為右側足底筋膜連結至跟骨處，下圖為左側足底筋膜連結至跟骨處，最可能診斷為何？
+A. 跟骨骨髓炎（calcaneal osteomyelitis）
+B. 腱鞘囊腫（ganglion）
+C. 足底筋膜炎（plantar fasciitis）
+D. 足底筋膜斷裂（tear of plantar fascia）
+> **足底筋膜炎超音波**：跟骨附著處筋膜**增厚 > 4 mm**、回音變低（與對側比較）。
+> - 臨床：**晨起第一步痛**
+> - X 光可有跟骨骨刺，但與症狀不一定相關
+
+@六/111-1#74|B 〔影像題〕
+43歲男性病人，6個月前中風合併右半側癱瘓，4個月前右側髖部開始腫脹，杜卜勒檢查無深層靜脈栓塞，最近的骨盆X光片如圖，最可能的診斷為何？
+A. 惡性骨肉瘤（osteogenic sarcoma）
+B. 異位性骨化病（heterotopic ossification）
+C. 惡性軟骨肉瘤（chondrosarcoma）
+D. 結核性肉芽腫（tuberculous granuloma）
+> **異位性骨化**：神經損傷（SCI、TBI、中風）或髖關節置換後，軟組織內形成成熟骨。
+> - 部位：**髖 > 膝 > 肘 > 肩**
+> - 影像：**周邊成熟、中央較不成熟（zonal pattern）**；骨肉瘤則中央最緻密
+> - 最早變化：**三相骨掃描**、ALP↑；X 光要 3–6 週後才看得到
+
+@六/111-2#73|B 〔影像題〕
+60 歲男性病患因長期頸部疼痛接受電腦斷層檢查，發現第 3 至第 4 頸椎有一鈣化病灶如圖。其診斷為何？
+A. old vertebral fracture
+B. ossification of the posterior longitudinal ligament
+C. ankylosing spondylitis
+D. tuberculous spondylodiskitis
+> **OPLL**：
+> - **亞洲男性**，好發 **C3–C6**
+> - 矢狀面 CT 見椎體後緣的**條狀骨化**，使椎管狹窄
+> - 可合併 DISH
+> - 可造成 myelopathy
+
+@四/113-2#76|B
+下列敘述何者不是壞死性筋膜炎在影像學上的表現？
+A. 沿著筋膜平面上有液體積存
+B. 如果筋膜可以被顯影劑顯現代表已經壞死
+C. 皮下或軟組織內有氣體積存
+D. 深層筋膜厚度增加
+> **壞死性筋膜炎 CT**：
+> - **深筋膜增厚**、沿筋膜積液
+> - **軟組織氣體**（最特異，但不一定出現）
+> - **壞死的筋膜不顯影**；筋膜仍有顯影表示血流尚存
+> - 本病是臨床診斷，**不可因影像延誤清創**
+
+## 九、小兒放射
+
+@四/110-1#74|B
+下列關於先天性氣管食道瘻管（congenital tracheoesophageal fistula）的敘述，何者正確？
+A. 約有十分之一會合併其他器官先天性畸形
+B. 診斷可根據胃管在上縱膈腔打圈的X光片
+C. 注入少量高滲透壓離子性對比劑對診斷氣管食道瘻管非常必要
+D. 無論有無合併其他器官先天性畸形，氣管食道瘻管病患多具高存活率
+> **食道閉鎖/TEF**：
+> - **鼻胃管在上縱膈盲端捲曲**
+> - 胃腸有氣 → 有遠端瘻管（**type C，約 85%**）；無氣（gasless abdomen）→ 單純閉鎖
+> - **約 50% 合併 VACTERL** 等畸形，預後取決於心臟畸形與出生體重
+> - **禁用高滲透壓顯影劑**（吸入 → 肺水腫/化學性肺炎）
+
+@四/115-1#74|A 〔影像題〕
+出生兩天大的女嬰因嘔吐不止就醫，接受上消化道攝影結果如圖示，下列何者為最可能之診斷？
+A. 中腸旋轉不良
+B. 肥厚性幽門狹窄
+C. 胃食道逆流
+D. 空腸閉鎖症
+> 新生兒**膽汁性嘔吐**要先排除**中腸旋轉不良合併扭轉**（外科急症）。
+> - UGI：**十二指腸–空腸交界（ligament of Treitz）不在脊椎左側**、位置偏低；扭轉時呈 **corkscrew**
+> - 超音波：SMA/SMV 位置顛倒、**whirlpool sign**
+> - 肥厚性幽門狹窄：2–8 週大、非膽汁性噴射狀嘔吐；超音波**肌層 ≥ 3 mm、長度 ≥ 15 mm**
+
+@三/114-2#75|D 〔影像題〕
+12 歲的張小弟，近三日無正常解便，早上媽媽發現他解出黏液狀的排泄物，被家人送到急診室。醫師診察後安排腹部Ｘ光及腹部超音波檢查，如圖所示。最有可能罹患下列何者疾病？
+A. 急性闌尾炎（acute appendicitis）
+B. 疝氣（inguinal hernia）
+C. 惡性大腸癌（malignant colon cancer）
+D. 腸套疊（intussusception）
+> **腸套疊超音波**：**target / doughnut sign**（橫切）、**pseudokidney sign**（縱切），多位於右上腹。
+> - 典型年齡 6 個月–3 歲：ileocolic、特發性，可用**空氣/水灌腸復位**
+> - **年紀較大的兒童（> 5 歲）要找 lead point**（Meckel、淋巴瘤、息肉）
+
+@四/111-1#74|D 〔影像題〕
+懷孕週數20週出生的早產兒，出生後2個月出現腦室擴大，其T2加重磁振造影像可見腦室壁上的低訊號病灶如圖，最可能原因為何？
+A. 先天性巨細胞病毒感染（congenital CMV infection）
+B. 結節硬化症（tuberous sclerosis）
+C. 腦動脈梗塞（cerebral infarction）
+D. 生長質出血（hemorrhage of germinal matrix）
+> **生發基質出血（GMH-IVH）**：**< 32 週早產兒**，尾核頭與視丘交界的室管膜下。
+> - 殘留含鐵血黃素 → T2 低訊號
+> - **出血後水腦**
+> - 篩檢：經前囟超音波；分級 Papile I–IV
+> - 鑑別：CMV 為**腦室周圍鈣化**（T2 也偏低，但呈點狀並合併其他畸形）
+
+@四/110-2#74|A 〔影像題〕
+32 歲女性患者有癲癇、心智遲緩的病史，接受電腦斷層檢查，2 張圖分別是未注射顯影劑的不同切面影像，下列何者是最可能的診斷？
+A. 結節硬化症（tuberous sclerosis）
+B. 神經纖維瘤第一型（neurofibromatosis type 1）
+C. 神經纖維瘤第二型（neurofibromatosis type 2）
+D. 馮希伯－林島氏症候群（von Hippel-Lindau syndrome）
+> **TSC**（TSC1/TSC2）：
+> - 腦部：**室管膜下鈣化結節**、皮質 tubers、**SEGA**（Monro 孔附近 → 水腦）
+> - 臨床三聯徵：癲癇、智能障礙、顏面血管纖維瘤
+> - 其他：腎 AML、心臟橫紋肌瘤、肺 LAM
+
+@四/111-1#75|A 〔影像題〕
+5歲男童因超音波篩檢發現腹部腫瘤，磁振造影T1加權影像如圖示，則該腫瘤位於何處？
+A. 肝臟左外節
+B. 肝臟左內節
+C. 肝臟右前節
+D. 脾臟內
+> 解剖定位題：腫瘤位於**鐮狀韌帶左側**（左外節，segment II/III）。
+> - **左內節（IV）**：鐮狀韌帶與中肝靜脈之間
+> - **右前節（V/VIII）**：中、右肝靜脈之間
+> 兒童肝腫瘤：< 3 歲以 hepatoblastoma 為主（AFP↑）；較大兒童可見 HCC。
+
+@四/111-2#75|D
+關於嬰幼兒斜頸症，下列敘述何者最不恰當？
+A. 嬰兒斜頸症大多為肌肉性斜頸症
+B. 大多發生在右側肌肉
+C. 6 週大以前應安排髖關節超音波檢查
+D. 頸部磁振造影多可見頸長肌纖維化現象
+> **先天性肌肉性斜頸**：
+> - 超音波見 **SCM 內梭形腫塊（fibromatosis colli）**，不必做 MRI，也不是頸長肌
+> - 約 **20% 合併 DDH** → 需髖關節篩檢（超音波 < 4–6 個月）
+> - 治療：伸展復健
+
+@四/112-2#74|D 〔影像題〕
+某病人常抱怨右側髖關節疼痛且走路一拐一拐的。門診的X光片影像如圖所示，下列敘述何者錯誤？
+A. 此疾病好發於青少年
+B. 病灶在股骨頭（femoral head）
+C. 造成此問題的原因為生長板（growth plate）受傷
+D. 建議以保守治療為主，不建議手術治療
+> **SCFE**：
+> - 族群：**肥胖青少年男性**；股骨頭骨骺經生長板向後內滑脫
+> - X 光：**Klein line 不與骨骺相交**（Trethowan sign）、生長板變寬；**frog-leg lateral** 最敏感
+> - 臨床：膝痛也可能來自髖（轉移痛）
+> - 治療：**手術原位螺釘固定**，禁止負重
+
+@四/114-1#75|D 〔影像題〕
+出生 4 個月大的早產兒，因小腸壞死長期使用靜脈營養注射，因雙側踝關節變形所照的 X 光影像如圖示，下列何者為最常見的診斷？
+A. 壞血症（scurvy）
+B. 甲狀腺機能亢進（hyperthyroidism）
+C. 骨質骨髓炎（osteomyelitis）
+D. 佝僂症（rickets）
+> 早產兒 + 長期 TPN（鈣、磷不足）+ 腸道吸收差 → **早產兒代謝性骨病/佝僂症**。
+> - X 光：**幹骺端變寬、杯狀（cupping）、毛邊（fraying）**、骨質減少、骨折
+> - 壞血病（維生素 C）：**Wimberger ring**、白線（Fraenkel line）、骨膜下出血
+
+@四/115-2#75|A
+隱睪症的影像偵測工具中，最先應施行者為何？
+A. 超音波
+B. 腹部 X 光片
+C. 電腦斷層掃描
+D. 磁振造影
+> 隱睪多位於**腹股溝管**，**超音波**可找可觸及邊緣者（無輻射、免鎮靜）。
+> 實務上指引不建議常規影像檢查：**摸不到的睪丸 → 直接腹腔鏡探查**（找睪丸 + 治療）。
+
+## 十、外傷與介入放射
+
+@五/113-1#72|D
+肝臟鈍性創傷（blunt trauma）可能造成的傷害，下列何者最少見？
+A. 肝臟撕裂傷（hepatic lacerations）
+B. 肝臟被膜下血腫（subcapsular hematomas）
+C. 肝臟實質性出血（intraparenchymal hemorrhage）
+D. 肝門靜脈栓塞（portal vein thrombosis）
+> 肝臟鈍傷常見**撕裂傷**（最常見，右葉後段）、被膜下/實質內血腫、活動性出血（**contrast blush**）。
+> 依 AAST 分級，血行動力穩定者多可**保守治療 ± TAE**。門靜脈栓塞罕見。
+
+@五/115-1#72|C
+在施行肝癌（HCC）病人之血管栓塞術時，除了主要的動脈血管供應為左肝或右肝動脈外，偶會發現肝癌存在其他的肝外腫瘤血管供應（extrahepatic blood supply），其中以下列何種血管最常見？
+A. 內乳動脈（internal mammary artery）
+B. 下腸繫膜動脈（inferior mesenteric artery）
+C. 右側橫膈膜下動脈（right inferior phrenic artery）
+D. 網膜動脈（omental artery）
+> **TACE**：HCC 主要由**肝動脈**供血（正常肝實質約 75% 來自門靜脈）。
+> - 位於肝臟裸區或靠近橫膈的腫瘤、反覆 TACE 後，常出現肝外供血
+> - 肝外供血以**右下膈動脈**最常見，其次為網膜、內乳、腎上腺、肋間動脈

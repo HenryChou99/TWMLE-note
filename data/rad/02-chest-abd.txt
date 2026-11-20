@@ -1,0 +1,420 @@
+## 三、胸腔與心血管
+### 肺與縱膈
+
+@三/113-2#75|B
+在胸部電腦斷層，若發現肺結節（lung nodule）具有下列那一個特徵時，最可能是良性的？
+A. 8 mm大小的毛玻璃狀結節（ground-glass nodule）
+B. 12 mm大小的結節出現中央型粗鈣化（central coarse calcification）
+C. 8 mm大小的部分實質結節（part-solid nodule）
+D. 12 mm大小的實質結節（solid nodule）
+> **良性鈣化型態**：瀰漫實心、**中央型**、同心層狀、**爆米花狀**（hamartoma）；**結節內含脂肪**也是 hamartoma 的特徵。
+> 偏心或點狀鈣化不能排除惡性。持續存在的 GGN 或 part-solid 結節要想 **adenocarcinoma spectrum**（AIS/MIA）。
+
+@三/114-1#75|D
+下列何者影像徵象最不傾向於活動性肺結核（active TB）？
+A. 比較系列影像之後，該病灶為新出現的病灶
+B. X 光片影像出現開洞（cavitation）的病灶
+C. 該病灶在 X 光片上出現界線不明確（ill-defined）的徵象
+D. 該病灶鈣化程度明顯，呈現近乎完全鈣化現象
+> - **活動性**：新出現或變大、**開洞**、邊界不清的實質化、**tree-in-bud**（支氣管內散播）、肋膜積液
+> - **陳舊/癒合**：**鈣化**（Ghon complex、Ranke complex）、纖維條索、體積縮小
+> - 好發：上葉尖後段、下葉上段
+
+@三/112-1#75|D
+關於慢性阻塞性肺病（COPD）的影像學表現，下列敘述何者最不恰當？
+A. 可能導致肺部X光片中肺部體積增加
+B. 因肺氣腫可導致肺部血管於X光片中相對稀疏的徵象
+C. 可能呈現支氣管擴張，於X光片中呈現管狀或環狀影的徵象
+D. 胸部電腦斷層檢查無法診斷支氣管擴張
+> **HRCT 是診斷支氣管擴張的標準**：**signet ring sign**（支氣管直徑 > 伴行動脈）、支氣管往周邊沒有變細。X 光可見 **tram-track**、ring shadow。
+> 肺氣腫在 X 光：過度充氣（橫膈變平、胸骨後空間變大）、血管稀疏、bullae。
+
+@五/111-2#74|D
+關於胸腔的轉移性惡性腫瘤，下列敘述何者最恰當？
+A. 幾乎都會合併縱隔及肺門淋巴結轉移且腫大
+B. 基本上轉移至肺部的病灶絕大部分都呈多角型且邊緣不規則，而呈現球型且邊緣平滑者很少見
+C. 肋膜轉移大部分都是單一結節且極少產生肋膜積液
+D. 攝護腺癌轉移至肋骨可為成骨性病灶（osteoblastic lesion）
+> 血行性肺轉移：**多發、圓形、邊緣平滑**，好發於**下肺周邊**，**常不合併**淋巴結腫大。肋膜轉移多為多發結節，常合併惡性肋膜積液。
+> - **成骨性轉移**：**攝護腺癌**、乳癌（混合型）、類癌
+> - 溶骨性轉移：RCC、甲狀腺、肺、多發性骨髓瘤
+
+@五/114-2#72|D
+關於疑似氣胸之胸部 X 光影像，下列敘述何者最不恰當？
+A. 若影像中氣胸不明顯，可請患者吐氣後再照一張胸部後前位（postero-anterior view）X 光影像以協助診斷
+B. 張力性氣胸的特徵包括縱隔（mediastinum）偏移
+C. 橫膈膜反轉（inversion）可發生於張力性氣胸
+D. 張力性氣胸的特徵通常為少量的空氣漏至肋膜腔
+> 張力性氣胸是單向活瓣造成**持續累積的大量氣體** → **縱隔推向對側**、**橫膈下壓或反轉**、肋間變寬，靜脈回流受阻而休克。**是臨床診斷，應立即減壓，不必等 X 光**。
+> 仰臥時氣胸可見 **deep sulcus sign**；吐氣相影像可讓小氣胸較明顯。
+
+@五/115-2#74|B 〔影像題〕
+24 歲女性，因胸部 X 光發現異常，經電腦斷層檢查影像如附圖。下列何者為最可能的診斷？
+A. 主動脈剝離（aortic dissection）
+B. 畸胎瘤（teratoma）
+C. 肺癌（lung cancer）
+D. 神經源性腫瘤（neurogenic tumor）
+> **前縱膈**腫瘤含**脂肪、鈣化（牙齒/骨）、液體** → 成熟性畸胎瘤。
+> | 縱膈分區 | 常見腫瘤 |
+> |---|---|
+> | 前縱膈（4T） | **T**hymoma、**T**eratoma/生殖細胞瘤、**T**hyroid、**T**errible lymphoma |
+> | 中縱膈 | 淋巴結、前腸囊腫 |
+> | 後縱膈 | **神經源性腫瘤** |
+
+### 心臟與大血管
+
+@三/115-2#75|C 〔影像題〕
+下圖為心臟電腦斷層（CT）檢查圖，箭號所指的血管最可能為：
+A. 右冠狀動脈
+B. 左主冠狀動脈
+C. 左前降支冠狀動脈
+D. 左迴旋冠狀動脈（left circumflex artery）
+> 冠狀動脈 CTA 解剖：
+> - **LAD** 走**前室間溝**，分出 diagonal 與 septal 分支
+> - **LCx** 走左房室溝
+> - **RCA** 走右房室溝
+> - LM 起自左冠狀竇、短，分成 LAD 與 LCx
+
+@三/111-2#75|A 〔影像題〕
+39 歲女性，健康檢查時發現有心雜音，進一步做了電腦斷層檢查影像如附圖，最可能的診斷為下列何者？
+A. 開放性動脈導管（patent ductus arteriosus）
+B. 主動脈假性動脈瘤（aortic pseudoaneurysm）
+C. 主動脈瘤（aortic aneurysm）
+D. 主動脈縮窄（coarctation of aorta）
+> **PDA**：連接**降主動脈近端（左鎖骨下動脈遠側）與左肺動脈**的管道；連續性機器樣雜音。
+> 主動脈縮窄則在 ductus 附近狹窄，X 光見 **figure-3 sign**、**rib notching**（第 3–8 肋下緣）。
+
+@三/114-2#74|C
+下列關於主動脈疾病的影像學表現，何者正確？
+A. 主動脈瘤者很少出現主動脈壁鈣化的情形
+B. 一般體表超音波可良好評估主動脈弓及降主動脈情形
+C. 胸主動脈瘤最主要的診斷工具為電腦斷層
+D. 輕微主動脈擴張常可以經由一般胸部或腹部 X 光檢查發現
+> - **CTA** 是胸主動脈瘤與剝離的主要診斷工具（看大小、範圍、分支）
+> - 動脈瘤壁**常有鈣化**
+> - 經胸超音波看不清主動脈弓與降主動脈（TEE 才行）
+> - 腹主動脈瘤篩檢用**腹部超音波**；X 光對輕度擴張不敏感
+
+@五/110-1#73|A 〔影像題〕
+50歲男性至急診就醫，主訴突發性胸痛持續逾半小時，胸部電腦斷層影像如附圖，正確診斷為：
+A. Stanford A型主動脈內皮血腫（Stanford Type A intramural hematoma）
+B. Stanford B型主動脈內皮血腫（Stanford Type B intramural hematoma）
+C. Stanford B型主動脈剝離（Stanford Type B aortic dissection）
+D. DeBakey第三型主動脈剝離（DeBakey Type III aortic dissection）
+> **壁內血腫（IMH）**：
+> - 未打藥 CT 見主動脈壁**新月形高密度增厚**、**沒有 intimal flap**
+> - 侵犯**升主動脈** = Stanford A，處置比照 A 型剝離（手術）
+> - Stanford B 只侵犯左鎖骨下動脈遠側，以內科治療或 TEVAR 為主
+> - DeBakey：I 升 + 降、II 只有升、III 只有降
+
+@五/110-2#73|C 〔影像題〕
+有關下圖的敘述，下列何者錯誤？
+A. 為有靜脈注射含碘顯影劑之冠狀重組之電腦斷層攝影圖
+B. 有呈現心室中隔
+C. 有呈現下行主動脈
+D. 右下胸有腫塊，有呈現肝靜脈
+> 影像判讀題：此冠狀切面在前方，切到心室與心室中隔，**沒有切到後縱膈的降主動脈**。判讀要先確認平面（軸狀、冠狀、矢狀）與有沒有打顯影劑。
+
+@五/111-2#72|D 〔影像題〕
+35 歲男性病人，主訴持續一星期的單側下肢腫脹，但無發燒症狀。雙側下肢靜脈注射顯影劑電腦斷層影像如圖所示，下列關於病況的敘述何者最恰當？
+A. 腫脹的下肢是在右側
+B. 大部分這類病患都需要緊急開刀
+C. 對這種疾病而言，超音波並不適合做為診斷工具
+D. 如果不做適當處置，病患接下來可能會有呼吸困難的症狀
+> CT venography 見股/髂靜脈**充盈缺損** → DVT。
+> - 首選檢查：**加壓超音波**（壓不扁、無血流）
+> - 治療以抗凝為主
+> - 未處置 → **肺栓塞**（呼吸困難）
+> - 左側較常見：**May-Thurner**（右髂動脈壓迫左髂靜脈）
+
+## 四、肝膽胰
+### 肝臟
+
+@三/115-1#75|A
+下列何者不屬於肝門脈系統（portal venous system）？
+A. 肝靜脈（hepatic vein）
+B. 上腸繫膜靜脈（superior mesenteric vein）
+C. 下腸繫膜靜脈（inferior mesenteric vein）
+D. 脾靜脈（splenic vein）
+> 門脈 = **SMV + 脾靜脈**（IMV 多匯入脾靜脈）在胰頸後方匯合，供應肝臟約 75% 血流。**肝靜脈**把肝臟血液排入 **IVC**，屬體循環。
+> 肝臟分段：肝靜脈分隔左右（縱向），門脈分隔上下段（橫向）。
+
+@三/111-1#74|B 〔影像題〕
+45歲的林女士到醫院做健康檢查，超音波掃描時意外發現肝臟右葉有一個約4 cm之腫瘤。Dynamic CT影像如圖。林女士最可能的診斷為何？
+A. 肝細胞癌（hepatocellular carcinoma）
+B. 海綿狀血管瘤（cavernous hemangioma）
+C. 多房性包蟲囊腫（multilocular hydatid cyst）
+D. 膽管癌（cholangiocarcinoma）
+> **血管瘤**：最常見的肝良性腫瘤。動脈期**周邊不連續結節狀顯影**，之後**向心性填滿（centripetal fill-in）**，延遲期與血池同密度。
+
+@三/113-1#75|B
+有關肝內血管瘤（hepatic hemangioma）的影像發現，下列何者為最典型之影像特徵？
+A. 靜脈注射CT影像上呈現早期顯影劑流失（early wash-out pattern）
+B. 靜脈注射CT影像上呈現周圍結節狀顯影及中央顯影劑流入（peripheral nodular enhancement with central fill-in pattern）
+C. 腫瘤於磁振造影T1序列出現高訊號（hyperintense nodule on T1WI）
+D. 腫瘤於磁振造影T2序列出現低訊號（hypointense nodule on T2WI）
+> **肝臟局部病灶的典型影像**：
+> | 病灶 | 典型表現 |
+> |---|---|
+> | 血管瘤 | 周邊結節狀顯影 → 向心性填滿；T1 低、**T2 很亮（light bulb）**；超音波均勻高回音 |
+> | **HCC** | **動脈期顯影 + 門脈/延遲期 wash-out**、capsule |
+> | FNH | 動脈期均勻顯影、**中央疤痕**（T2 亮、延遲顯影）；年輕女性 |
+
+@三/111-1#75|A 〔影像題〕
+62歲的楊先生，罹患B型肝炎已十多年，每年到醫院追蹤檢查。這次醫師為他開立電腦斷層掃描，發現有異常如圖示。則楊先生最有可能罹患：
+A. 肝硬化（liver cirrhosis）
+B. 脂肪肝（fatty liver）
+C. 猛爆性肝炎（fulminant hepatitis）
+D. 肝血色沉著（hemochromatosis）
+> **肝硬化**：
+> - 肝臟表面**結節狀**
+> - **尾葉與左外葉肥大、右葉與左內葉萎縮**（尾葉/右葉比 > 0.65）
+> - 門脈高壓：**脾腫大**、腹水、側枝循環
+> 脂肪肝在 CT 上密度低於脾臟；血色沉著症肝臟密度上升。
+
+@三/110-1#75|D 〔影像題〕
+下列兩張圖為肝之超音波掃描，以下相關敘述何者錯誤？
+A. 肝內有實質性腫塊
+B. 有呈現膽結石
+C. 箭號所指為肝門靜脈
+D. 若肝門靜脈內有血栓（portal vein thrombosis），最常見的診斷是膽管癌
+> 肝內腫塊合併**門靜脈血栓**，最常見的是 **HCC 的腫瘤栓塞（tumor thrombus）**（栓子會顯影、有動脈血流、使門脈膨大）；其次為肝硬化的 bland thrombus。
+
+@五/113-2#72|A
+下列何者為浸潤性肝癌（infiltrative type hepatocellular carcinoma）最常合併之影像發現？
+A. 門靜脈腫瘤栓塞（portal vein tumor thrombosis）
+B. 腫瘤破裂合併急性腹腔出血（tumor rupture with acute hemoperitoneum）
+C. 肝動脈假性動脈瘤（hepatic artery pseudoaneurysm）
+D. 主動脈旁淋巴結轉移（para-aortic lymph nodes metastases）
+> 浸潤型 HCC 邊界不清、在硬化肝中不易看出，**門靜脈腫瘤栓塞**的比例非常高，常常是它最明顯的線索。
+
+@五/110-2#74|C 〔影像題〕
+64歲女性，因急性右上腹部劇痛，掛急診求醫，腹部CT和血管攝影影像如附圖，則最可能的診斷為下列何者？
+A. 肝膿瘍
+B. 分布不均脂肪肝
+C. 肝細胞癌破裂
+D. 肝血管瘤破裂
+> 肝表面腫瘤合併**腹腔積血**（高密度腹水）與**顯影劑外滲**，血管攝影見腫瘤染色 → **HCC 破裂**。處置：**緊急 TAE**（經動脈栓塞）止血。
+
+@五/113-1#73|D 〔影像題〕
+下圖為巴德–吉亞利症候群（Budd-Chiari syndrome）病人的肝臟電腦斷層影像，此疾病是指肝臟何種結構發生阻塞？
+A. 膽管（biliary duct）
+B. 門靜脈（portal vein）
+C. 肝動脈（hepatic artery）
+D. 肝靜脈（hepatic vein）
+> **Budd-Chiari**：**肝靜脈或肝上段 IVC 阻塞**。
+> - **尾葉肥大**（尾葉靜脈直接流入 IVC，代償）
+> - 肝臟呈斑駁狀（**nutmeg**）顯影；急性期為中央顯影、周邊不顯影
+> - 三聯徵：腹痛、肝腫大、腹水
+> - 危險因子：骨髓增生性疾病、高凝狀態
+
+### 膽道
+
+@三/110-2#75|A 〔影像題〕
+下圖為右上腹部超音波掃描，對於箭號所指之處的相關敘述，何者錯誤？
+A. 和Rokitansky-Aschoff憩室無關
+B. 病灶有伴隨假影
+C. 假影的呈現有助於病灶的診斷
+D. 最可能診斷為膽囊腺肌症伴隨膽固醇結晶
+> **膽囊腺肌症（adenomyomatosis）**：
+> - 膽囊壁增厚，內有擴張的 **Rokitansky-Aschoff sinuses**
+> - 竇內膽固醇結晶 → **comet-tail（ring-down）artifact**，有助診斷
+> - MRCP：**pearl necklace sign**
+
+@五/111-1#73|D 〔影像題〕
+下圖為右上腹部超音波掃描圖，最可能的診斷為：
+A. 產氣性膽囊炎
+B. 產氣性肝膿瘍
+C. 膽囊癌
+D. 膽囊結石
+> 膽結石超音波：膽囊內**高回音 + 後方清楚聲影（clean acoustic shadow）**，**隨姿勢移動**。
+> - **WES sign**（wall–echo–shadow）：膽囊塞滿結石
+> - 產氣性膽囊炎：dirty shadow、壁內氣體
+> - 急性膽囊炎：壁增厚、膽囊周圍積液、**sonographic Murphy sign**
+
+@三/112-2#75|C 〔影像題〕
+下圖為肝臟超音波掃描，最可能的診斷為：
+A. 肝臟之蛔蟲疾病（hepatic ascariasis）
+B. 原發性肝細胞癌（hepatocellular carcinoma）
+C. 氣膽（pneumobilia）
+D. 肝內膽管結石（intrahepatic bile duct stones）
+> **氣膽**：沿膽管分布、偏**中央（肝門）**的線狀高回音，伴隨 **dirty shadow / reverberation**，會隨姿勢移動。
+> - 成因：sphincterotomy、膽腸吻合、膽石性腸阻塞（Rigler triad）
+> - 鑑別：**門脈氣體**偏周邊，見於腸缺血、NEC
+
+@五/112-2#74|A 〔影像題〕
+45歲女性因飯後右上腹部不適到醫院求診，腹部X光片顯示病變如圖。此病人最可能之初診斷為下列何者？
+A. 膽結石（gallbladder stones）
+B. 總膽管內嵌塞結石（common bile duct impacted stones）
+C. 腎結核病（renal tuberculosis）
+D. 腎結石（renal stones）
+> 右上腹成群、**多面體（faceted）且邊緣層狀鈣化**的不透光影 → 膽囊結石。
+> - **只有約 10–15% 的膽結石**在 X 光上可見（多為膽固醇石）；腎結石約 90% 可見
+> - 側面照：膽結石在脊椎**前方**，腎結石與脊椎重疊
+
+### 胰臟
+
+@三/113-1#74|A
+下列何者最有機會出現腹部正中央的鈣化（central abdominal calcification）？
+A. 慢性胰臟炎（chronic pancreatitis）
+B. 膀胱結石（bladder stone）
+C. 臀部因藥物注射產生的鈣化（calcifications in buttocks from injections）
+D. 髂靜脈或股靜脈的鈣化（calcifications in iliac or femoral vessels）
+> **慢性胰臟炎**：在 **L1–L2 高度**沿胰臟走向**橫向分布的斑駁鈣化**，最常見於酒精性。其餘選項都位於骨盆。
+
+@五/111-2#73|C
+慢性胰臟炎的鈣化表現（calcifications of the chronic pancreatitis），下列敘述何者最不恰當？
+A. 會出現斑駁鈣化（spotted or mottled calcification）
+B. 在腰椎第一節和第二節的高度，鈣化以水平方向分布
+C. 慢性胰臟炎的鈣化在Ｘ光影像上幾乎都清晰可見
+D. 相較於Ｘ光影像，電腦斷層影像較容易辨識鈣化
+> 鈣化只見於部分病人，X 光約 **30%** 可見（不是「幾乎都可見」）；**CT 對鈣化最敏感**。
+> 其他表現：主胰管**念珠狀擴張（chain of lakes）**、胰臟萎縮、假性囊腫。
+
+@三/112-2#74|A
+有關下列疾病所選用的影像學檢查，其中何者最不適宜？
+A. 鋇劑吞嚥食道攝影（barium esophagogram）可以偵測急性胰臟炎（acute pancreatitis）
+B. 電腦斷層（CT）或超音波（US）可以用於胰臟假性囊腫（pancreatic pseudocyst）的追蹤
+C. 鋇劑吞嚥食道攝影（barium esophagogram）可用於偵測食道阻塞或吞嚥困難（dysphagia）
+D. 注射對比劑的腹部電腦斷層檢查（CT of abdomen with contrast）可用於偵測嚴重胰臟炎（pancreatitis）
+> 急性胰臟炎靠臨床 + 酵素診斷。**顯影 CT** 用來評估壞死、併發症與嚴重度（**CT severity index**；發病 **72 小時後**做最準）；超音波找膽結石。鋇劑食道攝影看不到胰臟。
+
+@五/112-1#72|C
+關於急性胰臟炎之晚期併發症（late complication），下列何者最少見？
+A. 胰管阻塞（pancreatic duct obstruction）
+B. 後腹腔膿瘍（retroperitoneal abscess）
+C. 肝動脈假性動脈瘤（hepatic artery pseudoaneurysm）
+D. 假性囊腫形成（pseudocyst formation）
+> 晚期（> 4 週）：**假性囊腫**（最常見）、walled-off necrosis、感染/膿瘍、胰管中斷或阻塞、靜脈血栓（脾靜脈）、**假性動脈瘤**。
+> 假性動脈瘤最常發生在**脾動脈**，其次為 GDA、胰十二指腸動脈；**肝動脈最少**。
+
+@三/115-2#74|A
+急性胰臟炎（acute pancreatitis）的晚期併發症，下列何者最不常見？
+A. 膽結石的產生（gallbladder stone formation）
+B. 胰管阻塞（pancreatic duct obstruction）
+C. 胰臟假性囊腫的產生（pseudocyst formation）
+D. 後腹腔膿瘍（abscess）
+> **膽結石是急性胰臟炎的病因**（最常見病因之一），不是併發症。晚期併發症同上題。
+
+## 五、消化道與急腹症
+
+@三/112-1#74|A
+有關上腸胃道鋇劑檢查，下列敘述何者最不恰當？
+A. 主動脈弓會在食道右側形成壓迹
+B. 左主支氣管會在食道左側形成壓迹
+C. 胃食道交界可在食道穿過橫膈膜的位置辨認
+D. 吞嚥會引發食道蠕動波，推動食糜往下排空
+> 食道正常壓迹（由上而下）：**主動脈弓（左側）→ 左主支氣管（左前）→ 左心房（前方）**。
+> 右側壓迹要想**右側主動脈弓**或 aberrant right subclavian artery（後方壓迹）。
+
+@三/110-1#74|C
+關於食道裂孔疝氣（hiatal hernia），下列何者錯誤？
+A. 係指部分胃臟滑脫至膈肌食道裂孔之上方
+B. 分滑型（sliding）疝氣和食道旁（paraesophageal）疝氣
+C. 食道旁疝氣較為常見
+D. 滑型疝氣係指食道胃連接（gastroesophageal junction）上移至胸腔
+> **滑動型（type I）約占 95%**：GEJ 上移，合併 GERD。
+> **食道旁型（type II）**：GEJ 位置正常，胃底從旁邊疝入，易扭轉、絞窄 → 傾向手術。
+> X 光可見心臟後方的氣液面。
+
+@六/113-1#72|B
+下列何者最需要安排吞嚥影像檢查？
+A. 80 歲女性偶發吞嚥不順，無明顯惡化
+B. 60 歲男性吞嚥固體食物時容易卡住，且症狀逐漸加劇
+C. 新生兒溢奶
+D. 20 歲女性突發胸悶灼熱感
+> **固體食物漸進性吞嚥困難** → 機械性阻塞（**食道癌**、狹窄），需鋇劑食道攝影或內視鏡。
+> 固體與液體同時困難 → 運動障礙（achalasia）。新生兒溢奶多屬生理性逆流。
+
+@五/111-1#72|A 〔影像題〕
+23歲男性，主訴吞嚥困難與經常性吸入性肺炎，上消化道鋇劑攝影檢查如下圖，最有可能的診斷為：
+A. achalasia
+B. gastroesophageal reflux disease（GERD）
+C. gastric lymphoma
+D. hiatal hernia
+> **Achalasia**：
+> - 食道擴張、**遠端平滑尖細的 bird's beak**、蠕動消失、鋇劑滯留（可見氣液面）
+> - X 光：**胃泡消失**、縱膈變寬
+> - 確診：**manometry**（LES 鬆弛不全）
+> - 鑑別 **pseudoachalasia**（賁門癌）：老年、症狀短、體重快速下降
+
+@三/111-2#74|A
+十二指腸潰瘍在癒合過程中會造成十二指腸球部的變形，此變形符合下列何者？
+A. 幸運草（三葉草）變形（cloverleaf deformity）
+B. 雙壁徵象（double wall sign）
+C. 足球徵象（football sign）
+D. 倒 V 徵象（inverted V sign）
+> 慢性十二指腸潰瘍反覆結疤 → 球部 **cloverleaf deformity**。
+> B、C、D 都是**仰臥 X 光的氣腹徵象**：Rigler（double wall）、football、倒 V（外側臍韌帶）。
+
+@五/110-2#72|B 〔影像題〕
+一主訴腹部急性劇痛而且身體虛弱的病人求診。仰臥胸部X光檢查和側臥腹部X光檢查（cross-table, decubitus view）呈現如二附圖。下列那一項初診斷最正確？
+A. gas-forming liver abscess
+B. perforated peptic ulcer
+C. acute cholecystitis
+D. right pneumothorax
+> 橫膈下或肝臟外側出現**游離氣體（pneumoperitoneum）** → 消化性潰瘍穿孔。
+> - 最敏感：**直立胸部 X 光**（約 1 mL 即可見）或 **left lateral decubitus**（氣體聚在肝臟外側）
+> - CT 最敏感
+> - 鑑別：**Chilaiditi sign**（結腸介於肝臟與橫膈之間，可見腸壁皺摺）
+
+@三/113-2#74|C 〔影像題〕
+56歲男性病患，過去有高血壓病史，突然有發燒、嘔吐與腹痛的症狀，緊急安排了電腦斷層檢查影像如附圖，下列何者為最可能的診斷？
+A. 盲腸炎（acute appendicitis）
+B. 主動脈剝離（aortic dissection）
+C. 上腸繫膜靜脈血栓（superior mesenteric vein thrombosis）
+D. 大腸憩室炎（colonic diverticulitis）
+> 門脈期 CT 見 **SMV 管腔內低密度充盈缺損**，周圍腸繫膜水腫、腸壁增厚 → SMV 血栓（腸繫膜靜脈缺血）。危險因子：高凝狀態、肝硬化、腹腔感染、腫瘤。
+
+@三/110-2#74|D
+有關大腸扭轉的敘述，下列何者最合理？
+A. 大腸扭轉最常發生在兒童
+B. 大腸扭轉最好發於盲腸
+C. 大腸扭轉常合併腹股溝疝氣
+D. 大腸扭轉可利用電腦斷層掃描加以診斷
+> **乙狀結腸扭轉最常見**（約 60–75%）：老人、長期臥床、慢性便秘、精神/神經疾病。其次為盲腸。
+> 診斷：X 光 **coffee bean sign**、鋇劑 **bird's beak**、CT **whirl sign**。
+
+@五/114-1#72|C 〔影像題〕
+75歲老人由療養院送來，主訴腹脹，腹部X光片如圖（A），下消化道鋇劑攝影如圖（B），則其最可能的診斷為下列何者？
+A. 無力性腸阻塞（adynamic ileus）
+B. 上腸繫膜動脈症候群（superior mesenteric artery syndrome）
+C. 乙狀結腸扭轉（sigmoid volvulus）
+D. 近端腸環症候群（afferent loop syndrome）
+> 療養院老人、腹脹：
+> - X 光：極度擴張的倒 U 形乙狀結腸 → **coffee bean sign**，頂端指向右上腹
+> - 鋇劑灌腸：扭轉處尖細 → **bird's beak**
+> - 無腹膜炎 → 先以**內視鏡減壓**，之後擇期乙狀結腸切除
+
+@五/114-2#74|A 〔影像題〕
+病人主訴腹脹、反胃及腹部悶痛；腹部電腦斷層檢查呈現如附圖。下列何項初診斷最恰當？
+A. volvulus
+B. intussusception
+C. parasite infection
+D. acute appendicitis
+> 腸繫膜血管與腸管繞軸旋轉 → **whirl sign** = 扭轉。
+> 腸套疊在 CT 上是 **target / sausage sign**（腸中有腸、夾著腸繫膜脂肪）。
+
+@五/113-2#73|C 〔影像題〕
+46歲女性病人主訴於月經過後下腹部疼痛，尤其右下腹部疼痛約3天，身體診察右下腹部有壓痛現象，右下腹部超音波檢查如圖，最可能的診斷為何？
+A. 子宮發炎（uterus inflammation）
+B. 卵巢膿瘍（ovary abscess）
+C. 闌尾炎（appendicitis）
+D. Crohn氏症（Crohn's disease）
+> **闌尾炎超音波**：
+> - **壓不扁的盲端管狀構造**，外徑 **> 6 mm**
+> - 橫切面 target sign、**糞石**（後方聲影）
+> - 周邊脂肪發炎變亮
+> - 兒童與孕婦首選超音波；成人以 **CT** 為主
+
+@五/111-1#74|B 〔影像題〕
+下圖為中年男性所呈現的後腹膜腔腫瘤，最不可能的診斷為：
+A. 淋巴瘤
+B. 源自多形惡性神經膠質瘤（glioblastoma）之轉移腫瘤
+C. 未分化多形性肉瘤（undifferentiated pleomorphic sarcoma）
+D. 精細胞瘤（seminoma）
+> 中年男性後腹腔腫塊：
+> - 淋巴瘤：包住血管但不壓迫
+> - 肉瘤：脂肪肉瘤最常見，其次 UPS、平滑肌肉瘤
+> - **睪丸生殖細胞瘤**：轉移到主動脈旁淋巴結（腎門高度），要記得檢查睪丸
+> **GBM 極少發生顱外轉移**。
